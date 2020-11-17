@@ -20,7 +20,7 @@ import datetime
 
 # -- Project information -----------------------------------------------------
 
-project = "UMEP Workshop"
+project = "MUHD"
 year_today=datetime.date.today().isocalendar()[0]
 list_author=['Sue Grimmond','Kit Benjamin','William Morrison','Ting Sun']
 author = ' and '.join([', '.join(list_author[:-1]),list_author[-1]])
