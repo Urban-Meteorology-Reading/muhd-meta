@@ -11,3 +11,4 @@ Here is the root page for LUMA database.
    :numbered:
 
    sites/SWT
+   sites/RGS
