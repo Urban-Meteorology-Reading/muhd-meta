@@ -1,1 +1,1 @@
-Woodsford Tower in Southwark, London (SWT) is a LUMA observation site that has been in operation as a LUMA since December 2016. The building is owned by Southwark council. Weather data has been collected there by Southwark council since 1999. 
+Woodsford Tower in Southwark, London (SWT) is a LUMA observation site that has been in operation as a LUMA site since December 2016. The building is owned by Southwark council. Weather data has been collected there by Southwark council since 1999. 

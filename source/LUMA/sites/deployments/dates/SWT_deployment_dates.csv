@@ -1,0 +1,15 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+SWT_0,CT25K,LCBR045,Q,ceilometer,CT25K-Q,2016-12-15,2017-11-10
+SWT_1,BLS,T-E-0470,A,scintillometer,BLS Rx,2017-04-06,2020-11-04
+SWT_3,CNR1,00022123,A,single,CNR1,2017-05-18,
+SWT_4,LASMKII,120028,B,scintillometer,SouthwarkLAS,2017-08-25,
+SWT_5,CL31,F2730001,D,ceilometer,CL31-D,2017-11-10,2020-02-18
+SWT_6,WINDSET,123,A,profile_complex,SWTWX_grouping,2017-03-18,
+SWT_7,WINDSET,123,A,profile_complex,SWTWX_grouping,1999-05-10,2017-03-17
+SWT_8,107,1234,A,profile_complex,SWTWX_grouping,2017-03-18,
+SWT_9,107,1234,A,profile_complex,SWTWX_grouping,1999-05-10,2017-03-17
+SWT_10,ARG100,SOUTHWARK_ARG100,B,profile_complex,SWTWX_grouping,2017-03-18,
+SWT_11,ARG100,SOUTHWARK_ARG100,B,profile_complex,SWTWX_grouping,1999-05-10,2017-03-17
+SWT_12,HMP45A,12345,A,profile_complex,SWTWX_grouping,2017-03-18,
+SWT_13,HMP45A,12345,A,profile_complex,SWTWX_grouping,1999-05-10,2017-03-17
