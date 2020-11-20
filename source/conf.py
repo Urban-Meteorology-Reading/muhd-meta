@@ -62,7 +62,6 @@ templates_path = ["_templates"]
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -76,6 +75,10 @@ html_context = {
     "github_version": "master", # Version
     "conf_py_path": "/source/", # Path in the checkout to the docs root
 }
+
+html_css_files = [
+    'custom.css',
+]
 # html_theme = 'guzzle_sphinx_theme'
 # html_theme_path = guzzle_sphinx_theme.html_theme_path()
 # html_theme = "alabaster"
