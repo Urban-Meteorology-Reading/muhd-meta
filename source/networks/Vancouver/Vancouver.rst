@@ -11,7 +11,6 @@ Vancouver
 .. toctree::
    :caption: Vancouver sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

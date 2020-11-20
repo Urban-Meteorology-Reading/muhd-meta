@@ -11,7 +11,6 @@ IndoorLUMA
 .. toctree::
    :caption: IndoorLUMA sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

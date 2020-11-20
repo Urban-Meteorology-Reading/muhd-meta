@@ -11,7 +11,6 @@ Chicago
 .. toctree::
    :caption: Chicago sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

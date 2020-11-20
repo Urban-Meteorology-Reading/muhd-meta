@@ -11,12 +11,13 @@ Welcome to the MUHD meta-data site!
 
 .. toctree::
    :caption: MUHD sites
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
    :glob:
 
-   networks/*
-   instruments/*
+   networks/networks.rst
+   instruments/instruments.rst
+
 
 
 

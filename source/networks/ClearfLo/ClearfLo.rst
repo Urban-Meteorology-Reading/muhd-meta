@@ -11,7 +11,6 @@ ClearfLo
 .. toctree::
    :caption: ClearfLo sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

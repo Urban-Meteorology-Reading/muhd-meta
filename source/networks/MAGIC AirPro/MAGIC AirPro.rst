@@ -11,7 +11,6 @@ MAGIC AirPro
 .. toctree::
    :caption: MAGIC AirPro sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

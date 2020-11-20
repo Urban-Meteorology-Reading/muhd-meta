@@ -11,7 +11,6 @@ MexicoCity
 .. toctree::
    :caption: MexicoCity sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

@@ -11,7 +11,6 @@ BLTER
 .. toctree::
    :caption: BLTER sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

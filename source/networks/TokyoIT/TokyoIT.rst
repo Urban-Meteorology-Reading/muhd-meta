@@ -11,7 +11,6 @@ TokyoIT
 .. toctree::
    :caption: TokyoIT sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

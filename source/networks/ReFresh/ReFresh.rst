@@ -11,7 +11,6 @@ ReFresh
 .. toctree::
    :caption: ReFresh sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*

@@ -11,7 +11,6 @@ MetOffice
 .. toctree::
    :caption: MetOffice sites
    :maxdepth: 1
-   :numbered:
    :glob:
 
    sites/*
