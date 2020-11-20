@@ -13,8 +13,10 @@ Welcome to the MUHD meta-data site!
    :caption: MUHD sites
    :maxdepth: 1
    :numbered:
+   :glob:
 
-   LUMA/LUMA
+   networks/*
+   instruments/*
 
 
 
