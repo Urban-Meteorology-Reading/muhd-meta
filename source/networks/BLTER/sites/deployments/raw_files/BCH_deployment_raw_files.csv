@@ -1,0 +1,7 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+411,,10 Hz,instantaneous
+411,,10 Hz,instantaneous
+412,,15 min,average
+413,,15min,average
+432,,15,average

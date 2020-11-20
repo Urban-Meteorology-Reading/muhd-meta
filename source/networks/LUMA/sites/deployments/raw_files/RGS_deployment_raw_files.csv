@@ -1,0 +1,16 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+277,9178745_YYYY_MM_DD.txt,1min,average
+278,../microlite/%m/9178745_%Y-%m-%d.txt,1min,average
+281,../microlite/%m/9178733_%Y-%m-%d.txt,1min,average
+282,CeilometerY/%m/Y%q%m%d%H.DAT,30,average
+283,CeilometerB/%m/B%q%m%d%H.DAT,15,average
+373,CeilometerB/%m/B%q%m%d%H.DAT,15,average
+285,,30 min,instantaneous
+286,,30 min,instantaneous
+293,,30 min,instantaneous
+294,WSN/%m/%d/%Y%m%d_node3.csv,30 min,instantaneous
+297,WSN/%m/%d/%Y%m%d_node4.csv,30 min,instantaneous
+383,CeilometerD/%m/D%q%m%d%H.DAT,15sec,average
+400,WSN/%m/%d/%Y%m%d_node5.csv,15 min,instantaneous
+450,CeilometerX/%m/X%q%m%d%H.DAT,30,average

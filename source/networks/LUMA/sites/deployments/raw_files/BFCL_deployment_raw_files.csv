@@ -1,0 +1,4 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+4,Davis/Daily/%m/%Y%m%d_davis_BFCL.txt,2 sec,instantaneous
+288,WSN/%m/%d/%Y%m%d_node2.csv,30 min,instantaneous

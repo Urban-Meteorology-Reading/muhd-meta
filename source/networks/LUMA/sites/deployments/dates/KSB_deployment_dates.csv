@@ -1,0 +1,5 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+53,:ref:`CSAT3`,0192-2,D,ec,Eddy cov,2015-09-17,2016-02-18
+53,:ref:`LI7500A`,75H-1973,C,ec,Eddy cov,2015-09-17,2016-02-18
+340,:ref:`GILL121R03`,307,A,ec,Eddy cov,2013-03-04,2015-09-17

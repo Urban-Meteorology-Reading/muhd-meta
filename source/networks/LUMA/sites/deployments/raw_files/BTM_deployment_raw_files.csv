@@ -1,0 +1,4 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+94,BTM_XXX_%d%m%y.dt6,30 min,instantaneous
+95,BTM_XXX_%d%m%y.dt6,30 min,instantaneous

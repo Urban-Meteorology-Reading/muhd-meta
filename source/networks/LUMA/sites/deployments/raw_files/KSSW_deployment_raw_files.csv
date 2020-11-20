@@ -1,0 +1,67 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+8,Davis/Daily/%m/%Y%m%d_davis_KSSW2.txt,2 sec,instantaneous
+9,Davis2/Daily/%m/%Y%m%d_davis_KSSW1.txt,2 sec,instantaneous
+28,CR5000/KSSW_RF%y%DOY.dat,1min,
+30,CR5000/KSSW_RF%y%DOY.dat,15 min,
+33,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+395,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+29,CR5000/KSSW_RF%y%DOY.dat,1min,
+31,CR5000/KSSW_RF%y%DOY.dat,15 min,
+32,CR5000/KSSW_RF%y%DOY_%H.dat,5sec,
+394,CR5000/KSSW_RF%y%DOY_%H.dat,5sec,
+34,CR5000/KSSW_RF%y%DOY.dat,1min,
+35,CR5000/KSSW_RF%y%DOY.dat,15 min,
+36,CR5000/KSSW_RF%y%DOY.dat,15 min,
+37,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+396,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+38,CR5000/KSSW_RF%y%DOY.dat,1min,
+39,CR5000/KSSW_RF%y%DOY.dat,15 min,
+40,CR5000/KSSW_RF%y%DOY.dat,15 min,
+41,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+397,CR5000/KSSW_RF%y%DOY_%H.dat,15 min,
+42,ALT_RAD/KSSW_RF%y%DOY.dat,,
+227,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,average
+230,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+231,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+232,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+228,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+229,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+233,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+398,WXT520/%m/WXT%Y%DOY_%H_raw.txt,,
+284,CeilometerR/%m/R%q%m%d%H.DAT,30,average
+321,CR5000/KSSW_RF%y%DOY_%H.dat,15min,
+341,CSAT_Hrly/%m/KSSWFast%y%DOY_%H.txt,0.1,instantaneous
+342,CSAT_Hrly/%m/KSSWFast%y%DOY_%H.txt,0.1,instantaneous
+343,CSAT_Hrly/%m/KSSWFast%y%DOY_%H.txt,0.1,instantaneous
+350,CSAT_Hrly/%m/KSSWCSAT%y%DOY_%H.txt,,
+391,CSAT_Hrly/%m/KSSWCSAT%y%DOY_%H.txt,,
+341,CSAT_Hrly/%m/KSSWFast%y%DOY_%H.txt,0.1,instantaneous
+342,CSAT_Hrly/%m/KSSWFast%y%DOY_%H.txt,0.1,instantaneous
+343,LI7500_Hrly/%m%/KSSWLI7500%y%DOY_%H.txt,0.1,instantaneous
+350,LI7500_Hrly/%m/KSSWLI7500%y%DOY_%H.txt,,
+391,LI7500_Hrly/%m/KSSWLI7500%y%DOY_%H.txt,,
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+407,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+408,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average
+409,KSS_T%y%DOY.dat,1 sec,average

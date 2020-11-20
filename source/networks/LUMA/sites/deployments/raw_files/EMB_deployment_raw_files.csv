@@ -1,0 +1,16 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+80,EMB_123_%d%m%y.dt6,30 min,instantaneous
+89,EMB_126_%d%m%y.dt6,30 min,instantaneous
+81,EMB_123_%d%m%y.dt6,30 min,instantaneous
+90,EMB_126_%d%m%y.dt6,30 min,instantaneous
+82,EMB_126_%d%m%y.dt6,30 min,instantaneous
+91,EMB_126_%d%m%y.dt6,30 min,instantaneous
+92,EMB_126_%d%m%y.dt6,30 min,instantaneous
+83,EMB_126_%d%m%y.dt6,30 min,instantaneous
+84,EMB_121_%d%m%y.dt6,30 min,instantaneous
+85,EMB_122_%d%m%y.dt6,30 min,instantaneous
+86,EMB_120_%d%m%y.dt6,30 min,instantaneous
+87,EMB_120_%d%m%y.dt6,30 min,instantaneous
+88,EMB_163_%d%m%y.dt6,30 min,instantaneous
+93,,,instantaneous

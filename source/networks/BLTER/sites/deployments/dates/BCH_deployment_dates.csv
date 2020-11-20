@@ -1,0 +1,7 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+411,:ref:`RM81000`,RM001,A,ec,Baltimore fluxes,2001-05-23,2006-05-03
+411,:ref:`LI7500`,BCH001,A,ec,Baltimore fluxes,2001-05-23,2006-05-03
+412,:ref:`LI190`,BCH002,A,single,Baltimore PAR,2001-05-23,2006-05-03
+413,:ref:`LWS237`,BCH003,A,single,Baltimore leaf surface wetness,2001-05-23,2006-05-03
+432,:ref:`THERMOCOUPLE`,BCH004,B,single,Baltimore soil temperature,2001-05-23,2006-05-23

@@ -1,0 +1,15 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+135,:ref:`MICROLITE`,9178815,F,indoor,4th floor (incomplete),2013-11-28,2014-03-05
+136,:ref:`MICROLITE`,9178815,F,indoor,(incomplete),2014-03-04,2014-06-23
+161,:ref:`MICROLITE`,9178799,E,indoor,6th floor (incomplete),2014-03-05,2014-05-31
+200,:ref:`MICROLITE`,9178755,B,indoor,-1st floor (incomplete),2013-12-25,2014-06-10
+201,:ref:`MICROLITE`,9178750,L,indoor,-2st floor (incomplete),2014-01-18,2014-06-10
+202,:ref:`MICROLITE`,9178748,P,indoor,3th floor (incomplete),2013-11-29,2014-05-09
+203,:ref:`MICROLITE`,9178744,M,indoor,-2st floor (incomplete),2013-12-25,2014-06-10
+204,:ref:`MICROLITE`,9178739,O,indoor,7st floor (incomplete),2013-12-13,2014-05-28
+205,:ref:`MICROLITE`,9178733,S,indoor,2st floor (incomplete),2013-12-23,2014-06-08
+206,:ref:`MICROLITE`,9178730,A,indoor,1st floor (incomplete),2013-12-14,2014-05-29
+207,:ref:`MICROLITE`,9178729,R,indoor,2st floor (incomplete),2014-03-03,2014-06-09
+208,:ref:`MICROLITE`,9178719,D,indoor,6st floor (incomplete),2014-03-05,2014-05-31
+291,:ref:`MICROLITE`,9178794,N,indoor,Corridor,2016-07-04,2018-08-16

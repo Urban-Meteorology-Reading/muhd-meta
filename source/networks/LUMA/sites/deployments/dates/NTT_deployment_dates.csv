@@ -1,0 +1,4 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+355,:ref:`LASMKII`,120029,A,scintillometer,LAS_MKII_29_NGT_NTT,2012-02-01,2013-02-26
+359,:ref:`LAS150`,60029,A,scintillometer,LAS150_NDT_NTT,2011-10-12,2011-11-03

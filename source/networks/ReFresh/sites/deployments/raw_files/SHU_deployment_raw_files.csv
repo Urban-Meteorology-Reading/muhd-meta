@@ -1,0 +1,4 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+385,/data/its-tier2/micromet/RAW/%Y/Southampton/SHU/WXT/%m/%Y%m%d_WXT.dat,,
+388,/data/its-tier2/micromet/RAW/%Y/Southampton/SHU/CNR4/%m/CNR4_%y%DOY.dat,20sec,

@@ -1,0 +1,99 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+64,9178730_%Y-%m-%d.txt,1 min,instantaneous
+110,,15min,average
+123,,15min,average
+186,,15min,average
+266,9178730_%Y-%m-%d.txt,1 min,instantaneous
+292,../microlite/%m/9178730_%Y-%m-%d.txt,1 min,instantaneous
+65,9178755_%Y-%m-%d.txt,1 min,instantaneous
+111,,15min,average
+125,,15min,average
+169,,15min,average
+183,,15min,average
+96,,15min,average
+130,,15min,average
+156,,15min,average
+158,,15min,average
+261,,10 min,average
+97,,15min,average
+180,,15min,average
+190,,15min,average
+213,,15min,average
+214,,15min,average
+262,,1 min,average
+98,,15min,average
+131,,15min,average
+159,,15min,average
+160,,15min,average
+162,,15min,average
+258,,15 min,average
+290,../microlite/%m/9178799_%Y-%m-%d.txt,1 min,instantaneous
+99,,15min,average
+132,,15min,average
+134,,15min,average
+155,,15min,average
+252,,2min,average
+264,,5 min,average
+287,../microlite/%m/9178815_%Y-%m-%d.txt,1 min,instantaneous
+100,,15min,average
+129,,15min,average
+168,,15min,average
+182,,15min,average
+263,,10 min,average
+101,,15min,average
+115,,15min,average
+174,,15min,average
+254,,15 min,average
+102,,15min,average
+116,,15min,average
+179,,15min,average
+189,,15min,average
+212,,15min,average
+260,,10 min,average
+103,,15min,average
+117,,15min,average
+172,,15min,average
+209,,2min,average
+210,,15min,average
+255,,15 min,average
+104,,15min,average
+118,,15min,average
+167,,15min,average
+181,,15min,average
+191,,15min,average
+257,,15 min,average
+105,,15min,average
+119,,15min,average
+170,,15min,average
+256,,15 min,average
+106,,15min,average
+120,,15min,average
+173,,15min,average
+184,,15min,average
+107,,15min,average
+121,,15min,average
+163,,15min,average
+164,,15min,average
+166,,15min,average
+108,,15min,average
+109,,15min,average
+122,,15min,average
+175,,15min,average
+211,,15min,average
+253,,15 min,average
+112,,15min,average
+128,,15min,average
+171,,15min,average
+113,,15min,average
+127,,15min,average
+178,,15min,average
+188,,15min,average
+259,,10 min,average
+114,,15min,average
+126,,15min,average
+177,,15min,average
+187,,15min,average
+124,,15min,average
+176,,15min,average
+185,,15min,average

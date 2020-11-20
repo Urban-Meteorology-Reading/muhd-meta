@@ -1,0 +1,6 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+368,../Spatial/%m/Spatial_Wunderground_%Y%DOY.yaml,,
+369,../Spatial/%m/Spatial_Netatmo_%Y%DOY.yaml,,
+370,../Spatial/%m/Spatial_DataPoint_%Y%DOY.yaml,,
+371,../Spatial/%m/Spatial_LGFL_%Y%DOY.yaml,,

@@ -1,0 +1,246 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+415,:ref:`LDAUV`,N1,A,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N1,A,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N1,A,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,N2,B,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N2,B,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N2,B,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,N3,C,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N3,C,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N3,C,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,N4,D,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N4,D,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+415,:ref:`LDAUV`,N5,E,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N5,E,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N5,E,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,N6,F,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N6,F,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N6,F,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,N7,G,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV`,N7,G,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV`,N7,G,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV`,D1,O,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D1,O,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D1,O,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D2,P,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D2,P,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D2,P,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D3,Q,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D3,Q,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D3,Q,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D4,R,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D4,R,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D4,R,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D5,S,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D5,S,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D5,S,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D6,T,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D6,T,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,D6,T,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,D6,T,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,D6,T,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,D6,T,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,D6,T,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+415,:ref:`LDAUV`,D7,U,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D7,U,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D7,U,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D8,V,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D8,V,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D8,V,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV`,D9,W,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV`,D9,W,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,D9,W,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,D9,W,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+425,:ref:`LDAUV`,D9,W,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,D9,W,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+415,:ref:`LDAUV1`,D10-D11,A,profile_complex,Core N UV,2017-08-08,2017-08-09
+421,:ref:`LDAUV1`,D10-D11,A,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV1`,D10-D11,A,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+415,:ref:`LDAUV1`,D12,B,profile_complex,Core N UV,2017-08-08,2017-08-09
+417,:ref:`LDAUV1`,D12,B,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV1`,D12,B,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+415,:ref:`LDAUV1`,D14,E,profile_complex,Core N UV,2017-08-08,2017-08-09
+420,:ref:`LDAUV1`,D14,E,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+415,:ref:`LDAUV1`,D15,F,profile_complex,Core N UV,2017-08-08,2017-08-09
+416,:ref:`LDAUW`,N1_UW,A,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N1_UW,A,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N1_UW,A,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N2_UW,B,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N2_UW,B,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N2_UW,B,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N3_UW,C,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N3_UW,C,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N3_UW,C,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N4_UW,D,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N4_UW,D,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+427,:ref:`LDAUW`,N4_UW,D,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+428,:ref:`LDAUW`,N4_UW,D,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N5_UW,E,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N5_UW,E,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N5_UW,E,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N6_UW,F,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N6_UW,F,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N6_UW,F,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,N7_UW,G,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,N7_UW,G,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,N7_UW,G,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW`,D1_UW,O,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D1_UW,O,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D1_UW,O,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D2_UW,P,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D2_UW,P,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D2_UW,P,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D3_UW,Q,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D3_UW,Q,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D3_UW,Q,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D4_UW,R,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D4_UW,R,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D4_UW,R,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D5_UW,S,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D5_UW,S,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D5_UW,S,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D6_UW,T,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D6_UW,T,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,D6_UW,T,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,D6_UW,T,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,D6_UW,T,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+416,:ref:`LDAUW`,D7_UW,U,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D7_UW,U,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,D7_UW,U,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,D7_UW,U,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D8_UW,V,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D8_UW,V,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D8_UW,V,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D9_UW,W,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW`,D9_UW,W,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,D9_UW,W,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,D9_UW,W,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW`,D10-D11_UW,Z,profile_complex,Core N UW,2017-08-01,2017-08-02
+422,:ref:`LDAUW`,D10-D11_UW,Z,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW`,D10-D11_UW,Z,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+416,:ref:`LDAUW1`,D12_UW,A,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW1`,D12_UW,A,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW1`,D12_UW,A,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW1`,D13_UW,B,profile_complex,Core N UW,2017-08-01,2017-08-02
+418,:ref:`LDAUW1`,D13_UW,B,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW1`,D13_UW,B,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW1`,D13_UW,B,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+416,:ref:`LDAUW1`,D14_UW,D,profile_complex,Core N UW,2017-08-01,2017-08-02
+417,:ref:`LDAUV`,S1,H,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S1,H,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S1,H,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S1,H,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S1,H,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S1,H,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S2,I,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S2,I,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S2,I,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S2,I,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S2,I,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S2,I,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S3,J,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S3,J,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S3,J,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S3,J,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S3,J,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S3,J,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S4,K,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S4,K,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S4,K,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S4,K,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S4,K,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S4,K,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S5,L,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S5,L,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S5,L,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S5,L,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S5,L,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S5,L,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S6,M,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,S6,M,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,S6,M,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S6,M,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S6,M,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S6,M,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,S7,N,profile_complex,Core SE UV,2017-08-09,2017-08-10
+420,:ref:`LDAUV`,S7,N,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,S7,N,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,S7,N,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,S7,N,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+417,:ref:`LDAUV`,D9_REP,X,profile_complex,Core SE UV,2017-08-09,2017-08-10
+417,:ref:`LDAUV`,D10,Y,profile_complex,Core SE UV,2017-08-09,2017-08-10
+425,:ref:`LDAUV`,D10,Y,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+417,:ref:`LDAUV`,D11,Z,profile_complex,Core SE UV,2017-08-09,2017-08-10
+419,:ref:`LDAUV`,D11,Z,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV`,D11,Z,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV`,D11,Z,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV`,D11,Z,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV`,D11,Z,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+418,:ref:`LDAUW`,S1_UW,H,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S1_UW,H,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S1_UW,H,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S1_UW,H,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S2_UW,I,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S2_UW,I,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S2_UW,I,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S2_UW,I,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S3_UW,J,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S3_UW,J,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S3_UW,J,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S3_UW,J,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S4_UW,K,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S4_UW,K,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S4_UW,K,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S4_UW,K,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S5_UW,L,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S5_UW,L,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S5_UW,L,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S5_UW,L,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S6_UW,M,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S6_UW,M,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S6_UW,M,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S6_UW,M,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,S7_UW,N,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,S7_UW,N,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,S7_UW,N,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,S7_UW,N,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+418,:ref:`LDAUW`,D10_UW,X,profile_complex,Core SE UW,2017-08-03,2017-08-04
+426,:ref:`LDAUW`,D10_UW,X,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+418,:ref:`LDAUW`,D11_UW,Y,profile_complex,Core SE UW,2017-08-03,2017-08-04
+424,:ref:`LDAUW`,D11_UW,Y,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+426,:ref:`LDAUW`,D11_UW,Y,profile_complex,Increased heights SE UW,2017-08-04,2017-08-07
+430,:ref:`LDAUW`,D11_UW,Y,profile_complex,No Tall SE UW,2017-08-04,2017-08-04
+419,:ref:`LDAUV1`,D13,C,profile_complex,Core SE UV Long 1,2017-08-11,2017-08-15
+420,:ref:`LDAUV1`,D13,C,profile_complex,Core SE UV Long 2,2017-09-11,2017-09-15
+423,:ref:`LDAUV1`,D13,C,profile_complex,Tall &amp; Target SE UV,2017-07-14,2017-07-14
+425,:ref:`LDAUV1`,D13,C,profile_complex,Increased heights SE UV,2017-08-10,2017-08-11
+429,:ref:`LDAUV1`,D13,C,profile_complex,No Tall SE UV,2017-08-11,2017-08-11
+421,:ref:`LDAUV1`,BL1,G,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV1`,BL1,G,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+421,:ref:`LDAUV1`,BL2,H,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+421,:ref:`LDAUV1`,BL3,I,profile_complex,Tall &amp; Target N UV,2017-07-31,2017-08-01
+427,:ref:`LDAUV1`,BL3,I,profile_complex,No Tall N UV,2017-08-09,2017-08-09
+422,:ref:`LDAUW1`,BL1_UW,E,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+422,:ref:`LDAUW1`,BL2_UW,F,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW1`,BL2_UW,F,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+422,:ref:`LDAUW1`,BL3_UW,G,profile_complex,Tall &amp; Target N UW,2017-07-31,2017-08-01
+428,:ref:`LDAUW1`,BL3_UW,G,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+424,:ref:`LDAUW1`,BL4_UW,H,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL5_UW,I,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL6_UW,J,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL7_UW,K,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL8_UW,L,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL9_UW,M,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL10_UW,N,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+424,:ref:`LDAUW1`,BL11_UW,O,profile_complex,Tall &amp; Target SE UW,2017-08-07,2017-08-08
+428,:ref:`LDAUW1`,BL13_UW,Q,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL14_UW,R,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL15_UW,S,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL16_UW,T,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL17_UW,U,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL18_UW,V,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL19_UW,W,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL20_UW,X,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL21_UW,Y,profile_complex,No Tall N UW,2017-08-02,2017-08-03
+428,:ref:`LDAUW1`,BL22_UW,Z,profile_complex,No Tall N UW,2017-08-02,2017-08-03

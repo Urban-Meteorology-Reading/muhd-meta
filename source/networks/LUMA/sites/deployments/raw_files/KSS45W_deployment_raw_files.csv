@@ -1,0 +1,15 @@
+Deployment ID,Raw file name format,Raw file time resolution,Sample type
+NA,NA,NA,Instantaneous/Average
+5,%Y%m%d.txt,2 sec,instantaneous
+6,%Y%m%d.txt,2 sec,instantaneous
+18,EPP/KSS_HUT%y%DOY.dat,15 min,
+19,EPP/KSS_HUT%y%DOY.dat,15 min,
+20,EPP/KSS_HUT%y%DOY.dat,15 min,
+21,EPP/KSS_HUT%y%DOY.dat,15 min,
+22,EPP/KSS_HUT%y%DOY.dat,15 min,
+23,SPN1/KSS_SPN1%y%DOY.dat,15 min,
+58,KSSview1-nnnn.tgw,,instantaneous
+59,EPP/KSS_HUT%y%DOY.dat,5 sec,
+279,AYMMDDHH.dat,15,average
+378,CeilometerC/%m/C%q%m%d%H.DAT,15sec,average
+379,CeilometerD/%m/D%q%m%d%H.DAT,15sec,average

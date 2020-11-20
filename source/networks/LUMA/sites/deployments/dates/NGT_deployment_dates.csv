@@ -1,0 +1,6 @@
+Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,NA,UTC,UTC
+17,:ref:`DAVIS`,A00422A003,A,single,Davis weather station,2012-01-10,2013-02-27
+354,:ref:`BLS`,T-E-0470,A,scintillometer,BLS_NTT_NGT,2012-09-21,2013-02-26
+356,:ref:`LASMKII`,120028,B,scintillometer,LAS_MKII_28_NTT_NGT,2012-02-22,2012-09-21
+360,:ref:`LAS150`,60029,A,scintillometer,LAS150_NDT_NGT,2012-01-11,2012-09-21
