@@ -1,0 +1,5 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+SWTWXStation,MetData_%SITE,0,None,1min
+SWTWXStation,MetData_%SITE,0,None,15min
+SWTWXStation,MetData_%SITE,1,Thresholding,1min
+SWTWXStation,MetData_%SITE,1,Thresholding,15min

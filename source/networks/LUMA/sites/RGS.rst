@@ -12,7 +12,7 @@ Introduction
 Site metadata
 #############
 
-.. csv-table::
+.. csv-table:: 
    :file: meta/RGS_meta.csv
    :stub-columns: 2
 
@@ -31,6 +31,10 @@ Deployments at site
    :file: deployments/raw_files/RGS_deployment_raw_files.csv
    :header-rows: 2
 
+.. csv-table:: Metadata specific to profiles
+   :file: deployments/profile_deployments/RGS_profile_deployments.csv
+   :header-rows: 2
+
 .. csv-table:: Metadata specific to indoor sensors
    :file: deployments/indoor_deployments/RGS_indoor_deployments.csv
    :header-rows: 2
@@ -44,6 +48,11 @@ Supplementary information
 Data acquisition
 ################
 
+.. include:: data_acquisition/RGS/RGS_data_acquisition.rst
+
 References
 ##########
+
+Acknowledgements
+################
 

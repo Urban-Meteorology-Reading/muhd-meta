@@ -1,0 +1,9 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+WXT,WXT_%SITE,0,None,1min
+WXT,WXT_%SITE,0,None,5min
+WXT,WXT_%SITE,0,None,15min
+WXT,WXT_%SITE,0,None,30min
+WXT,WXT_%SITE,1,Thresholding,1min
+WXT,WXT_%SITE,1,Thresholding,5min
+WXT,WXT_%SITE,1,Thresholding,15min
+WXT,WXT_%SITE,1,Thresholding,30min

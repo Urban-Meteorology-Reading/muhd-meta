@@ -1,0 +1,7 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+FLAG,Status flag,N/A,,,"SPN,1,15min"
+Kdiff,diffuse_shortwave_radiation,W.m-2,0.0,1200.0,"SPN,0,15min SPN,1,15min"
+Kdn,incoming_shortwave_radiation,W.m-2,0.0,1200.0,"SPN,0,15min SPN,1,15min"
+sd_Kdiff,standard_deviation_diffuse_shortwave_radiation,W.m-2,,,"SPN,0,15min SPN,1,15min"
+sd_Kdn,incoming_shortwave_radiation,W.m-2,,,"SPN,0,15min SPN,1,15min"
+Sun,sunshine_status,%,0.0,100.0,"SPN,0,15min SPN,1,15min"

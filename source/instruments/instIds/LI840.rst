@@ -1,0 +1,75 @@
+.. _LI840:
+
+*****
+LI840
+*****
+
+Introduction
+############
+
+.. include:: intros/LI840_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/LI840_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/LI840_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/LI840_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/LI840_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _HGA-0416:
+
+HGA-0416
+********
+
+.. csv-table:: 
+   :file: deployments/LI840/HGA-0416_deployments.csv
+   :header-rows: 1
+
+.. _HGA-0418:
+
+HGA-0418
+********
+
+.. csv-table:: 
+   :file: deployments/LI840/HGA-0418_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

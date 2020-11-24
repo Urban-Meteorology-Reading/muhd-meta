@@ -1,0 +1,5 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+CT25K_BSC,CT25K-%LETTER_BSC_%SITE,0,,30sec
+CT25K_BSC,CT25K-%LETTER_BSC_%SITE,1,,30sec
+CT25K_CLD,CT25K-%LETTER_CLD_%SITE,0,,30sec
+CT25K_CCW30,CT25K-%LETTER_CCW30_%SITE,1,,15min

@@ -10,4 +10,4 @@ The instrumentation that has been used in this network
    :maxdepth: 1
    :glob:
 
-   *
+   instIds/*

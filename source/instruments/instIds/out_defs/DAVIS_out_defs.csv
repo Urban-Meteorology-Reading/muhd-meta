@@ -1,0 +1,7 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+Davis,Davis_%SITE,0,No_QA,1min
+Davis,Davis_%SITE,0,No_QA,15min
+Davis,Davis_%SITE,0,No_QA,30min
+Davis,Davis_%SITE,1,Thresholds,1min
+Davis,Davis_%SITE,1,Thresholds,15min
+Davis,Davis_%SITE,1,Thresholds,30min

@@ -1,0 +1,7 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+RMYoung_ECPack,RMYoung_ECpack_%SITE,0,No_QAQC,30min
+RMYoung_ECPack,RMYoung_ECpack_%SITE,1,QAQC,30min
+RMYoung_ECPack,RMYoung_ECpack_%SITE,2,QAQC_IMA,30min
+RM81000_ECpack,RM81000_ECpack_%SITE,0,No_QAQC,30min
+RM81000_ECpack,RM81000_ECpack_%SITE,1,QAQC,30min
+RM81000_ECpack,RM81000_ECpack_%SITE,2,QAQC_IMA,30min

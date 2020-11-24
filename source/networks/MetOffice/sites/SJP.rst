@@ -12,7 +12,7 @@ Introduction
 Site metadata
 #############
 
-.. csv-table::
+.. csv-table:: 
    :file: meta/SJP_meta.csv
    :stub-columns: 2
 
@@ -40,6 +40,11 @@ Supplementary information
 Data acquisition
 ################
 
+.. include:: data_acquisition/SJP/SJP_data_acquisition.rst
+
 References
 ##########
+
+Acknowledgements
+################
 

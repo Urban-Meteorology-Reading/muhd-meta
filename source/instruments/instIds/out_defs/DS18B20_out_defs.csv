@@ -1,0 +1,5 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+WaterT,DS18B20%LETTER_%SITE,0,None,1min
+WaterT,DS18B20%LETTER_%SITE,0,None,15min
+WaterT,DS18B20%LETTER_%SITE,1,,1min
+WaterT,DS18B20%LETTER_%SITE,1,,15min

@@ -1,15 +1,15 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-5,:ref:`DAVIS`,A00422A002,B,single,Davis weather station A - check end date - no raw data,2011-04-21,2011-09-01
-6,:ref:`DAVIS`,A00422A003,A,single,Davis weather station B - no raw data,2011-04-21,2011-05-16
-18,:ref:`PIR`,29757F3,A,single,PIR,2012-02-27,2016-04-14
-19,:ref:`PSP`,29765F3,A,single,PSP,2012-02-27,2016-04-14
-20,:ref:`UVA`,020630655,B,single,UVA,2012-02-27,2016-04-14
-21,:ref:`PAR`,020630661,A,single,PAR,2012-02-27,2016-04-14
-22,:ref:`UVB`,020630658,B,single,UVB,2012-02-27,2016-04-14
-23,:ref:`SPN1`,A517,A,single,SPN,2011-01-14,2016-04-14
-58,:ref:`MIRICLE`,111000,A,fov,MIRICLE Thermal Camera - Check end date!,2011-05-23,2011-10-01
-59,:ref:`ARG100`,042908,A,single,ARG100,2009-12-17,2016-04-14
-279,:ref:`CL31`,B20201,A,ceilometer,CL31-A,2009-04-22,2016-04-14
-378,:ref:`CL31`,F2730002,C,ceilometer,CL31-C,2010-09-21,2011-03-02
-379,:ref:`CL31`,F2730001,D,ceilometer,CL31-D,2010-09-23,2011-01-07
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+5,:ref:`DAVIS`,:ref:`A00422A002`,single,Davis weather station A - check end date - no raw data,2011-04-21,2011-09-01
+6,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station B - no raw data,2011-04-21,2011-05-16
+18,:ref:`PIR`,:ref:`29757F3`,single,PIR,2012-02-27,2016-04-14
+19,:ref:`PSP`,:ref:`29765F3`,single,PSP,2012-02-27,2016-04-14
+20,:ref:`UVA`,:ref:`020630655`,single,UVA,2012-02-27,2016-04-14
+21,:ref:`PAR`,:ref:`020630661`,single,PAR,2012-02-27,2016-04-14
+22,:ref:`UVB`,:ref:`020630658`,single,UVB,2012-02-27,2016-04-14
+23,:ref:`SPN1`,:ref:`A517`,single,SPN,2011-01-14,2016-04-14
+58,:ref:`MIRICLE`,:ref:`111000`,fov,MIRICLE Thermal Camera - Check end date!,2011-05-23,2011-10-01
+59,:ref:`ARG100`,:ref:`042908`,single,ARG100,2009-12-17,2016-04-14
+279,:ref:`CL31`,:ref:`B20201`,ceilometer,CL31-A,2009-04-22,2016-04-14
+378,:ref:`CL31`,:ref:`F2730002`,ceilometer,CL31-C,2010-09-21,2011-03-02
+379,:ref:`CL31`,:ref:`F2730001`,ceilometer,CL31-D,2010-09-23,2011-01-07

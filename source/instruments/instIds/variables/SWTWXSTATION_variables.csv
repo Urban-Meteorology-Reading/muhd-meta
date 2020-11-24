@@ -1,0 +1,7 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+dir,wind_direction,degree,0.0,360.0,"SWTWXStation,0,1min SWTWXStation,0,15min SWTWXStation,1,1min SWTWXStation,1,15min"
+FLAG,Status flag,N/A,,,"SWTWXStation,1,1min SWTWXStation,1,15min"
+rain_acc,Rain accumulation over file interval period,mm,0.0,3.0,"SWTWXStation,0,1min SWTWXStation,0,15min SWTWXStation,1,1min SWTWXStation,1,15min"
+RH,relative_humidity,%,0.0,100.0,"SWTWXStation,0,1min SWTWXStation,0,15min SWTWXStation,1,1min SWTWXStation,1,15min"
+Tair,air_temperature,Celsius,-30.0,50.0,"SWTWXStation,0,1min SWTWXStation,0,15min SWTWXStation,1,1min SWTWXStation,1,15min"
+WS,horizontal_wind_speed,m.s-1,0.0,150.0,"SWTWXStation,0,1min SWTWXStation,0,15min SWTWXStation,1,1min SWTWXStation,1,15min"

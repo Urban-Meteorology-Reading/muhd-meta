@@ -1,0 +1,9 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+Omega_T,Omega_T_%SITE,0,None,1min
+Omega_T,Omega_T_%SITE,0,None,10min
+Omega_T,Omega_T_%SITE,0,None,30min
+Omega_T,Omega_T_%SITE,1,Thresholds,1min
+Omega_T,Omega_T_%SITE,1,Thresholds,10min
+Omega_T,Omega_T_%SITE,1,Thresholds,30min
+Thermocouple,Thermocouple_%SITE,0,None,15min
+Thermocouple,Thermocouple_%SITE,1,Thresholds,15min

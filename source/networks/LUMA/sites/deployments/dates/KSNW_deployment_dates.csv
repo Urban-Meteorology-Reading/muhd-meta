@@ -1,24 +1,24 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-49,:ref:`CNR1`,000220,B,single,CNR1,2012-09-19,2016-02-18
-54,:ref:`GILL121R03`,307,A,ec,EC,2015-09-17,2016-01-12
-234,:ref:`WXT510`,B084005,C,single,WXT,2012-05-16,2016-02-18
-235,:ref:`WXT510`,B0840006-G0630168,E,single,WXT,2011-03-14,2011-03-27
-339,:ref:`CSAT3`,0192-2,D,ec,Ec,2013-03-17,2015-09-17
-339,:ref:`LI7500A`,75H-1973,C,ec,Ec,2013-03-17,2015-09-17
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-459,:ref:`LI840`,HGA-0416,A,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
-460,:ref:`LI840`,HGA-0418,B,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+49,:ref:`CNR1`,:ref:`000220`,single,CNR1,2012-09-19,2016-02-18
+54,:ref:`GILL121R03`,:ref:`307`,ec,EC,2015-09-17,2016-01-12
+234,:ref:`WXT510`,:ref:`B084005`,single,WXT,2012-05-16,2016-02-18
+235,:ref:`WXT510`,:ref:`B0840006-G0630168`,single,WXT,2011-03-14,2011-03-27
+339,:ref:`CSAT3`,:ref:`0192-2`,ec,Ec,2013-03-17,2015-09-17
+339,:ref:`LI7500A`,:ref:`75H-1973`,ec,Ec,2013-03-17,2015-09-17
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+459,:ref:`LI840`,:ref:`HGA-0416`,profile_complex,Gas Analyser Li840-1,2012-04-11,2013-02-25
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07
+460,:ref:`LI840`,:ref:`HGA-0418`,profile_complex,Gas Analyser Li840-2,2013-02-25,2013-05-07

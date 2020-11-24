@@ -1,99 +1,99 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-64,:ref:`MICROLITE`,9178730,A,indoor,Living room upper,2015-10-29,2015-11-13
-110,:ref:`MICROLITE`,9178730,A,indoor,Cupboard Hall? LHS D,2013-11-04,2013-11-11
-123,:ref:`MICROLITE`,9178730,A,indoor,Living room table,2013-10-22,2013-11-03
-186,:ref:`MICROLITE`,9178730,A,indoor,Living room,2014-07-01,2014-07-05
-266,:ref:`MICROLITE`,9178730,A,indoor,Living room upper - With USB cable attached - sensor in same place,2015-11-14,2016-07-16
-292,:ref:`MICROLITE`,9178730,A,indoor,Living room upper - With USB extension cable,2016-07-17,
-65,:ref:`MICROLITE`,9178755,B,indoor,Living room lower,2015-10-29,2016-01-24
-111,:ref:`MICROLITE`,9178755,B,indoor,Cupboard Hall? LHS E,2013-11-04,2013-11-11
-125,:ref:`MICROLITE`,9178755,B,indoor,Living room table,2013-10-22,2013-11-03
-169,:ref:`MICROLITE`,9178755,B,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-183,:ref:`MICROLITE`,9178755,B,indoor,Living room,2014-07-01,2014-07-05
-96,:ref:`MICROLITE`,9178813,C,indoor,Living Room A,2013-11-04,2013-11-11
-130,:ref:`MICROLITE`,9178813,C,indoor,Living room table,2013-10-22,2013-11-03
-156,:ref:`MICROLITE`,9178813,C,indoor,Living room table,2013-11-03,2013-11-04
-158,:ref:`MICROLITE`,9178813,C,indoor,Living room,2014-07-01,2014-07-05
-261,:ref:`MICROLITE`,9178813,C,indoor,5th floor (incomplete),2015-07-29,2015-11-06
-97,:ref:`MICROLITE`,9178719,D,indoor,Living Room B,2013-11-04,2013-11-11
-180,:ref:`MICROLITE`,9178719,D,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-190,:ref:`MICROLITE`,9178719,D,indoor,Living room,2014-07-01,2014-07-05
-213,:ref:`MICROLITE`,9178719,D,indoor,5th floor (incomplete),2013-09-16,2013-10-03
-214,:ref:`MICROLITE`,9178719,D,indoor,3th floor (incomplete),2013-10-12,2013-11-03
-262,:ref:`MICROLITE`,9178719,D,indoor,5th floor (incomplete),2015-08-12,2015-08-16
-98,:ref:`MICROLITE`,9178799,E,indoor,Living Room C,2013-11-04,2013-11-11
-131,:ref:`MICROLITE`,9178799,E,indoor,Living room table,2013-10-22,2013-11-03
-159,:ref:`MICROLITE`,9178799,E,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-160,:ref:`MICROLITE`,9178799,E,indoor,5th floor (incomplete),2013-09-16,2013-11-11
-162,:ref:`MICROLITE`,9178799,E,indoor,Living room,2014-07-01,2014-07-05
-258,:ref:`MICROLITE`,9178799,E,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-290,:ref:`MICROLITE`,9178799,E,indoor,Living Room,2016-07-02,
-99,:ref:`MICROLITE`,9178815,F,indoor,Living Room,2013-11-04,2013-11-11
-132,:ref:`MICROLITE`,9178815,F,indoor,Living room table,2013-10-22,2013-11-03
-134,:ref:`MICROLITE`,9178815,F,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-155,:ref:`MICROLITE`,9178815,F,indoor,Living Room,2014-07-01,2014-07-05
-252,:ref:`MICROLITE`,9178815,F,indoor,3th floor (incomplete),2013-09-08,2013-09-30
-264,:ref:`MICROLITE`,9178815,F,indoor,5th floor (incomplete),2015-08-22,2015-09-19
-287,:ref:`MICROLITE`,9178815,F,indoor,Study Room,2016-06-18,2020-10-22
-100,:ref:`MICROLITE`,9178791,G,indoor,Entrance Hall?,2013-11-04,2013-11-11
-129,:ref:`MICROLITE`,9178791,G,indoor,Living room table,2013-10-22,2013-11-03
-168,:ref:`MICROLITE`,9178791,G,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-182,:ref:`MICROLITE`,9178791,G,indoor,Living room,2014-07-01,2014-07-05
-263,:ref:`MICROLITE`,9178791,G,indoor,5th floor (incomplete),2015-07-29,2015-11-06
-101,:ref:`MICROLITE`,9178740,H,indoor,Cupboard Hall? RHS A,2013-11-04,2013-11-11
-115,:ref:`MICROLITE`,9178740,H,indoor,Living room table,2013-10-22,2013-11-03
-174,:ref:`MICROLITE`,9178740,H,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-254,:ref:`MICROLITE`,9178740,H,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-102,:ref:`MICROLITE`,9178722,I,indoor,Cupboard Hall? RHS B,2013-11-04,2013-11-11
-116,:ref:`MICROLITE`,9178722,I,indoor,Living room table,2013-10-22,2013-11-03
-179,:ref:`MICROLITE`,9178722,I,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-189,:ref:`MICROLITE`,9178722,I,indoor,Hallway,2014-07-01,2014-07-05
-212,:ref:`MICROLITE`,9178722,I,indoor,5th floor (incomplete),2013-09-16,2013-11-02
-260,:ref:`MICROLITE`,9178722,I,indoor,5th floor (incomplete),2015-07-19,2015-11-06
-103,:ref:`MICROLITE`,9178745,J,indoor,Cupboard Hall? RHS C,2013-11-04,2013-11-11
-117,:ref:`MICROLITE`,9178745,J,indoor,Living room table,2013-10-22,2013-11-03
-172,:ref:`MICROLITE`,9178745,J,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-209,:ref:`MICROLITE`,9178745,J,indoor,3th floor (incomplete),2013-07-31,2013-08-12
-210,:ref:`MICROLITE`,9178745,J,indoor,Cupboard?,2014-07-01,2014-07-05
-255,:ref:`MICROLITE`,9178745,J,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-104,:ref:`MICROLITE`,9178792,K,indoor,Cupboard Hall? RHS D,2013-11-04,2013-11-11
-118,:ref:`MICROLITE`,9178792,K,indoor,Living room table,2013-10-22,2013-11-03
-167,:ref:`MICROLITE`,9178792,K,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-181,:ref:`MICROLITE`,9178792,K,indoor,Living room,2014-07-01,2014-07-05
-191,:ref:`MICROLITE`,9178792,K,indoor,5th floor (incomplete),2013-09-16,2013-11-11
-257,:ref:`MICROLITE`,9178792,K,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-105,:ref:`MICROLITE`,9178750,L,indoor,Cupboard Hall? RHS E,2013-11-04,2013-11-11
-119,:ref:`MICROLITE`,9178750,L,indoor,Living room table,2013-10-22,2013-11-03
-170,:ref:`MICROLITE`,9178750,L,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-256,:ref:`MICROLITE`,9178750,L,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-106,:ref:`MICROLITE`,9178744,M,indoor,Cupboard Hall? RHS F,2013-11-04,2013-11-11
-120,:ref:`MICROLITE`,9178744,M,indoor,Living room table,2013-10-22,2013-11-03
-173,:ref:`MICROLITE`,9178744,M,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-184,:ref:`MICROLITE`,9178744,M,indoor,Living room,2014-07-01,2014-07-05
-107,:ref:`MICROLITE`,9178794,N,indoor,Cupboard Hall? LHS A,2013-11-04,2013-11-11
-121,:ref:`MICROLITE`,9178794,N,indoor,Living room table,2013-10-22,2013-11-03
-163,:ref:`MICROLITE`,9178794,N,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-164,:ref:`MICROLITE`,9178794,N,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-166,:ref:`MICROLITE`,9178794,N,indoor,Living room,2014-07-01,2014-07-05
-108,:ref:`MICROLITE`,9178739,O,indoor,Cupboard Hall? LHS B,2013-11-04,2013-11-11
-109,:ref:`MICROLITE`,9178739,O,indoor,Cupboard Hall? LHS C,2013-11-04,2013-11-11
-122,:ref:`MICROLITE`,9178739,O,indoor,Living room table,2013-10-22,2013-11-03
-175,:ref:`MICROLITE`,9178739,O,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-211,:ref:`MICROLITE`,9178739,O,indoor,Hallway,2014-07-01,2014-07-05
-253,:ref:`MICROLITE`,9178739,O,indoor,5th floor (incomplete),2014-08-22,2014-08-26
-112,:ref:`MICROLITE`,9178748,P,indoor,Bedroom Table,2013-11-04,2013-11-11
-128,:ref:`MICROLITE`,9178748,P,indoor,Living room table,2013-10-22,2013-11-03
-171,:ref:`MICROLITE`,9178748,P,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-113,:ref:`MICROLITE`,9178724,Q,indoor,Bedroom Bedside Bed ,2013-11-04,2013-11-11
-127,:ref:`MICROLITE`,9178724,Q,indoor,Living room table,2013-10-22,2013-11-03
-178,:ref:`MICROLITE`,9178724,Q,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-188,:ref:`MICROLITE`,9178724,Q,indoor,Living room,2014-07-01,2014-07-05
-259,:ref:`MICROLITE`,9178724,Q,indoor,5th floor (incomplete),2015-01-23,2015-04-26
-114,:ref:`MICROLITE`,9178729,R,indoor,Bedroom Bedside window,2013-11-04,2013-11-11
-126,:ref:`MICROLITE`,9178729,R,indoor,Living room table,2013-10-22,2013-11-03
-177,:ref:`MICROLITE`,9178729,R,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-187,:ref:`MICROLITE`,9178729,R,indoor,Living room,2014-07-01,2014-07-05
-124,:ref:`MICROLITE`,9178733,S,indoor,Living room table,2013-10-22,2013-11-03
-176,:ref:`MICROLITE`,9178733,S,indoor,Living room table by SG desk,2013-11-03,2013-11-04
-185,:ref:`MICROLITE`,9178733,S,indoor,Living room,2014-07-01,2014-07-05
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+64,:ref:`MICROLITE`,:ref:`9178730`,indoor,Living room upper,2015-10-29,2015-11-13
+110,:ref:`MICROLITE`,:ref:`9178730`,indoor,Cupboard Hall? LHS D,2013-11-04,2013-11-11
+123,:ref:`MICROLITE`,:ref:`9178730`,indoor,Living room table,2013-10-22,2013-11-03
+186,:ref:`MICROLITE`,:ref:`9178730`,indoor,Living room,2014-07-01,2014-07-05
+266,:ref:`MICROLITE`,:ref:`9178730`,indoor,Living room upper - With USB cable attached - sensor in same place,2015-11-14,2016-07-16
+292,:ref:`MICROLITE`,:ref:`9178730`,indoor,Living room upper - With USB extension cable,2016-07-17,
+65,:ref:`MICROLITE`,:ref:`9178755`,indoor,Living room lower,2015-10-29,2016-01-24
+111,:ref:`MICROLITE`,:ref:`9178755`,indoor,Cupboard Hall? LHS E,2013-11-04,2013-11-11
+125,:ref:`MICROLITE`,:ref:`9178755`,indoor,Living room table,2013-10-22,2013-11-03
+169,:ref:`MICROLITE`,:ref:`9178755`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+183,:ref:`MICROLITE`,:ref:`9178755`,indoor,Living room,2014-07-01,2014-07-05
+96,:ref:`MICROLITE`,:ref:`9178813`,indoor,Living Room A,2013-11-04,2013-11-11
+130,:ref:`MICROLITE`,:ref:`9178813`,indoor,Living room table,2013-10-22,2013-11-03
+156,:ref:`MICROLITE`,:ref:`9178813`,indoor,Living room table,2013-11-03,2013-11-04
+158,:ref:`MICROLITE`,:ref:`9178813`,indoor,Living room,2014-07-01,2014-07-05
+261,:ref:`MICROLITE`,:ref:`9178813`,indoor,5th floor (incomplete),2015-07-29,2015-11-06
+97,:ref:`MICROLITE`,:ref:`9178719`,indoor,Living Room B,2013-11-04,2013-11-11
+180,:ref:`MICROLITE`,:ref:`9178719`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+190,:ref:`MICROLITE`,:ref:`9178719`,indoor,Living room,2014-07-01,2014-07-05
+213,:ref:`MICROLITE`,:ref:`9178719`,indoor,5th floor (incomplete),2013-09-16,2013-10-03
+214,:ref:`MICROLITE`,:ref:`9178719`,indoor,3th floor (incomplete),2013-10-12,2013-11-03
+262,:ref:`MICROLITE`,:ref:`9178719`,indoor,5th floor (incomplete),2015-08-12,2015-08-16
+98,:ref:`MICROLITE`,:ref:`9178799`,indoor,Living Room C,2013-11-04,2013-11-11
+131,:ref:`MICROLITE`,:ref:`9178799`,indoor,Living room table,2013-10-22,2013-11-03
+159,:ref:`MICROLITE`,:ref:`9178799`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+160,:ref:`MICROLITE`,:ref:`9178799`,indoor,5th floor (incomplete),2013-09-16,2013-11-11
+162,:ref:`MICROLITE`,:ref:`9178799`,indoor,Living room,2014-07-01,2014-07-05
+258,:ref:`MICROLITE`,:ref:`9178799`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+290,:ref:`MICROLITE`,:ref:`9178799`,indoor,Living Room,2016-07-02,
+99,:ref:`MICROLITE`,:ref:`9178815`,indoor,Living Room,2013-11-04,2013-11-11
+132,:ref:`MICROLITE`,:ref:`9178815`,indoor,Living room table,2013-10-22,2013-11-03
+134,:ref:`MICROLITE`,:ref:`9178815`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+155,:ref:`MICROLITE`,:ref:`9178815`,indoor,Living Room,2014-07-01,2014-07-05
+252,:ref:`MICROLITE`,:ref:`9178815`,indoor,3th floor (incomplete),2013-09-08,2013-09-30
+264,:ref:`MICROLITE`,:ref:`9178815`,indoor,5th floor (incomplete),2015-08-22,2015-09-19
+287,:ref:`MICROLITE`,:ref:`9178815`,indoor,Study Room,2016-06-18,2020-10-22
+100,:ref:`MICROLITE`,:ref:`9178791`,indoor,Entrance Hall?,2013-11-04,2013-11-11
+129,:ref:`MICROLITE`,:ref:`9178791`,indoor,Living room table,2013-10-22,2013-11-03
+168,:ref:`MICROLITE`,:ref:`9178791`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+182,:ref:`MICROLITE`,:ref:`9178791`,indoor,Living room,2014-07-01,2014-07-05
+263,:ref:`MICROLITE`,:ref:`9178791`,indoor,5th floor (incomplete),2015-07-29,2015-11-06
+101,:ref:`MICROLITE`,:ref:`9178740`,indoor,Cupboard Hall? RHS A,2013-11-04,2013-11-11
+115,:ref:`MICROLITE`,:ref:`9178740`,indoor,Living room table,2013-10-22,2013-11-03
+174,:ref:`MICROLITE`,:ref:`9178740`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+254,:ref:`MICROLITE`,:ref:`9178740`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+102,:ref:`MICROLITE`,:ref:`9178722`,indoor,Cupboard Hall? RHS B,2013-11-04,2013-11-11
+116,:ref:`MICROLITE`,:ref:`9178722`,indoor,Living room table,2013-10-22,2013-11-03
+179,:ref:`MICROLITE`,:ref:`9178722`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+189,:ref:`MICROLITE`,:ref:`9178722`,indoor,Hallway,2014-07-01,2014-07-05
+212,:ref:`MICROLITE`,:ref:`9178722`,indoor,5th floor (incomplete),2013-09-16,2013-11-02
+260,:ref:`MICROLITE`,:ref:`9178722`,indoor,5th floor (incomplete),2015-07-19,2015-11-06
+103,:ref:`MICROLITE`,:ref:`9178745`,indoor,Cupboard Hall? RHS C,2013-11-04,2013-11-11
+117,:ref:`MICROLITE`,:ref:`9178745`,indoor,Living room table,2013-10-22,2013-11-03
+172,:ref:`MICROLITE`,:ref:`9178745`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+209,:ref:`MICROLITE`,:ref:`9178745`,indoor,3th floor (incomplete),2013-07-31,2013-08-12
+210,:ref:`MICROLITE`,:ref:`9178745`,indoor,Cupboard?,2014-07-01,2014-07-05
+255,:ref:`MICROLITE`,:ref:`9178745`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+104,:ref:`MICROLITE`,:ref:`9178792`,indoor,Cupboard Hall? RHS D,2013-11-04,2013-11-11
+118,:ref:`MICROLITE`,:ref:`9178792`,indoor,Living room table,2013-10-22,2013-11-03
+167,:ref:`MICROLITE`,:ref:`9178792`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+181,:ref:`MICROLITE`,:ref:`9178792`,indoor,Living room,2014-07-01,2014-07-05
+191,:ref:`MICROLITE`,:ref:`9178792`,indoor,5th floor (incomplete),2013-09-16,2013-11-11
+257,:ref:`MICROLITE`,:ref:`9178792`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+105,:ref:`MICROLITE`,:ref:`9178750`,indoor,Cupboard Hall? RHS E,2013-11-04,2013-11-11
+119,:ref:`MICROLITE`,:ref:`9178750`,indoor,Living room table,2013-10-22,2013-11-03
+170,:ref:`MICROLITE`,:ref:`9178750`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+256,:ref:`MICROLITE`,:ref:`9178750`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+106,:ref:`MICROLITE`,:ref:`9178744`,indoor,Cupboard Hall? RHS F,2013-11-04,2013-11-11
+120,:ref:`MICROLITE`,:ref:`9178744`,indoor,Living room table,2013-10-22,2013-11-03
+173,:ref:`MICROLITE`,:ref:`9178744`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+184,:ref:`MICROLITE`,:ref:`9178744`,indoor,Living room,2014-07-01,2014-07-05
+107,:ref:`MICROLITE`,:ref:`9178794`,indoor,Cupboard Hall? LHS A,2013-11-04,2013-11-11
+121,:ref:`MICROLITE`,:ref:`9178794`,indoor,Living room table,2013-10-22,2013-11-03
+163,:ref:`MICROLITE`,:ref:`9178794`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+164,:ref:`MICROLITE`,:ref:`9178794`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+166,:ref:`MICROLITE`,:ref:`9178794`,indoor,Living room,2014-07-01,2014-07-05
+108,:ref:`MICROLITE`,:ref:`9178739`,indoor,Cupboard Hall? LHS B,2013-11-04,2013-11-11
+109,:ref:`MICROLITE`,:ref:`9178739`,indoor,Cupboard Hall? LHS C,2013-11-04,2013-11-11
+122,:ref:`MICROLITE`,:ref:`9178739`,indoor,Living room table,2013-10-22,2013-11-03
+175,:ref:`MICROLITE`,:ref:`9178739`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+211,:ref:`MICROLITE`,:ref:`9178739`,indoor,Hallway,2014-07-01,2014-07-05
+253,:ref:`MICROLITE`,:ref:`9178739`,indoor,5th floor (incomplete),2014-08-22,2014-08-26
+112,:ref:`MICROLITE`,:ref:`9178748`,indoor,Bedroom Table,2013-11-04,2013-11-11
+128,:ref:`MICROLITE`,:ref:`9178748`,indoor,Living room table,2013-10-22,2013-11-03
+171,:ref:`MICROLITE`,:ref:`9178748`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+113,:ref:`MICROLITE`,:ref:`9178724`,indoor,Bedroom Bedside Bed ,2013-11-04,2013-11-11
+127,:ref:`MICROLITE`,:ref:`9178724`,indoor,Living room table,2013-10-22,2013-11-03
+178,:ref:`MICROLITE`,:ref:`9178724`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+188,:ref:`MICROLITE`,:ref:`9178724`,indoor,Living room,2014-07-01,2014-07-05
+259,:ref:`MICROLITE`,:ref:`9178724`,indoor,5th floor (incomplete),2015-01-23,2015-04-26
+114,:ref:`MICROLITE`,:ref:`9178729`,indoor,Bedroom Bedside window,2013-11-04,2013-11-11
+126,:ref:`MICROLITE`,:ref:`9178729`,indoor,Living room table,2013-10-22,2013-11-03
+177,:ref:`MICROLITE`,:ref:`9178729`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+187,:ref:`MICROLITE`,:ref:`9178729`,indoor,Living room,2014-07-01,2014-07-05
+124,:ref:`MICROLITE`,:ref:`9178733`,indoor,Living room table,2013-10-22,2013-11-03
+176,:ref:`MICROLITE`,:ref:`9178733`,indoor,Living room table by SG desk,2013-11-03,2013-11-04
+185,:ref:`MICROLITE`,:ref:`9178733`,indoor,Living room,2014-07-01,2014-07-05

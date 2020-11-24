@@ -1,0 +1,147 @@
+.. _PI160:
+
+*****
+PI160
+*****
+
+Introduction
+############
+
+.. include:: intros/PI160_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/PI160_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/PI160_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/PI160_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/PI160_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _C12060057:
+
+C12060057
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12060057_deployments.csv
+   :header-rows: 1
+
+.. _C12060057:
+
+C12060057
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12060057_deployments.csv
+   :header-rows: 1
+
+.. _C12070026:
+
+C12070026
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12070026_deployments.csv
+   :header-rows: 1
+
+.. _C12070069:
+
+C12070069
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12070069_deployments.csv
+   :header-rows: 1
+
+.. _C12080016:
+
+C12080016
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080016_deployments.csv
+   :header-rows: 1
+
+.. _C12080017:
+
+C12080017
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080017_deployments.csv
+   :header-rows: 1
+
+.. _C12080019:
+
+C12080019
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080019_deployments.csv
+   :header-rows: 1
+
+.. _C12080019:
+
+C12080019
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080019_deployments.csv
+   :header-rows: 1
+
+.. _C12080019:
+
+C12080019
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080019_deployments.csv
+   :header-rows: 1
+
+.. _C12080103:
+
+C12080103
+*********
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080103_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

@@ -1,0 +1,4 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+Minisonic,Minisonic_%LETTER_%SITE,0,Rows w 50% NA omitted,10Hz
+Minisonic,Minisonic_%LETTER_%SITE,0,Rows w 50% NA omitted,1min
+Minisonic,Minisonic_%LETTER_%SITE,0,Rows w 50% NA omitted,15min

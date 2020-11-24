@@ -1,67 +1,67 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-8,:ref:`DAVIS`,A00422A003,A,single,Davis weather station B,2013-04-08,2013-06-03
-9,:ref:`DAVIS`,A00422A002,B,single,Davis weather station A,2013-04-08,2013-06-03
-28,:ref:`PAR`,020630659,B,single,PAR,2012-03-26,2014-08-13
-30,:ref:`PAR`,020630659,B,single,PAR,2014-08-13,2014-09-04
-33,:ref:`PAR`,020630659,B,single,PAR,2014-09-04,2016-09-14
-395,:ref:`PAR`,020630659,B,single,PAR,2016-09-15,2017-06-13
-29,:ref:`CNR4`,100311,B,single,CNR4,2012-03-26,2014-08-13
-31,:ref:`CNR4`,100311,B,single,CNR4,2014-08-13,2014-09-04
-32,:ref:`CNR4`,100311,B,single,CNR4,2014-09-04,2016-09-14
-394,:ref:`CNR4`,100311,B,single,CNR4,2016-09-15,2017-06-13
-34,:ref:`UVA`,060427921,C,single,UVA,2012-03-26,2013-07-24
-35,:ref:`UVA`,060427922,D,single,UVA,2013-07-24,2014-08-13
-36,:ref:`UVA`,060427922,D,single,UVA,2014-08-13,2014-09-04
-37,:ref:`UVA`,060427922,D,single,UVA,2014-09-04,2016-09-14
-396,:ref:`UVA`,060427922,D,single,UVA,2016-09-15,2017-06-13
-38,:ref:`UVB`,060427924,C,single,UVB,2012-03-26,2013-07-24
-39,:ref:`UVB`,060427925,D,single,UVB,2013-07-24,2014-08-13
-40,:ref:`UVB`,060427925,D,single,UVB,2014-08-13,2014-09-04
-41,:ref:`UVB`,060427925,D,single,UVB,2014-09-04,2016-09-14
-397,:ref:`UVB`,060427925,D,single,UVB,2016-09-15,2017-06-13
-42,:ref:`CNR4`,100312,A,single,ALT_RAD,2014-08-12,2014-09-03
-227,:ref:`WXT510`,B0840003,D,single,WXT,2012-03-26,2013-04-03
-230,:ref:`WXT510`,B0840003,D,single,WXT,2014-07-24,2014-08-12
-231,:ref:`WXT510`,B0840003,D,single,WXT,2014-08-12,2014-09-09
-232,:ref:`WXT510`,B0840003,D,single,WXT,2014-09-09,2015-10-09
-228,:ref:`WXT510`,B0840006-G0630168,E,single,WXT,2013-04-03,2013-11-22
-229,:ref:`WXT510`,B0840006-G0630168,E,single,WXT,2013-11-22,2014-07-24
-233,:ref:`WXT510`,B0840006-G0630168,E,single,WXT,2015-10-09,2016-09-14
-398,:ref:`WXT510`,B0840006-G0630168,E,single,WXT,2016-09-15,2017-06-13
-284,:ref:`CT25K`,LCBRV559,R,ceilometer,CT25K-R,2015-06-17,2020-08-01
-321,:ref:`ARG100`,042908,A,single,ARG100,2016-07-14,2017-06-13
-341,:ref:`CSAT3`,0194-2,B,ec,EC - check sonic serieal,2012-03-26,2013-03-26
-342,:ref:`CSAT3`,0194-2,B,ec,EC - check sonic serieal,2013-03-26,2013-04-01
-343,:ref:`CSAT3`,0194-2,B,ec,EC - check sonic serieal,2013-04-01,2013-05-09
-350,:ref:`CSAT3`,0194-2,B,ec,EC - check sonic serieal,2013-05-10,2016-09-14
-391,:ref:`CSAT3`,0194-2,B,ec,EC - check sonic serieal,2016-09-15,2017-06-13
-341,:ref:`LI7500A`,75H-0995,A,ec,EC - check sonic serieal,2012-03-26,2013-03-26
-342,:ref:`LI7500A`,75H-0995,A,ec,EC - check sonic serieal,2013-03-26,2013-04-01
-343,:ref:`LI7500A`,75H-0995,A,ec,EC - check sonic serieal,2013-04-01,2013-05-09
-350,:ref:`LI7500A`,75H-0995,A,ec,EC - check sonic serieal,2013-05-10,2016-09-14
-391,:ref:`LI7500A`,75H-0995,A,ec,EC - check sonic serieal,2016-09-15,2017-06-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-407,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2012-03-26,2014-08-13
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-408,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-08-13,2014-09-04
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
-409,:ref:`THERMOCOUPLE`,123456,A,profile_complex,T profile,2014-09-04,2015-09-15
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+8,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station B,2013-04-08,2013-06-03
+9,:ref:`DAVIS`,:ref:`A00422A002`,single,Davis weather station A,2013-04-08,2013-06-03
+28,:ref:`PAR`,:ref:`020630659`,single,PAR,2012-03-26,2014-08-13
+30,:ref:`PAR`,:ref:`020630659`,single,PAR,2014-08-13,2014-09-04
+33,:ref:`PAR`,:ref:`020630659`,single,PAR,2014-09-04,2016-09-14
+395,:ref:`PAR`,:ref:`020630659`,single,PAR,2016-09-15,2017-06-13
+29,:ref:`CNR4`,:ref:`100311`,single,CNR4,2012-03-26,2014-08-13
+31,:ref:`CNR4`,:ref:`100311`,single,CNR4,2014-08-13,2014-09-04
+32,:ref:`CNR4`,:ref:`100311`,single,CNR4,2014-09-04,2016-09-14
+394,:ref:`CNR4`,:ref:`100311`,single,CNR4,2016-09-15,2017-06-13
+34,:ref:`UVA`,:ref:`060427921`,single,UVA,2012-03-26,2013-07-24
+35,:ref:`UVA`,:ref:`060427922`,single,UVA,2013-07-24,2014-08-13
+36,:ref:`UVA`,:ref:`060427922`,single,UVA,2014-08-13,2014-09-04
+37,:ref:`UVA`,:ref:`060427922`,single,UVA,2014-09-04,2016-09-14
+396,:ref:`UVA`,:ref:`060427922`,single,UVA,2016-09-15,2017-06-13
+38,:ref:`UVB`,:ref:`060427924`,single,UVB,2012-03-26,2013-07-24
+39,:ref:`UVB`,:ref:`060427925`,single,UVB,2013-07-24,2014-08-13
+40,:ref:`UVB`,:ref:`060427925`,single,UVB,2014-08-13,2014-09-04
+41,:ref:`UVB`,:ref:`060427925`,single,UVB,2014-09-04,2016-09-14
+397,:ref:`UVB`,:ref:`060427925`,single,UVB,2016-09-15,2017-06-13
+42,:ref:`CNR4`,:ref:`100312`,single,ALT_RAD,2014-08-12,2014-09-03
+227,:ref:`WXT510`,:ref:`B0840003`,single,WXT,2012-03-26,2013-04-03
+230,:ref:`WXT510`,:ref:`B0840003`,single,WXT,2014-07-24,2014-08-12
+231,:ref:`WXT510`,:ref:`B0840003`,single,WXT,2014-08-12,2014-09-09
+232,:ref:`WXT510`,:ref:`B0840003`,single,WXT,2014-09-09,2015-10-09
+228,:ref:`WXT510`,:ref:`B0840006-G0630168`,single,WXT,2013-04-03,2013-11-22
+229,:ref:`WXT510`,:ref:`B0840006-G0630168`,single,WXT,2013-11-22,2014-07-24
+233,:ref:`WXT510`,:ref:`B0840006-G0630168`,single,WXT,2015-10-09,2016-09-14
+398,:ref:`WXT510`,:ref:`B0840006-G0630168`,single,WXT,2016-09-15,2017-06-13
+284,:ref:`CT25K`,:ref:`LCBRV559`,ceilometer,CT25K-R,2015-06-17,2020-08-01
+321,:ref:`ARG100`,:ref:`042908`,single,ARG100,2016-07-14,2017-06-13
+341,:ref:`CSAT3`,:ref:`0194-2`,ec,EC - check sonic serieal,2012-03-26,2013-03-26
+342,:ref:`CSAT3`,:ref:`0194-2`,ec,EC - check sonic serieal,2013-03-26,2013-04-01
+343,:ref:`CSAT3`,:ref:`0194-2`,ec,EC - check sonic serieal,2013-04-01,2013-05-09
+350,:ref:`CSAT3`,:ref:`0194-2`,ec,EC - check sonic serieal,2013-05-10,2016-09-14
+391,:ref:`CSAT3`,:ref:`0194-2`,ec,EC - check sonic serieal,2016-09-15,2017-06-13
+341,:ref:`LI7500A`,:ref:`75H-0995`,ec,EC - check sonic serieal,2012-03-26,2013-03-26
+342,:ref:`LI7500A`,:ref:`75H-0995`,ec,EC - check sonic serieal,2013-03-26,2013-04-01
+343,:ref:`LI7500A`,:ref:`75H-0995`,ec,EC - check sonic serieal,2013-04-01,2013-05-09
+350,:ref:`LI7500A`,:ref:`75H-0995`,ec,EC - check sonic serieal,2013-05-10,2016-09-14
+391,:ref:`LI7500A`,:ref:`75H-0995`,ec,EC - check sonic serieal,2016-09-15,2017-06-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+407,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2012-03-26,2014-08-13
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+408,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-08-13,2014-09-04
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15
+409,:ref:`THERMOCOUPLE`,:ref:`123456`,profile_complex,T profile,2014-09-04,2015-09-15

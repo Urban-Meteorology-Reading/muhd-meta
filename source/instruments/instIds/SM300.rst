@@ -1,0 +1,156 @@
+.. _SM300:
+
+*****
+SM300
+*****
+
+Introduction
+############
+
+.. include:: intros/SM300_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/SM300_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/SM300_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/SM300_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/SM300_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _A01357:
+
+A01357
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01357_deployments.csv
+   :header-rows: 1
+
+.. _A01358:
+
+A01358
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01358_deployments.csv
+   :header-rows: 1
+
+.. _A01359:
+
+A01359
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01359_deployments.csv
+   :header-rows: 1
+
+.. _A01360:
+
+A01360
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01360_deployments.csv
+   :header-rows: 1
+
+.. _A01361:
+
+A01361
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01361_deployments.csv
+   :header-rows: 1
+
+.. _A01362:
+
+A01362
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01362_deployments.csv
+   :header-rows: 1
+
+.. _A01363:
+
+A01363
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01363_deployments.csv
+   :header-rows: 1
+
+.. _A01364:
+
+A01364
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01364_deployments.csv
+   :header-rows: 1
+
+.. _A01365:
+
+A01365
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01365_deployments.csv
+   :header-rows: 1
+
+.. _A01366:
+
+A01366
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01366_deployments.csv
+   :header-rows: 1
+
+.. _A01605:
+
+A01605
+******
+
+.. csv-table:: 
+   :file: deployments/SM300/A01605_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

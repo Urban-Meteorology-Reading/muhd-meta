@@ -1,0 +1,4 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+FLAG,Status flag,N/A,,,"PIR,1,15min"
+Ldn,incoming_longwave_radiation,W.m-2,100.0,600.0,"PIR,0,15min PIR,1,15min"
+sd_Ldn,standard_deviation_Ldn,W.m-2,,,"PIR,0,15min PIR,1,15min"

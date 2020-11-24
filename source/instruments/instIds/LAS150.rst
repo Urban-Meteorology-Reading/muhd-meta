@@ -1,0 +1,66 @@
+.. _LAS150:
+
+******
+LAS150
+******
+
+Introduction
+############
+
+.. include:: intros/LAS150_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/LAS150_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/LAS150_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/LAS150_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/LAS150_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _60029:
+
+60029
+*****
+
+.. csv-table:: 
+   :file: deployments/LAS150/60029_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

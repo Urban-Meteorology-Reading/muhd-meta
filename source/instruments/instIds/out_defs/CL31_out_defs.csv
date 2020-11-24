@@ -1,0 +1,6 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+CL31_BSC,CL31-%LETTER_BSC_%SITE,0,,3sec
+CL31_BSC,CL31-%LETTER_BSC_%SITE,1,,15sec
+CL31_CLD,CL31-%LETTER_CLD_%SITE,0,,15sec
+CL31_CCW30,CL31-%LETTER_CCW30_%SITE,1,,15min
+CL31_MLH,CL31-%LETTER_MLH_%SITE,1,,15min

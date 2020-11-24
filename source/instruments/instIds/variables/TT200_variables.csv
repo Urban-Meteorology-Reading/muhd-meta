@@ -1,0 +1,4 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+BattVolt,Battery_Voltage,V,,,"TT200,0,15min"
+Soil_Moist,Soil_Moisture,%,0.0,100.0,"TT200,0,15min"
+Soil_Temp,Soil_Temperature,Celsius,-30.0,50.0,"TT200,0,15min"

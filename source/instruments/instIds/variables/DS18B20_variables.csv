@@ -1,0 +1,3 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+FLAG,Status flag,N/A,,,"WaterT,1,1min WaterT,1,15min"
+Twater,River_Thames_water_temperature,Celsius,,,"WaterT,0,1min WaterT,0,15min WaterT,1,1min WaterT,1,15min"

@@ -1,0 +1,2 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+rain_acc,Rain accumulation over file interval period,mm,0.0,3.0,"ARG100,0,15min"

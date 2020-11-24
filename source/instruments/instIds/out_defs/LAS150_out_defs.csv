@@ -1,0 +1,7 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+LAS150,LAS_Fast_%SITE,0,No_QC,1min
+LAS150,LAS_Fast_%SITE,0,No_QC,15min
+LAS150,LAS_Fast_%SITE,0,No_QC,30min
+LAS150,LAS_Fast_%SITE,1,Thresholds,1min
+LAS150,LAS_Fast_%SITE,1,Thresholds,15min
+LAS150,LAS_Fast_%SITE,1,Thresholds,30min

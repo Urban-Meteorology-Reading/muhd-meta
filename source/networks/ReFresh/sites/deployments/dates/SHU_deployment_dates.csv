@@ -1,4 +1,4 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-385,:ref:`WXT510`,E1620004,B,single,WXT,2017-01-01,2018-03-07
-388,:ref:`CNR4`,090064,C,single,CNR4,2017-01-01,2018-03-07
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+385,:ref:`WXT510`,:ref:`E1620004`,single,WXT,2017-01-01,2018-03-07
+388,:ref:`CNR4`,:ref:`090064`,single,CNR4,2017-01-01,2018-03-07

@@ -1,4 +1,4 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-94,:ref:`SM300`,A01365,B,single,SMP West,2015-11-02,2016-05-10
-95,:ref:`SM300`,A01360,A,single,SMP East,2015-11-02,2016-06-07
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+94,:ref:`SM300`,:ref:`A01365`,single,SMP West,2015-11-02,2016-05-10
+95,:ref:`SM300`,:ref:`A01360`,single,SMP East,2015-11-02,2016-06-07

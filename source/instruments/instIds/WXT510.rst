@@ -1,0 +1,111 @@
+.. _WXT510:
+
+******
+WXT510
+******
+
+Introduction
+############
+
+.. include:: intros/WXT510_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/WXT510_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/WXT510_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/WXT510_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/WXT510_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _B0840003:
+
+B0840003
+********
+
+.. csv-table:: 
+   :file: deployments/WXT510/B0840003_deployments.csv
+   :header-rows: 1
+
+.. _B0840006-G0630168:
+
+B0840006-G0630168
+*****************
+
+.. csv-table:: 
+   :file: deployments/WXT510/B0840006-G0630168_deployments.csv
+   :header-rows: 1
+
+.. _B084005:
+
+B084005
+*******
+
+.. csv-table:: 
+   :file: deployments/WXT510/B084005_deployments.csv
+   :header-rows: 1
+
+.. _B084006:
+
+B084006
+*******
+
+.. csv-table:: 
+   :file: deployments/WXT510/B084006_deployments.csv
+   :header-rows: 1
+
+.. _E1620004:
+
+E1620004
+********
+
+.. csv-table:: 
+   :file: deployments/WXT510/E1620004_deployments.csv
+   :header-rows: 1
+
+.. _E1620005:
+
+E1620005
+********
+
+.. csv-table:: 
+   :file: deployments/WXT510/E1620005_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

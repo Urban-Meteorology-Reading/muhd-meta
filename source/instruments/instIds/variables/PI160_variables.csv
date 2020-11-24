@@ -1,0 +1,4 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+DeviceTemp,device_temperature,Celsius,,,"PI160META,0,1min"
+T_Chip,Chip temperature,Celsius,0.0,120.0,"PI160META,0,1min"
+Tsfc,surface_temperature,Celsius,,,"PI160META,0,1min"

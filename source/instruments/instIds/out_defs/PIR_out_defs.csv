@@ -1,0 +1,3 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+PIR,PIR_%SITE,0,No_QAQC,15min
+PIR,PIR_%SITE,1,Thresholds,15min

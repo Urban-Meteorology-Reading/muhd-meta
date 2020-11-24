@@ -1,0 +1,7 @@
+Ouput definition ID,File Identifier,Level Number,QAQC notes,File time resolution
+BLS,BLS_%SITE,0,No_QC,1min
+BLS,BLS_%SITE,0,No_QC,15min
+BLS,BLS_%SITE,0,No_QC,30min
+BLS,BLS_%SITE,1,Thresholds,1min
+BLS,BLS_%SITE,1,Thresholds,15min
+BLS,BLS_%SITE,1,Thresholds,30min

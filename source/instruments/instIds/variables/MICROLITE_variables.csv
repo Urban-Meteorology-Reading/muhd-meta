@@ -1,0 +1,4 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+RH_indoor,Indoor relative humidity,%,0.0,100.0,"Microlite,0,1min"
+T_dew_indoor,Indoor dew point temperature,Celsius,,,"Microlite,0,1min"
+Tair_indoor,Indoor air temperature,Celsius,,,"Microlite,0,1min"

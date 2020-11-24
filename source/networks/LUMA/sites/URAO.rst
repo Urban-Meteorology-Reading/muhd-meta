@@ -12,7 +12,7 @@ Introduction
 Site metadata
 #############
 
-.. csv-table::
+.. csv-table:: 
    :file: meta/URAO_meta.csv
    :stub-columns: 2
 
@@ -31,6 +31,10 @@ Deployments at site
    :file: deployments/raw_files/URAO_deployment_raw_files.csv
    :header-rows: 2
 
+.. csv-table:: Metadata specific to profiles
+   :file: deployments/profile_deployments/URAO_profile_deployments.csv
+   :header-rows: 2
+
 Photos
 ######
 
@@ -40,6 +44,11 @@ Supplementary information
 Data acquisition
 ################
 
+.. include:: data_acquisition/URAO/URAO_data_acquisition.rst
+
 References
 ##########
+
+Acknowledgements
+################
 

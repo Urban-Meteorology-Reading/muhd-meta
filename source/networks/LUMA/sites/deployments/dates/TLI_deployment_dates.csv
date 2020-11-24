@@ -1,6 +1,6 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-66,:ref:`TINYTAG`,571883,A,single,Water T,2010-04-04,2011-04-30
-67,:ref:`TINYTAG`,571884,B,single,Water T,2011-05-17,2014-05-21
-68,:ref:`TINYTAG`,721747,C,single,Water T,2014-07-15,2016-02-02
-265,:ref:`DS18B20`,A027131,A,single,WaterT,2015-12-01,
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+66,:ref:`TINYTAG`,:ref:`571883`,single,Water T,2010-04-04,2011-04-30
+67,:ref:`TINYTAG`,:ref:`571884`,single,Water T,2011-05-17,2014-05-21
+68,:ref:`TINYTAG`,:ref:`721747`,single,Water T,2014-07-15,2016-02-02
+265,:ref:`DS18B20`,:ref:`A027131`,single,WaterT,2015-12-01,

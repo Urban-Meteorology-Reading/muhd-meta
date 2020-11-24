@@ -1,0 +1,75 @@
+.. _ARG100:
+
+******
+ARG100
+******
+
+Introduction
+############
+
+.. include:: intros/ARG100_intro.rst
+
+Manufacturer and Model
+######################
+
+.. csv-table:: 
+   :file: manufacturers/ARG100_manufacturer.csv
+   :header-rows: 1
+
+Output definitions
+##################
+
+.. csv-table:: 
+   :file: out_defs/ARG100_out_defs.csv
+   :header-rows: 1
+
+Processing code
+###############
+
+Variables measured by instrument
+################################
+
+.. csv-table:: Variables measured - sorted alphabetically
+   :file: variables/ARG100_variables.csv
+   :header-rows: 1
+
+Serials
+#######
+
+.. csv-table:: 
+   :file: serials/ARG100_serials.csv
+   :header-rows: 1
+
+Deployments
+###########
+
+.. _042908:
+
+042908
+******
+
+.. csv-table:: 
+   :file: deployments/ARG100/042908_deployments.csv
+   :header-rows: 1
+
+.. _SOUTHWARK:
+
+SOUTHWARK
+*********
+
+.. csv-table:: 
+   :file: deployments/ARG100/SOUTHWARK_deployments.csv
+   :header-rows: 1
+
+Photos
+######
+
+Supplementary information
+#########################
+
+Data acquisition
+################
+
+References
+##########
+

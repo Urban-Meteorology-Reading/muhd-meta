@@ -1,17 +1,17 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-299,:ref:`CT25K`,LCBRV312,X,ceilometer,CT25K-X,2016-07-15,2016-07-28
-303,:ref:`CT25K`,LCBRV152,U,ceilometer,CT25K-U,2016-08-05,2016-08-19
-304,:ref:`CT25K`,LCBRV017,W,ceilometer,CT25K-W,2016-06-17,2016-07-01
-306,:ref:`CT25K`,LCBRV010,V,ceilometer,CT25K-V,2016-06-03,2016-06-17
-308,:ref:`CT25K`,LCBR045,Q,ceilometer,CT25K-Q,2016-09-19,2016-12-02
-312,:ref:`CT25K`,LCBR327,S,ceilometer,CT25K-S,2016-09-02,2016-09-19
-313,:ref:`CT25K`,LCBR022,T,ceilometer,CT25K-T,2016-08-19,2016-09-02
-338,:ref:`GILL121R03`,1070-3,C,ec,EC - gill orientation may be off by 180,2015-07-19,2017-03-09
-392,:ref:`GILL121R03`,1070-3,C,ec,EC,2017-04-27,2020-07-07
-338,:ref:`LI7500A`,75H-1124,B,ec,EC - gill orientation may be off by 180,2015-07-19,2017-03-09
-387,:ref:`LI7500A`,75H-1124,B,ec,EC - gill orientation may be off by 180,2017-03-14,2017-04-27
-392,:ref:`LI7500A`,75H-1124,B,ec,EC,2017-04-27,2020-07-07
-380,:ref:`CT25K`,LCBRV559,R,ceilometer,CL31-R,2015-04-02,2015-06-05
-381,:ref:`CL31`,J1720003,F,ceilometer,CL31-F,2014-04-23,
-387,:ref:`GILL121R03`,152701,B,ec,EC - gill orientation may be off by 180,2017-03-14,2017-04-27
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+299,:ref:`CT25K`,:ref:`LCBRV312`,ceilometer,CT25K-X,2016-07-15,2016-07-28
+303,:ref:`CT25K`,:ref:`LCBRV152`,ceilometer,CT25K-U,2016-08-05,2016-08-19
+304,:ref:`CT25K`,:ref:`LCBRV017`,ceilometer,CT25K-W,2016-06-17,2016-07-01
+306,:ref:`CT25K`,:ref:`LCBRV010`,ceilometer,CT25K-V,2016-06-03,2016-06-17
+308,:ref:`CT25K`,:ref:`LCBR045`,ceilometer,CT25K-Q,2016-09-19,2016-12-02
+312,:ref:`CT25K`,:ref:`LCBR327`,ceilometer,CT25K-S,2016-09-02,2016-09-19
+313,:ref:`CT25K`,:ref:`LCBR022`,ceilometer,CT25K-T,2016-08-19,2016-09-02
+338,:ref:`GILL121R03`,:ref:`1070-3`,ec,EC - gill orientation may be off by 180,2015-07-19,2017-03-09
+392,:ref:`GILL121R03`,:ref:`1070-3`,ec,EC,2017-04-27,2020-07-07
+338,:ref:`LI7500A`,:ref:`75H-1124`,ec,EC - gill orientation may be off by 180,2015-07-19,2017-03-09
+387,:ref:`LI7500A`,:ref:`75H-1124`,ec,EC - gill orientation may be off by 180,2017-03-14,2017-04-27
+392,:ref:`LI7500A`,:ref:`75H-1124`,ec,EC,2017-04-27,2020-07-07
+380,:ref:`CT25K`,:ref:`LCBRV559`,ceilometer,CL31-R,2015-04-02,2015-06-05
+381,:ref:`CL31`,:ref:`J1720003`,ceilometer,CL31-F,2014-04-23,
+387,:ref:`GILL121R03`,:ref:`152701`,ec,EC - gill orientation may be off by 180,2017-03-14,2017-04-27

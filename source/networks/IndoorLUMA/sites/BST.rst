@@ -12,7 +12,7 @@ Introduction
 Site metadata
 #############
 
-.. csv-table::
+.. csv-table:: 
    :file: meta/BST_meta.csv
    :stub-columns: 2
 
@@ -44,6 +44,11 @@ Supplementary information
 Data acquisition
 ################
 
+.. include:: data_acquisition/BST/BST_data_acquisition.rst
+
 References
 ##########
+
+Acknowledgements
+################
 

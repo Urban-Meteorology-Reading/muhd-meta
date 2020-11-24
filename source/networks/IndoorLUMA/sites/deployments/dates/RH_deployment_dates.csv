@@ -1,4 +1,4 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-223,:ref:`MICROLITE`,9178739,O,indoor,5th floor (incomplete),2013-08-01,2013-08-09
-224,:ref:`MICROLITE`,9178719,D,indoor,5th floor (incomplete),2013-08-22,2013-08-23
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+223,:ref:`MICROLITE`,:ref:`9178739`,indoor,5th floor (incomplete),2013-08-01,2013-08-09
+224,:ref:`MICROLITE`,:ref:`9178719`,indoor,5th floor (incomplete),2013-08-22,2013-08-23

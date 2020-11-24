@@ -1,4 +1,4 @@
-Deployment ID,Instrument ID,Instrument serial,Letter,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,NA,UTC,UTC
-1,:ref:`DAVIS`,AJ130401024,C,single,Davis3,2014-03-20,2018-10-31
-323,:ref:`LASMKII`,120028,B,scintillometer,LASMkII Rx,2014-04-01,2017-03-16
+Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
+NA,NA,NA,NA,NA,UTC,UTC
+1,:ref:`DAVIS`,:ref:`AJ130401024`,single,Davis3,2014-03-20,2018-10-31
+323,:ref:`LASMKII`,:ref:`120028`,scintillometer,LASMkII Rx,2014-04-01,2017-03-16

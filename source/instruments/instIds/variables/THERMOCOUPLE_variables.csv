@@ -1,0 +1,5 @@
+Variable ID,Full Name,Unit,Lower Threshold,Upper Threshold,"Files present (Output definition ID,Level No,Time resolution)"
+nSamples,nSamples,samples/interval,,,"Omega_T,0,1min Omega_T,0,10min Omega_T,0,30min Omega_T,1,1min Omega_T,1,10min Omega_T,1,30min"
+sd_Tair,Standard deviation air temperature,Celsius,,,"Omega_T,0,1min Omega_T,0,10min Omega_T,0,30min Omega_T,1,1min Omega_T,1,10min Omega_T,1,30min"
+Soil_Temp,Soil_Temperature,Celsius,-30.0,50.0,"Thermocouple,0,15min Thermocouple,1,15min"
+Tair,air_temperature,Celsius,-30.0,50.0,"Omega_T,0,1min Omega_T,0,10min Omega_T,0,30min Omega_T,1,1min Omega_T,1,10min Omega_T,1,30min"
