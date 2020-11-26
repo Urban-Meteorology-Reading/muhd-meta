@@ -53,17 +53,17 @@ Photos
 .. figure:: photos/SWT/23-07-2020_(38).JPEG
    :scale: 15
 
-   View of mast, temperature and humidity sensors, scintillometers and CNR1 23-07-2020.
+   View of mast, temperature and humidity sensors ( :ref:`SWTWXSTATION` ) , scintillometers and :ref:`CNR1` 23-07-2020.
 
 .. figure:: photos/SWT/23-07-2020_(16).JPEG
    :scale: 15
 
-   ARG100 and CL31 23-07-2020.
+   :ref:`ARG100` and :ref:`CL31` 23-07-2020.
 
 .. figure:: photos/SWT/19-07-2019_(12).JPG
    :scale: 10
 
-   Scintillometers. LAS MkII transmitter to SCT and BLS 900 reciever from IMU 19-07-2019.
+   Scintillometers. :ref:`LASMKII` transmitter to SCT and :ref:`BLS` reciever from IMU 19-07-2019.
 
 Supplementary information
 #########################
@@ -71,23 +71,20 @@ Supplementary information
 .. list-table:: 
    :header-rows: 1
 
-   * - Internal
-     - Link
+   * - Link
      - Title
      - Description
-   * - False
-     - http://www.urban-climate.net/content/data
+   * - http://www.urban-climate.net/content/data
      - Southwark Meteorological Data
      - Information and pre-2017 weather data from SWT 
-   * - False
-     - http://data.urban-climate.net/southwark_plots/
+   * - http://data.urban-climate.net/southwark_plots/
      - Southwark Meteorological Station
      - Current weather data visualisation and download 
 
 Data acquisition
 ################
 
-.. include:: data_acquisition/SWT/SWT_data_acquisition.rst
+.. include:: data_acquisition/SWT_data_acquisition.rst
 
 References
 ##########
@@ -95,15 +92,5 @@ References
 Acknowledgements
 ################
 
-We thank the following: 
-
-.. list-table:: 
-   :header-rows: 1
-
-   * - Name
-     - Organisation
-   * - Bill Legassick
-     - Southwark council
-
-for initial and continued site access
+We thank Bill Legassick from Southwark council for initial and continued site access.
 

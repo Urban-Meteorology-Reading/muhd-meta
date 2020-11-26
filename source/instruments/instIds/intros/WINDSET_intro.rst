@@ -1,0 +1,1 @@
+The WA15 anemometer and wind vane is used for weather measurements at :ref:`SWT`. See :ref:`SWTWXSTATION` for the file output definitions. 

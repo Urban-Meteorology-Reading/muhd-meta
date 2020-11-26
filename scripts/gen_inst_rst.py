@@ -54,7 +54,7 @@ for instId in insts_to_process:
         gen_rst.write_title(inst_file, 'Deployments')
         deployment_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'deployments', instId) 
         if os.path.exists(deployment_dir):
-            all_serials = [i.split('_')[0] for i in os.listdir(deployment_dir)]
+            all_serials = [i.replace('_deployments.csv', '') for i in os.listdir(deployment_dir)]
             for serial in all_serials:
                 #write referencer
                 inst_file.write(f".. _{serial}:\n\n")
@@ -82,7 +82,12 @@ for instId in insts_to_process:
         
         #data acquisition
         gen_rst.write_title(inst_file, 'Data acquisition')
-
+        data_acquisition_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'data_acquisition', f'{instId}_data_acquisition.rst')
+        if os.path.exists(data_acquisition_dir):
+            inst_file.write(f".. include:: data_acquisition/{instId}_data_acquisition.rst\n\n")
+        else:
+            inst_file.write(f".. include:: ../../data_acquisition/data_acquisition_default.rst\n\n")
+        
         #references
         gen_rst.write_title(inst_file, 'References')        
 

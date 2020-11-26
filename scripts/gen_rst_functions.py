@@ -122,6 +122,7 @@ def write_site_acknowledgements(file, acknowledgements_path, site):
     Get site acknoweldgements from table into written format
     ''' 
     import pandas as pd
+    import math
 
     #read table
     acknowledgements_df = pd.read_csv(acknowledgements_path)
@@ -129,6 +130,24 @@ def write_site_acknowledgements(file, acknowledgements_path, site):
     site_acknowledgements = site_acknowledgements.drop('Linked site', axis = 1)
     #write to list-table
     if len(site_acknowledgements) > 0:
-        file.write(f"We thank the following: \n\n")
-        write_csv_to_list_table(file, site_acknowledgements)
-        file.write(f"for initial and continued site access\n\n")
+        file.write(f"We thank ")
+        site_acknowledgements_group = site_acknowledgements.groupby('Organisation')
+        n_orgs = len(site_acknowledgements['Organisation'].unique())
+        n = 1
+        for org, group in site_acknowledgements_group:
+            #check if it is organisation only
+            if all([str(names) != 'nan' for names in group['Name']]):
+                file.write(f"{', '.join(group['Name'])} from {org}")
+            else:
+                file.write(f"{org}")
+            #if last org add a space
+            if n == n_orgs:
+                file.write(' ')
+            # if second last write and
+            elif n_orgs - n == 1:
+                file.write(' and ')
+            #else separate with comma
+            else:
+                file.write(', ')
+            n += 1
+        file.write(f"for initial and continued site access.\n\n")

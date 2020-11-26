@@ -43,13 +43,13 @@ Serials
 Deployments
 ###########
 
-.. _WUNDERGROUND:
+.. _WUNDERGROUND_WEB:
 
-WUNDERGROUND
-************
+WUNDERGROUND_WEB
+****************
 
 .. csv-table:: 
-   :file: deployments/WUNDERGROUNDWEB/WUNDERGROUND_deployments.csv
+   :file: deployments/WUNDERGROUNDWEB/WUNDERGROUND_WEB_deployments.csv
    :header-rows: 1
 
 Photos
@@ -60,6 +60,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

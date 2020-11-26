@@ -1,0 +1,1 @@
+SWTWXSTATION is the overarching instrument name for the :ref:`107`, :ref:`WINDSET` and :ref:`HMP45A` at :ref:`SWT`. Data from these instruments are processed together and stored in the same files. 

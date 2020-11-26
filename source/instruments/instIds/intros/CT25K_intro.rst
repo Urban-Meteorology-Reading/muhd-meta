@@ -1,0 +1,1 @@
+The CT25K is a ceilometer manufactured by Vaisala. They measure the atmospheric backscatter and can determine cloud heights for multiple layers. Ceilometers work with an invisible eye safe laser that shoots directly upwards into the air. The CT25K is an older version than the :ref:`CL31`. It gives worse results than the CL31.

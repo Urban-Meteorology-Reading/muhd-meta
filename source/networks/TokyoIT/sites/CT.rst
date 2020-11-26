@@ -40,7 +40,7 @@ Supplementary information
 Data acquisition
 ################
 
-.. include:: data_acquisition/CT/CT_data_acquisition.rst
+.. include:: ../../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

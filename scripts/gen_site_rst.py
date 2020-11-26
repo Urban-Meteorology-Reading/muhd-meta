@@ -73,13 +73,17 @@ for site in sites_to_process:
         site_sup_info = gen_rst.get_supplementary_info(sup_info, 'Site', site)
         
         if len(site_sup_info) > 0:
-            site_sup_info = site_sup_info.drop(['Inst Id', 'Site'], axis = 1)
+            site_sup_info = site_sup_info.drop(['Inst Id', 'Site', 'Internal'], axis = 1)
             gen_rst.write_csv_to_list_table(site_file, site_sup_info)
         
         # data_acquisition
         gen_rst.write_title(site_file, "Data acquisition")
-        site_file.write(f".. include:: data_acquisition/{site}/{site}_data_acquisition.rst\n\n")
-        
+        data_acquisition_dir = os.path.join('..', 'source', 'networks', network, 'sites', 'data_acquisition', f'{site}_data_acquisition.rst')
+        if os.path.exists(data_acquisition_dir):
+            site_file.write(f".. include:: data_acquisition/{site}_data_acquisition.rst\n\n")
+        else:
+            site_file.write(f".. include:: ../../../data_acquisition/data_acquisition_default.rst\n\n")
+
         #references
         gen_rst.write_title(site_file,"References")
         if os.path.exists(os.path.join('..', 'source', 'networks', network, 'sites', 'references', 'references.csv')):

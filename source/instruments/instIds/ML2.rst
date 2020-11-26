@@ -43,22 +43,22 @@ Serials
 Deployments
 ###########
 
-.. _224:
+.. _224_063:
 
-224
-***
+224_063
+*******
 
 .. csv-table:: 
-   :file: deployments/ML2/224_deployments.csv
+   :file: deployments/ML2/224_063_deployments.csv
    :header-rows: 1
 
-.. _224:
+.. _224_063_EMB:
 
-224
-***
+224_063_EMB
+***********
 
 .. csv-table:: 
-   :file: deployments/ML2/224_deployments.csv
+   :file: deployments/ML2/224_063_EMB_deployments.csv
    :header-rows: 1
 
 Photos
@@ -69,6 +69,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

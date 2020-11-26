@@ -117,6 +117,16 @@ Photos
 
    CL31 at :ref:`HOP` 12/12/2018
 
+.. figure:: photos/CL31/r0015452_23761921356_o.jpg
+   :scale: 15
+
+   CL31 at :ref:`KSS45W` 
+
+.. figure:: photos/CL31/2014-02-26-171111_25767860891_o.jpg
+   :scale: 15
+
+   CL31 at :ref:`RGS` 26/02/2014
+
 Supplementary information
 #########################
 
@@ -126,12 +136,14 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CL31 user guide <../../supplementary_info/manuals/CL31/CL31_manual.pdf>`
+   * - :download:`CL31 user guide <../../supplementary_info/manuals/CL31_manual.pdf>`
      - CL31 user guide
      - Manual provided by Vaisala
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

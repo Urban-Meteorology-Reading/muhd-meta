@@ -43,13 +43,13 @@ Serials
 Deployments
 ###########
 
-.. _NETATMO:
+.. _NETATMO_WEB:
 
-NETATMO
-*******
+NETATMO_WEB
+***********
 
 .. csv-table:: 
-   :file: deployments/NETATMOWEB/NETATMO_deployments.csv
+   :file: deployments/NETATMOWEB/NETATMO_WEB_deployments.csv
    :header-rows: 1
 
 Photos
@@ -60,6 +60,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

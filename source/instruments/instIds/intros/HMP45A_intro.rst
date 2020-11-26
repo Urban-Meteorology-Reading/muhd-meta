@@ -1,0 +1,1 @@
+The HMP45A humidity probe is used for the weather measurements at :ref:`SWT`. See :ref:`SWTWXSTATION` for the file output definitions. 

@@ -43,238 +43,238 @@ Serials
 Deployments
 ###########
 
-.. _D10-D11:
+.. _D10-D11_UW:
 
-D10-D11
-*******
+D10-D11_UW
+**********
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D10-D11_deployments.csv
+   :file: deployments/LDAUW/D10-D11_UW_deployments.csv
    :header-rows: 1
 
-.. _D10:
+.. _D10_UW:
 
-D10
-***
+D10_UW
+******
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D10_deployments.csv
+   :file: deployments/LDAUW/D10_UW_deployments.csv
    :header-rows: 1
 
-.. _D11:
+.. _D11_UW:
 
-D11
-***
+D11_UW
+******
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D11_deployments.csv
+   :file: deployments/LDAUW/D11_UW_deployments.csv
    :header-rows: 1
 
-.. _D1:
+.. _D1_UW:
 
-D1
-**
+D1_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D1_deployments.csv
+   :file: deployments/LDAUW/D1_UW_deployments.csv
    :header-rows: 1
 
-.. _D2:
+.. _D2_UW:
 
-D2
-**
+D2_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D2_deployments.csv
+   :file: deployments/LDAUW/D2_UW_deployments.csv
    :header-rows: 1
 
-.. _D3:
+.. _D3_UW:
 
-D3
-**
+D3_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D3_deployments.csv
+   :file: deployments/LDAUW/D3_UW_deployments.csv
    :header-rows: 1
 
-.. _D4:
+.. _D4_UW:
 
-D4
-**
+D4_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D4_deployments.csv
+   :file: deployments/LDAUW/D4_UW_deployments.csv
    :header-rows: 1
 
-.. _D5:
+.. _D5_UW:
 
-D5
-**
+D5_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D5_deployments.csv
+   :file: deployments/LDAUW/D5_UW_deployments.csv
    :header-rows: 1
 
-.. _D6:
+.. _D6_UW:
 
-D6
-**
+D6_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D6_deployments.csv
+   :file: deployments/LDAUW/D6_UW_deployments.csv
    :header-rows: 1
 
-.. _D7:
+.. _D7_UW:
 
-D7
-**
+D7_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D7_deployments.csv
+   :file: deployments/LDAUW/D7_UW_deployments.csv
    :header-rows: 1
 
-.. _D8:
+.. _D8_UW:
 
-D8
-**
+D8_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D8_deployments.csv
+   :file: deployments/LDAUW/D8_UW_deployments.csv
    :header-rows: 1
 
-.. _D9:
+.. _D9_UW:
 
-D9
-**
+D9_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/D9_deployments.csv
+   :file: deployments/LDAUW/D9_UW_deployments.csv
    :header-rows: 1
 
-.. _N1:
+.. _N1_UW:
 
-N1
-**
+N1_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N1_deployments.csv
+   :file: deployments/LDAUW/N1_UW_deployments.csv
    :header-rows: 1
 
-.. _N2:
+.. _N2_UW:
 
-N2
-**
+N2_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N2_deployments.csv
+   :file: deployments/LDAUW/N2_UW_deployments.csv
    :header-rows: 1
 
-.. _N3:
+.. _N3_UW:
 
-N3
-**
+N3_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N3_deployments.csv
+   :file: deployments/LDAUW/N3_UW_deployments.csv
    :header-rows: 1
 
-.. _N4:
+.. _N4_UW:
 
-N4
-**
+N4_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N4_deployments.csv
+   :file: deployments/LDAUW/N4_UW_deployments.csv
    :header-rows: 1
 
-.. _N5:
+.. _N5_UW:
 
-N5
-**
+N5_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N5_deployments.csv
+   :file: deployments/LDAUW/N5_UW_deployments.csv
    :header-rows: 1
 
-.. _N6:
+.. _N6_UW:
 
-N6
-**
+N6_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N6_deployments.csv
+   :file: deployments/LDAUW/N6_UW_deployments.csv
    :header-rows: 1
 
-.. _N7:
+.. _N7_UW:
 
-N7
-**
+N7_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/N7_deployments.csv
+   :file: deployments/LDAUW/N7_UW_deployments.csv
    :header-rows: 1
 
-.. _S1:
+.. _S1_UW:
 
-S1
-**
+S1_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S1_deployments.csv
+   :file: deployments/LDAUW/S1_UW_deployments.csv
    :header-rows: 1
 
-.. _S2:
+.. _S2_UW:
 
-S2
-**
+S2_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S2_deployments.csv
+   :file: deployments/LDAUW/S2_UW_deployments.csv
    :header-rows: 1
 
-.. _S3:
+.. _S3_UW:
 
-S3
-**
+S3_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S3_deployments.csv
+   :file: deployments/LDAUW/S3_UW_deployments.csv
    :header-rows: 1
 
-.. _S4:
+.. _S4_UW:
 
-S4
-**
+S4_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S4_deployments.csv
+   :file: deployments/LDAUW/S4_UW_deployments.csv
    :header-rows: 1
 
-.. _S5:
+.. _S5_UW:
 
-S5
-**
+S5_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S5_deployments.csv
+   :file: deployments/LDAUW/S5_UW_deployments.csv
    :header-rows: 1
 
-.. _S6:
+.. _S6_UW:
 
-S6
-**
+S6_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S6_deployments.csv
+   :file: deployments/LDAUW/S6_UW_deployments.csv
    :header-rows: 1
 
-.. _S7:
+.. _S7_UW:
 
-S7
-**
+S7_UW
+*****
 
 .. csv-table:: 
-   :file: deployments/LDAUW/S7_deployments.csv
+   :file: deployments/LDAUW/S7_UW_deployments.csv
    :header-rows: 1
 
 Photos
@@ -285,6 +285,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

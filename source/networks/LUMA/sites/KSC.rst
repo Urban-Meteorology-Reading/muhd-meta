@@ -40,7 +40,7 @@ Supplementary information
 Data acquisition
 ################
 
-.. include:: data_acquisition/KSC/KSC_data_acquisition.rst
+.. include:: ../../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

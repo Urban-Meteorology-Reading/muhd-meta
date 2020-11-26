@@ -1,0 +1,1 @@
+The ARG100 precipitation sensor is a cost effective yet accurate device. It uses the tipping bucket method. One has been used for weather measurements at :ref:`SWT`. See :ref:`SWTWXSTATION` for the file output definitions for the ARG100 deployed at this site. 

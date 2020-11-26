@@ -1,4 +1,4 @@
 Site,Inst Id,Internal,Link,Title,Description
-SWT,,FALSE,http://www.urban-climate.net/content/data,Southwark Meteorological Data,Information and pre-2017 weather data from SWT 
-SWT,,FALSE,http://data.urban-climate.net/southwark_plots/,Southwark Meteorological Station,Current weather data visualisation and download 
-,CL31,TRUE,../../supplementary_info/manuals/CL31/CL31_manual.pdf,CL31 user guide,Manual provided by Vaisala
+SWT,SWTWXSTATION,FALSE,http://data.urban-climate.net/southwark_plots/,Southwark Meteorological Station,Current weather data visualisation and download 
+,CL31,TRUE,../../supplementary_info/manuals/CL31_manual.pdf,CL31 user guide,Manual provided by Vaisala
+,CT25K,TRUE,../../supplementary_info/manuals/CT25K_manual.pdf,CT25K user manual,Manual provided by Vaisala

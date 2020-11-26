@@ -43,13 +43,13 @@ Serials
 Deployments
 ###########
 
-.. _LGFL:
+.. _LGFL_WEB:
 
-LGFL
-****
+LGFL_WEB
+********
 
 .. csv-table:: 
-   :file: deployments/LGFLWEB/LGFL_deployments.csv
+   :file: deployments/LGFLWEB/LGFL_WEB_deployments.csv
    :header-rows: 1
 
 Photos
@@ -60,6 +60,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########

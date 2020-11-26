@@ -142,13 +142,13 @@ D9
    :file: deployments/LDAUV/D9_deployments.csv
    :header-rows: 1
 
-.. _D9:
+.. _D9_REP:
 
-D9
-**
+D9_REP
+******
 
 .. csv-table:: 
-   :file: deployments/LDAUV/D9_deployments.csv
+   :file: deployments/LDAUV/D9_REP_deployments.csv
    :header-rows: 1
 
 .. _N1:
@@ -285,6 +285,8 @@ Supplementary information
 
 Data acquisition
 ################
+
+.. include:: ../../data_acquisition/data_acquisition_default.rst
 
 References
 ##########
