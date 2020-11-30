@@ -17,6 +17,7 @@ This site contains all metadata on sites and instruments that have gone into thi
    :numbered:
    :glob:
 
+   reference_guide/reference_guide.rst
    networks/networks.rst
    instruments/instruments.rst
 
