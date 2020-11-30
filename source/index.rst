@@ -5,7 +5,9 @@ Multi-City Urban Hydrometeorology Database
    :target: https://umep-workshop.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-Welcome to the MUHD meta-data site!
+Welcome to the MUHD meta-data site! 
+
+This site contains all metadata on sites and instruments that have gone into this database. See the :ref:`reference_guide` for information on how to interpret this metadata.
 
 
 

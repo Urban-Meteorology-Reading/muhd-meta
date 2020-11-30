@@ -48,6 +48,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
+    'sphinxcontrib.mermaid',
     # "recommonmark",
     "sphinx_rtd_theme",
     # 'sphinxcontrib.yt',
