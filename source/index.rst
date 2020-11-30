@@ -1,8 +1,8 @@
 Multi-City Urban Hydrometeorology Database
 ===================================================
 
-.. image:: https://readthedocs.org/projects/umep-workshop/badge/?version=latest
-   :target: https://umep-workshop.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/muhd/badge/?version=latest
+   :target: https://muhd.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
 Welcome to the MUHD meta-data site! 
