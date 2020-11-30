@@ -136,7 +136,7 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CL31 user guide <../../supplementary_info/manuals/CL31_manual.pdf>`
+   * - :download:`CL31 user guide <manuals/CL31_manual.pdf>`
      - CL31 user guide
      - Manual provided by Vaisala
 

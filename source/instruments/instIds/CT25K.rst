@@ -131,12 +131,12 @@ Photos
 ######
 
 .. figure:: photos/CT25K/ceil-install-part-1_30868018353_o.jpg
-   :scale: 15
+   :scale: 10
 
    CT25K at :ref:`SWT` 15/12/2016
 
 .. figure:: photos/CT25K/27246847345_59135275cb_o.jpg
-   :scale: 15
+   :scale: 10
 
    CT25K at :ref:`RGS`  25/05/2016 
 
@@ -149,7 +149,7 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CT25K user manual <../../supplementary_info/manuals/CT25K_manual.pdf>`
+   * - :download:`CT25K user manual <manuals/CT25K_manual.pdf>`
      - CT25K user manual
      - Manual provided by Vaisala
 
