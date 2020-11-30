@@ -69,12 +69,22 @@ Photos
    :ref:`107`, :ref:`HMP45A` 23-07-2020.
 
 .. figure:: photos/SWTWXSTATION/27308466430_fdcc9d4628_o(1).jpg
-   :scale: 15
+   :scale: 10
 
    :ref:`107` and :ref:`HMP45A`  in radiation shields, :ref:`WINDSET`  on top of tower 10/06/2016
 
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - http://data.urban-climate.net/southwark_plots/
+     - Southwark Meteorological Station
+     - Current weather data visualisation and download 
 
 Data acquisition
 ################
