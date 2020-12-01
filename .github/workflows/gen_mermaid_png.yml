@@ -19,7 +19,9 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
       - run: npm install @mermaid-js/mermaid-cli
-      - run: ./node_modules/.bin/mmdc -i /source/reference_guide/reference_flowchart.mmd -o /source/reference_guide/reference_flowchart.png
+      - run: pwd
+      - run: ls
+      - run: ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png
