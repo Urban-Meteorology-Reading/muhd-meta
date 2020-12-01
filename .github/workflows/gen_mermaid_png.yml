@@ -19,13 +19,19 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: |
+      - name: Convert from mmd to png
+        run: |
           npm install @mermaid-js/mermaid-cli
           ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png 
-          git config user.email "kitbenjamin@googlemail.com"
-          git config user.name "kitbenjamin"
-          git add .
-          git commit -m "Auto updating reference_flowchart to png"
-          git push origin HEAD:master
+      - name: commit changes
+        run: 
+          git config --local user.name "kitbenjamin"
+          git add ./source/reference_guide/reference_flowchart.mmd
+          git commit -m "Auto converting reference_flowchart to png"
+      - name: push changes 
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
