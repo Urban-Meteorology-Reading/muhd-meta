@@ -16,3 +16,4 @@ atmosp
 supy
 sphinx_copybutton
 sphinx_gallery
+sphinxcontrib-mermaid
