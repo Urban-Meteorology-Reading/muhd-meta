@@ -26,7 +26,7 @@ jobs:
           npm install @mermaid-js/mermaid-cli
           ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png 
       - name: commit changes
-        run: 
+        run: |
           git config --local user.name "kitbenjamin"
           git add ./source/reference_guide/reference_flowchart.mmd
           git commit -m "Auto converting reference_flowchart to png"
