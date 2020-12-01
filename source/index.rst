@@ -9,8 +9,6 @@ Welcome to the MUHD meta-data site!
 
 This site contains all metadata on sites and instruments that have gone into this database. See the :ref:`reference_guide` for information on how to interpret this metadata.
 
-
-
 .. toctree::
    :caption: MUHD sites
    :maxdepth: 2
