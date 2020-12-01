@@ -26,3 +26,6 @@ jobs:
       - run: ls
       - run: ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png
       - run: ls ./source/reference_guide/*
+      - run: git add .
+      - run: git commit -m "Auto updating reference_flowchart to png"
+      - run: git push origin master
