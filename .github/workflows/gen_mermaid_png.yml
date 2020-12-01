@@ -21,13 +21,11 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
-      - run: npm install @mermaid-js/mermaid-cli
-      - run: pwd
-      - run: ls
-      - run: ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png
-      - run: ls ./source/reference_guide/*
-      - run: git config user.email "kitbenjamin@googlemail.com"
-      - run: git config user.name "kitbenjamin"
-      - run: git add .
-      - run: git commit -m "Auto updating reference_flowchart to png"
-      - run: git push origin master
+      - run: |
+          npm install @mermaid-js/mermaid-cli
+          ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png 
+          git config user.email "kitbenjamin@googlemail.com"
+          git config user.name "kitbenjamin"
+          git add .
+          git commit -m "Auto updating reference_flowchart to png"
+          git push origin HEAD:master
