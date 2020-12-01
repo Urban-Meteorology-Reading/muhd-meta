@@ -28,7 +28,8 @@ jobs:
       - name: commit changes
         run: |
           git config --local user.name "kitbenjamin"
-          git add ./source/reference_guide/reference_flowchart.mmd
+          git status
+          git add source/reference_guide/reference_flowchart.mmd
           git commit -m "Auto converting reference_flowchart to png"
       - name: push changes 
         uses: ad-m/github-push-action@master
