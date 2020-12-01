@@ -25,4 +25,4 @@ jobs:
       - run: pwd
       - run: ls
       - run: ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png
-      - run: ls /source/reference_guide/*
+      - run: ls ./source/reference_guide/*
