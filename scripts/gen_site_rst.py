@@ -3,6 +3,7 @@ import os
 import math
 import pandas as pd
 import sqlite3
+import io
 import gen_rst_functions as gen_rst
 
 #%%
@@ -28,7 +29,7 @@ for site in sites_to_process:
     site_file_path = os.path.join('..', 'source', 'networks', network, 'sites',)
     site_file_name = f"{site}.rst"
     site_path = os.path.join(site_file_path, site_file_name)
-    with open(site_path, 'w+') as site_file:
+    with io.open(site_path, 'w+', encoding="utf-8") as site_file:
         #write headings
         gen_rst.write_headers(site_file, site)
         #intro
@@ -85,9 +86,10 @@ for site in sites_to_process:
             site_file.write(f".. include:: ../../../data_acquisition/data_acquisition_default.rst\n\n")
 
         #references
-        gen_rst.write_title(site_file,"References")
-        if os.path.exists(os.path.join('..', 'source', 'networks', network, 'sites', 'references', 'references.csv')):
-            print('Get references here')
+        gen_rst.write_title(site_file, "References")
+        ref_dir = os.path.join('..', 'source', 'networks', network, 'sites', 'references', f'{site}_references.csv')
+        if os.path.exists(ref_dir):
+            gen_rst.write_ref_list(site_file,ref_dir)
 
         #acknowledgements
         gen_rst.write_title(site_file, "Acknowledgements")

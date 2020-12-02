@@ -74,9 +74,6 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - http://www.urban-climate.net/content/data
-     - Southwark Meteorological Data
-     - Information and pre-2017 weather data from SWT 
    * - http://data.urban-climate.net/southwark_plots/
      - Southwark Meteorological Station
      - Current weather data visualisation and download 
@@ -88,6 +85,7 @@ Data acquisition
 
 References
 ##########
+
 
 Acknowledgements
 ################

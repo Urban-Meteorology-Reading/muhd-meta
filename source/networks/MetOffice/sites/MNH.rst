@@ -49,6 +49,9 @@ Data acquisition
 References
 ##########
 
+#. Kotthaus, S. and Grimmond, C. S. B. (2018) Atmospheric boundary layer characteristics from ceilometer measurements. Part 1: a new method to track mixed layer height and classify clouds. Quarterly Journal of the Royal Meteorological Society, 144 (714). pp. 1525-1538. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3299
+#. Coceal, O., Bohnenstengel, S. I. and Kotthaus, S. (2018) Detection of sea-breeze events around London using a fuzzy-logic algorithm. Atmospheric Science Letters, 19 (9). e846. ISSN 1530-261X doi: https://doi.org/10.1002/asl.846
+
 Acknowledgements
 ################
 

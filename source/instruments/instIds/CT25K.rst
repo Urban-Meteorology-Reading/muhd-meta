@@ -161,3 +161,6 @@ Data acquisition
 References
 ##########
 
+#. Theeuwes, N. E., Barlow, J. F., Teuling, A. J., Grimmond, C. S. B. and Kotthaus, S. (2019) Persistent cloud cover over mega-cities linked to surface heat release. npj Climate and Atmospheric Science, 2. 15. ISSN 2397-3722 doi: https://doi.org/10.1038/s41612-019-0072-x
+#. Kotthaus, S., O'Connor, E., M�nkel, C., Charlton-Perez, C., Haeffelin, M., Gabey, A. M. and Grimmond, C. S. B. (2016) Recommendations for processing atmospheric attenuated backscatter profiles from Vaisala CL31 ceilometers. Atmospheric Measurement Techniques, 9. pp. 3769-3791. ISSN 1867-8548 doi: https://doi.org/10.5194/amt-9-3769-2016
+

@@ -93,3 +93,5 @@ Data acquisition
 References
 ##########
 
+#. Sun, T., Grimmond, C. S. E. and Ni, G.-H. (2016) How do green roofs mitigate urban thermal stress under heat waves? Journal of Geophysical Research: Atmospheres, 121 (10). pp. 5320-5335. ISSN 2169-8996 doi: https://doi.org/10.1002/2016JD024873
+

@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import sqlite3
 import gen_rst_functions as gen_rst
+import io
 #%%
 # get connection to database
 db_path = os.path.join("..", "metadata", "metadata.sq3")
@@ -28,7 +29,7 @@ for instId in insts_to_process:
 
     inst_file_name = f"{instId}.rst"
     inst_path = os.path.join(inst_dir, inst_file_name)
-    with open(inst_path, 'w+') as inst_file:
+    with io.open(inst_path, 'w+', encoding="utf-8") as inst_file:
         #write header 
         gen_rst.write_headers(inst_file, instId)
         #intro
@@ -90,5 +91,7 @@ for instId in insts_to_process:
         
         #references
         gen_rst.write_title(inst_file, 'References')        
-
+        ref_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'references', f'{instId}_references.csv')
+        if os.path.exists(ref_dir):
+            gen_rst.write_ref_list(inst_file,ref_dir)
 # %%

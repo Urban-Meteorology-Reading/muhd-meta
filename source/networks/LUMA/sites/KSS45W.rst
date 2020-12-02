@@ -49,6 +49,9 @@ Data acquisition
 References
 ##########
 
+#. Warren, E., Charlton-Perez, C., Kotthaus, S., Lean, H., Ballard, S., Hopkin, E. and Grimmond, S. (2018) Evaluation of forward-modelled attenuated backscatter using an urban ceilometer network in London under clear-sky conditions. Atmospheric Environment, 191. pp. 532-547. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2018.04.045
+#. Bjorkegren, A. and Grimmond, C. S. B., (2017) Net carbon dioxide emissions from central London. Urban Climate, 23. pp. 131-158. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2016.10.002
+
 Acknowledgements
 ################
 

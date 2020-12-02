@@ -49,6 +49,8 @@ Data acquisition
 References
 ##########
 
+#. Farshim, P., Walton, G., Chakrabarti, B., Givens, I., Saddy, D., Kitchen, I., Swann, J. R. and Bailey, A. (2016) Maternal weaning modulates emotional behavior and regulates the gut-brain axis. Scientific Reports, 6. 21958. ISSN 2045-2322 doi: https://doi.org/10.1038/srep21958
+
 Acknowledgements
 ################
 

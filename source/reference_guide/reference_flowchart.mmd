@@ -1,21 +1,29 @@
 graph TD
+
   classDef default fill:#6681d0,color:#ffff,stroke:#333,stroke-width:2px;
   
   linkStyle default color:#6681d0
   
   site[Site]
+
   inst[Instrument]
+
   deployment[[Deployment]]
+
   raw_data[(Raw data)]
-  processing_script{{"Processing script(s)"}}
+
+  processing_script{{"Processing code"}}
+
   processed_data[(Processed data)]
 
   site --> deployment
+
   inst -->|"Additional metadata <br/> e.g. position, instrument status"| deployment
 
   deployment -->|Raw file name format| raw_data
 	
   raw_data --> processing_script
+  
   inst -->|Output definition| processing_script
   
   processing_script --> processed_data

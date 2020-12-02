@@ -117,6 +117,20 @@ def get_supplementary_info(sup_info, col, id):
         
     return id_sup_info
 
+def write_ref_list(file, references_path):
+    '''
+    Write all references as a numbered list 
+    '''
+    import pandas as pd
+
+    # read in dataframe
+    ref_df = pd.read_csv(references_path)
+    # loop through references, adding to list 
+    for index, row in ref_df.iterrows():
+        file.write(f'#. {row["Reference"]}\n')
+    
+    file.write('\n')
+
 def write_site_acknowledgements(file, acknowledgements_path, site):
     '''
     Get site acknoweldgements from table into written format

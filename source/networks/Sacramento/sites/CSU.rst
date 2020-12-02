@@ -45,6 +45,8 @@ Data acquisition
 References
 ##########
 
+#. Katz, D., Lawless, A. S., Nichols, N. K., Cullen, M. J. P. and Bannister, R. N. (2011) Correlations of control variables in variational data assimilation. Quarterly Journal of the Royal Meteorological Society, 137 (656). pp. 620-630. ISSN 1477-870X doi: https://doi.org/10.1002/qj.798 	(Part A)
+
 Acknowledgements
 ################
 
