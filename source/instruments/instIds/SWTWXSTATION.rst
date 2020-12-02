@@ -59,17 +59,17 @@ Photos
 ######
 
 .. figure:: photos/SWTWXSTATION/23-07-2020_(16).JPEG
-   :scale: 15
+   :width: 50 %
 
    :ref:`ARG100` ( in foreground) 23-07-2020.
 
 .. figure:: photos/SWTWXSTATION/23-07-2020_(12).JPEG
-   :scale: 15
+   :width: 50 %
 
    :ref:`107`, :ref:`HMP45A` 23-07-2020.
 
 .. figure:: photos/SWTWXSTATION/27308466430_fdcc9d4628_o(1).jpg
-   :scale: 10
+   :width: 50 %
 
    :ref:`107` and :ref:`HMP45A`  in radiation shields, :ref:`WINDSET`  on top of tower 10/06/2016
 

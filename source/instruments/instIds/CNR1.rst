@@ -68,27 +68,27 @@ Photos
 ######
 
 .. figure:: photos/CNR1/dscf1772_23787603735_o.jpg
-   :scale: 25
+   :width: 50 %
 
    CNR1 (leftmost instrument) at :ref:`KSK` 18/08/2009 
 
 .. figure:: photos/CNR1/r0015029_23161117173_o.jpg
-   :scale: 25
+   :width: 50 %
 
    On top of tower at :ref:`KSS` 08/04/2011
 
 .. figure:: photos/CNR1/102_1939_23631816005_o.jpg
-   :scale: 25
+   :width: 50 %
 
    At :ref:`KSNW` 05/07/2015
 
 .. figure:: photos/CNR1/img_2869_35347870513_o.jpg
-   :scale: 25
+   :width: 50 %
 
    At :ref:`IMU` 21/07/2017
 
 .. figure:: photos/CNR1/23-07-2020_(14).JPEG
-   :scale: 25
+   :width: 50 %
 
    At :ref:`SWT` 23/07/2020
 

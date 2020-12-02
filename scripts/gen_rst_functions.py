@@ -66,7 +66,7 @@ def write_figures(ref_row, id, file):
     file.write(f".. figure:: photos/{id}/{ref_row['name']}\n")
 
     if math.isnan(ref_row['scale']) == False:
-        file.write(f"   :scale: {str(int(ref_row['scale']))}\n")
+        file.write(f"   :width: {str(int(ref_row['scale']))} %\n")
     
     file.write(f"\n   {ref_row['caption']}\n\n")
 

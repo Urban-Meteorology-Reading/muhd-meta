@@ -131,12 +131,12 @@ Photos
 ######
 
 .. figure:: photos/CT25K/ceil-install-part-1_30868018353_o.jpg
-   :scale: 10
+   :width: 50 %
 
    CT25K at :ref:`SWT` 15/12/2016
 
 .. figure:: photos/CT25K/27246847345_59135275cb_o.jpg
-   :scale: 10
+   :width: 50 %
 
    CT25K at :ref:`RGS`  25/05/2016 
 

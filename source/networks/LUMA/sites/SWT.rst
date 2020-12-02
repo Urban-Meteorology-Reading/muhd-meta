@@ -51,17 +51,17 @@ Photos
    View facing SSW 10-06-2016.
 
 .. figure:: photos/SWT/23-07-2020_(38).JPEG
-   :scale: 15
+   :width: 50 %
 
    View of mast, temperature and humidity sensors ( :ref:`SWTWXSTATION` ) , scintillometers and :ref:`CNR1` 23-07-2020.
 
 .. figure:: photos/SWT/23-07-2020_(16).JPEG
-   :scale: 15
+   :width: 50 %
 
    :ref:`ARG100` and :ref:`CL31` 23-07-2020.
 
 .. figure:: photos/SWT/19-07-2019_(12).JPG
-   :scale: 10
+   :width: 50 %
 
    Scintillometers. :ref:`LASMKII` transmitter to SCT and :ref:`BLS` reciever from IMU 19-07-2019.
 

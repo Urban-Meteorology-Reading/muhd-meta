@@ -113,17 +113,17 @@ Photos
 ######
 
 .. figure:: photos/CL31/IMG_2710.jpeg
-   :scale: 15
+   :width: 50 %
 
    CL31 at :ref:`HOP` 12/12/2018
 
 .. figure:: photos/CL31/r0015452_23761921356_o.jpg
-   :scale: 15
+   :width: 50 %
 
    CL31 at :ref:`KSS45W` 
 
 .. figure:: photos/CL31/2014-02-26-171111_25767860891_o.jpg
-   :scale: 15
+   :width: 50 %
 
    CL31 at :ref:`RGS` 26/02/2014
 
