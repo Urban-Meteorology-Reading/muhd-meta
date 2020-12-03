@@ -85,6 +85,16 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.kippzonen.com/Download/598/LAS-MkII-Scintillometer-Manual?ShowInfo=true
+     - LAS MKII manual
+     - Manual from Kipp and Zonen. If link has expired please contact Prof. Sue Grimmond.
+
 Data acquisition
 ################
 
@@ -92,4 +102,7 @@ Data acquisition
 
 References
 ##########
+
+#. Crawford, B., Grimmond, S. B., Gabey, A., Marconcini, M., Ward, H. C. and Kent, C. W. (2018) Variability of urban surface temperatures and implications for aerodynamic energy exchange in unstable conditions. Quarterly Journal of the Royal Meteorological Society, 144 (715). pp. 1719-1741. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3325
+#. Ward, H. C., Evans, J. G. and Grimmond, C. S. B. (2014) Multi-scale sensible heat fluxes in the urban environment from large aperture scintillometry and eddy covariance. Boundary-Layer Meteorology, 152 (1). pp. 65-89. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-014-9916-4
 

@@ -149,9 +149,9 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CT25K user manual <manuals/CT25K_manual.pdf>`
+   * - https://www.manualslib.com/manual/1414094/Vaisala-Ct25k.html
      - CT25K user manual
-     - Manual provided by Vaisala
+     - Manual provided by Vaisala. If link has expired please contact Prof. Sue Grimmond.
 
 Data acquisition
 ################

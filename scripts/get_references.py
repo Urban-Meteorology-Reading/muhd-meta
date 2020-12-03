@@ -37,16 +37,24 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     
     #change LASMKII to LAS MKII
     if site_inst == 'LASMKII':
-        site_inst = 'LAS+MKII'
+        site_inst_new = 'LAS+MKII'
+    # add scintillometer to bls search 
+    elif site_inst == 'BLS':
+        site_inst_new = 'BLS%2C+scintillometer'
+    # temperature probe for swt 
+    elif site_inst == '107':
+        site_inst_new = '107+campbell+SWT'
+    else:
+        site_inst_new = site_inst
 
     # urls differ for site and inst
     if search_type == 'inst':
         exp = ("0%7C1%7C-date%2Fcreators_sort_name%2Ftitle%7Carchive%7C-%7Cnas_fulltext%3Adocuments%3AALL"
-                f"%3AIN%3A{site_inst}%7Cnas_multiname%3Aconductors_name%2Fcontributors_name%2Fcreators_name%"
+                f"%3AIN%3A{site_inst_new}%7Cnas_multiname%3Aconductors_name%2Fcontributors_name%2Fcreators_name%"
                 f"2Feditors_name%2Flyricists_name%2Fproducers_name%3AALL%3AEQ%3A{author}%7C-%7Ceprint_status%"
                 "3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow")
     elif search_type == 'site':
-        exp = (f"exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3A{author}+{site_inst}%7C-%7C")
+        exp = (f"exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3A{author}+{site_inst_new}%7C-%7C")
     else:
         raise ValueError('search_type must equal either "site" or "inst"') 
 
@@ -80,7 +88,7 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     for ref in html_refs:
         # format 
         ref_list = ref.get_text().split('|')
-        ref_list = [text.strip().replace('\n', ' ') for text in ref_list]
+        ref_list = [text.strip().replace('\n', ' ').replace('\r', ' ') for text in ref_list]
         ref_list[1] = re.sub(' +', ' ', ref_list[1])
         #extract the year 
         ref_year = []

@@ -58,6 +58,16 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.vaisala.com/sites/default/files/documents/HMP45AD-User-Guide-U274EN.pdf
+     - HMP45A manual
+     - Manual from Vaisala.  If link has expired please contact Prof. Sue Grimmond.
+
 Data acquisition
 ################
 

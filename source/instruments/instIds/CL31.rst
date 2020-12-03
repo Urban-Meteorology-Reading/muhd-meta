@@ -136,9 +136,9 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CL31 user guide <manuals/CL31_manual.pdf>`
+   * - https://www.manualslib.com/manual/1226537/Vaisala-Cl31.html#manual
      - CL31 user guide
-     - Manual provided by Vaisala
+     - Manual provided by Vaisala. If link has expired please contact Prof. Sue Grimmond.
 
 Data acquisition
 ################

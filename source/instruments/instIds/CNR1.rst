@@ -95,6 +95,16 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`CNR1 manual <manuals/CNR1_manual>`
+     - CNR1 manual
+     - Manual from Campbell Scientific
+
 Data acquisition
 ################
 

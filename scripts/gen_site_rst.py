@@ -74,7 +74,7 @@ for site in sites_to_process:
         site_sup_info = gen_rst.get_supplementary_info(sup_info, 'Site', site)
         
         if len(site_sup_info) > 0:
-            site_sup_info = site_sup_info.drop(['Inst Id', 'Site', 'Internal'], axis = 1)
+            site_sup_info = site_sup_info.drop(['Inst Id', 'Site', 'Internal', 'Make public'], axis = 1)
             gen_rst.write_csv_to_list_table(site_file, site_sup_info)
         
         # data_acquisition

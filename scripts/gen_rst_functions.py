@@ -113,7 +113,9 @@ def get_supplementary_info(sup_info, col, id):
         if id in all_ids_row:
             if row['Internal'] == True:
                 row['Link'] = f":download:`{row['Title']} <{row['Link']}>`"
-            id_sup_info = id_sup_info.append(row)
+            # is this to be made public 
+            if row['Make public'] == True:
+                id_sup_info = id_sup_info.append(row)
         
     return id_sup_info
 

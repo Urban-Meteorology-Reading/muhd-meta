@@ -78,7 +78,7 @@ for instId in insts_to_process:
         inst_sup_info = gen_rst.get_supplementary_info(sup_info, 'Inst Id', instId)
 
         if len(inst_sup_info) > 0:
-            inst_sup_info = inst_sup_info.drop(['Inst Id', 'Site', 'Internal'], axis = 1)
+            inst_sup_info = inst_sup_info.drop(['Inst Id', 'Site', 'Internal', 'Make public'], axis = 1)
             gen_rst.write_csv_to_list_table(inst_file, inst_sup_info)
         
         #data acquisition

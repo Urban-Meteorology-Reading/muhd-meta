@@ -1,4 +1,19 @@
-Site,Inst Id,Internal,Link,Title,Description
-SWT,SWTWXSTATION,FALSE,http://data.urban-climate.net/southwark_plots/,Southwark Meteorological Station,Current weather data visualisation and download 
-,CL31,TRUE,manuals/CL31_manual.pdf,CL31 user guide,Manual provided by Vaisala
-,CT25K,TRUE,manuals/CT25K_manual.pdf,CT25K user manual,Manual provided by Vaisala
+Site,Inst Id,Internal,Make public,Link,Title,Description
+SWT,SWTWXSTATION,FALSE,TRUE,http://data.urban-climate.net/southwark_plots/,Southwark Meteorological Station,Current weather data visualisation and download 
+,CL31,FALSE,TRUE,https://www.manualslib.com/manual/1226537/Vaisala-Cl31.html#manual,CL31 user guide,Manual provided by Vaisala. If link has expired please contact Prof. Sue Grimmond.
+,CL31,TRUE,FALSE,manuals/CL31_manual.pdf,CL31 user guide,Manual provided by Vaisala
+,CT25K,FALSE,TRUE,https://www.manualslib.com/manual/1414094/Vaisala-Ct25k.html,CT25K user manual,Manual provided by Vaisala. If link has expired please contact Prof. Sue Grimmond.
+,CT25K,TRUE,FALSE,manuals/CT25K_manual.pdf,CT25K user manual,Manual provided by Vaisala
+,107,TRUE,TRUE,manuals/107_manual.pdf,107 manual,Manual from Campbell Scientific
+,LASMKII,TRUE,FALSE,manuals/LASMKII_manual.pdf,LAS MKII manual,Manual from Kipp and Zonen
+,LASMKII,FALSE,TRUE,https://www.kippzonen.com/Download/598/LAS-MkII-Scintillometer-Manual?ShowInfo=true,LAS MKII manual,Manual from Kipp and Zonen. If link has expired please contact Prof. Sue Grimmond.
+,BLS,TRUE,TRUE,manuals/BLS_manual.pdf,BLS manual,Manual from Scintec.
+,BLS,TRUE,TRUE,manuals/BLS_brochure.pdf,BLS 900 brochure,Brochure from Scintec.
+,WINDSET,TRUE,FALSE,manuals/WAA151_manual.pdf,WINDSET anemometer manual,Manual from Vaisala
+,WINDSET,TRUE,FALSE,manuals/WAC151_manual.pdf,WINDSET cross arm manual,Manual from Vaisala
+,WINDSET,TRUE,FALSE,manuals/WAV151_manual.pdf,WINDSET vane manual,Manual from Vaisala
+,WINDEST,FALSE,TRUE,https://www.vaisala.com/en/products/instruments-sensors-and-other-measurement-devices/weather-stations-and-sensors/wa15,WA15 manuals,Manuals from Vaisala. If link has expired please contact Prof. Sue Grimmond.
+,CNR1,TRUE,TRUE,manuals/CNR1_manual,CNR1 manual,Manual from Campbell Scientific
+,ARG100,TRUE,TRUE,manuals/ARG100_manual,ARG100 manual,Manual from Campbell Scientific
+,HMP45A,FALSE,TRUE,https://www.vaisala.com/sites/default/files/documents/HMP45AD-User-Guide-U274EN.pdf,HMP45A manual,Manual from Vaisala.  If link has expired please contact Prof. Sue Grimmond.
+,HMP45A,TRUE,FALSE,manuals/HMP45A_manual.pdf,HMP45A manual,Manual from Vaisala.

@@ -64,8 +64,33 @@ SOUTHWARK_ARG100
 Photos
 ######
 
+.. figure:: photos/ARG100/23-07-2020_(16).JPEG
+   :width: 50 %
+
+   ARG100 (foreground) at :ref:`SWT` 23/07/2020
+
+.. figure:: photos/ARG100/23788129985_a034c590ba_o.jpg
+   :width: 50 %
+
+   ARG100 (middle of image) at :ref:`KSS45W` 31/08/2010
+
+.. figure:: photos/ARG100/r0015473_23161289573_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 2016 - 2017
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`ARG100 manual <manuals/ARG100_manual>`
+     - ARG100 manual
+     - Manual from Campbell Scientific
 
 Data acquisition
 ################
