@@ -8,7 +8,7 @@ on:
   push:
     paths:
         # only watch the following files
-        - source/reference_guide/reference_flowchart.mmd
+        - source/reference_guide/guide_pages/reference_flowchart.mmd
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -26,12 +26,12 @@ jobs:
       - name: Convert from mmd to png
         run: |
           npm install @mermaid-js/mermaid-cli
-          ./node_modules/.bin/mmdc -i ./source/reference_guide/reference_flowchart.mmd -o ./source/reference_guide/reference_flowchart.png 
+          ./node_modules/.bin/mmdc -i ./source/reference_guide/guide_pages/reference_flowchart.mmd -o ./source/reference_guide/guide_pages/reference_flowchart.png 
       - name: commit changes
         run: |
           git config --local user.name "kitbenjamin"
           git status
-          git add source/reference_guide/reference_flowchart.png
+          git add source/reference_guide/guide_pages/reference_flowchart.png
           git commit -m "Auto converting reference_flowchart to png"
       - name: push changes 
         uses: ad-m/github-push-action@master
