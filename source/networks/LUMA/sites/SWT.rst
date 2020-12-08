@@ -21,7 +21,7 @@ Site metadata
 
    <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
 
-   <script>
+   <script type="text/javascript">
 
    requirejs.config({
    // define paths to where all of our dependencies live
