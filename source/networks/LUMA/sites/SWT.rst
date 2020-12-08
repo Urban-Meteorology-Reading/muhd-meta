@@ -31,7 +31,7 @@ Site metadata
    });
 
    // require all dependencies, we still need to require our leaflet-heat and leaflet-markercluster modules so they load
-   requirejs(['maps/SWT_map']);
+   requirejs(['/_static/SWT_map']);
 
    </script>
 
