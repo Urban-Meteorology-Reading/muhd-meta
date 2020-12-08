@@ -14,7 +14,7 @@ requirejs(['leaflet'], function (L) {
     "properties": {
         "name": "SWT",
         "amenity": "SITE",
-        "link": "https://muhd.readthedocs.io/en/latest/networks/LUMA/sites/SWT.html"
+        "link": "http://data.urban-climate.net/southwark_plots/"
     },
     "geometry": {
         "type": "Point",
