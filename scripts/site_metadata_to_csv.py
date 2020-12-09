@@ -58,7 +58,7 @@ for process_site in sites_to_process:
     site_deployments_pos_ser2 = site_deployments_pos_ser.copy()
     # format instID and serials to references 
     site_deployments_pos_ser['instId'] = site_deployments_pos_ser['instId'].apply(lambda x: f":ref:`{x}`")
-    site_deployments_pos_ser['instSerial'] = site_deployments_pos_ser['instSerial'].apply(lambda x: f":ref:`{x}`")
+    site_deployments_pos_ser['instSerial'] = site_deployments_pos_ser['instSerial'].apply(lambda x: f":ref:`{x} <{x}>`")
     #remove SWTWXSTATION id from SWT table (this is required for processing but not very accurate)
     if process_site == 'SWT':
         site_deployments_pos_ser = site_deployments_pos_ser.loc[site_deployments_pos_ser['instId'] != 'SWTWXSTATION']

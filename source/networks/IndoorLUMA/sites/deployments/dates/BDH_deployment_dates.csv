@@ -1,15 +1,15 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-135,:ref:`MICROLITE`,:ref:`9178815`,indoor,4th floor (incomplete),2013-11-28,2014-03-05
-136,:ref:`MICROLITE`,:ref:`9178815`,indoor,(incomplete),2014-03-04,2014-06-23
-161,:ref:`MICROLITE`,:ref:`9178799`,indoor,6th floor (incomplete),2014-03-05,2014-05-31
-200,:ref:`MICROLITE`,:ref:`9178755`,indoor,-1st floor (incomplete),2013-12-25,2014-06-10
-201,:ref:`MICROLITE`,:ref:`9178750`,indoor,-2st floor (incomplete),2014-01-18,2014-06-10
-202,:ref:`MICROLITE`,:ref:`9178748`,indoor,3th floor (incomplete),2013-11-29,2014-05-09
-203,:ref:`MICROLITE`,:ref:`9178744`,indoor,-2st floor (incomplete),2013-12-25,2014-06-10
-204,:ref:`MICROLITE`,:ref:`9178739`,indoor,7st floor (incomplete),2013-12-13,2014-05-28
-205,:ref:`MICROLITE`,:ref:`9178733`,indoor,2st floor (incomplete),2013-12-23,2014-06-08
-206,:ref:`MICROLITE`,:ref:`9178730`,indoor,1st floor (incomplete),2013-12-14,2014-05-29
-207,:ref:`MICROLITE`,:ref:`9178729`,indoor,2st floor (incomplete),2014-03-03,2014-06-09
-208,:ref:`MICROLITE`,:ref:`9178719`,indoor,6st floor (incomplete),2014-03-05,2014-05-31
-291,:ref:`MICROLITE`,:ref:`9178794`,indoor,Corridor,2016-07-04,2018-08-16
+135,:ref:`MICROLITE`,:ref:`9178815 <9178815>`,indoor,4th floor (incomplete),2013-11-28,2014-03-05
+136,:ref:`MICROLITE`,:ref:`9178815 <9178815>`,indoor,(incomplete),2014-03-04,2014-06-23
+161,:ref:`MICROLITE`,:ref:`9178799 <9178799>`,indoor,6th floor (incomplete),2014-03-05,2014-05-31
+200,:ref:`MICROLITE`,:ref:`9178755 <9178755>`,indoor,-1st floor (incomplete),2013-12-25,2014-06-10
+201,:ref:`MICROLITE`,:ref:`9178750 <9178750>`,indoor,-2st floor (incomplete),2014-01-18,2014-06-10
+202,:ref:`MICROLITE`,:ref:`9178748 <9178748>`,indoor,3th floor (incomplete),2013-11-29,2014-05-09
+203,:ref:`MICROLITE`,:ref:`9178744 <9178744>`,indoor,-2st floor (incomplete),2013-12-25,2014-06-10
+204,:ref:`MICROLITE`,:ref:`9178739 <9178739>`,indoor,7st floor (incomplete),2013-12-13,2014-05-28
+205,:ref:`MICROLITE`,:ref:`9178733 <9178733>`,indoor,2st floor (incomplete),2013-12-23,2014-06-08
+206,:ref:`MICROLITE`,:ref:`9178730 <9178730>`,indoor,1st floor (incomplete),2013-12-14,2014-05-29
+207,:ref:`MICROLITE`,:ref:`9178729 <9178729>`,indoor,2st floor (incomplete),2014-03-03,2014-06-09
+208,:ref:`MICROLITE`,:ref:`9178719 <9178719>`,indoor,6st floor (incomplete),2014-03-05,2014-05-31
+291,:ref:`MICROLITE`,:ref:`9178794 <9178794>`,indoor,Corridor,2016-07-04,2018-08-16

@@ -1,4 +1,4 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-4,:ref:`DAVIS`,:ref:`AK130521018`,single,Davis weather station,2014-01-18,2018-10-31
-288,:ref:`SM300`,:ref:`A01358`,single,Node 2,2016-01-01,2016-10-26
+4,:ref:`DAVIS`,:ref:`AK130521018 <AK130521018>`,single,Davis weather station,2014-01-18,2018-10-31
+288,:ref:`SM300`,:ref:`A01358 <A01358>`,single,Node 2,2016-01-01,2016-10-26

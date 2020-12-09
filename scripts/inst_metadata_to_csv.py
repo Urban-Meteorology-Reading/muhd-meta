@@ -99,7 +99,7 @@ for instId in insts_to_process:
     # serials of instruments
     inst_serials = serial.loc[serial['instId'] == instId]
     if len(inst_serials) > 0:
-        inst_serials['serial'] = inst_serials['serial'].apply(lambda x: f":ref:`{x}`")
+        inst_serials['serial'] = inst_serials['serial'].apply(lambda x: f":ref:`{x} <{x}>`")
         inst_serials = gen_csv.wrangle_cols(inst_serials, {'serial' : 'Serial', 'suffix' : 'Suffix'})
         inst_serials = inst_serials.sort_values('Suffix')
         #save 

@@ -13,7 +13,7 @@ SWT,SWTWXSTATION,FALSE,TRUE,http://data.urban-climate.net/southwark_plots/,South
 ,WINDSET,TRUE,FALSE,manuals/WAC151_manual.pdf,WINDSET cross arm manual,Manual from Vaisala
 ,WINDSET,TRUE,FALSE,manuals/WAV151_manual.pdf,WINDSET vane manual,Manual from Vaisala
 ,WINDEST,FALSE,TRUE,https://www.vaisala.com/en/products/instruments-sensors-and-other-measurement-devices/weather-stations-and-sensors/wa15,WA15 manuals,Manuals from Vaisala. If link has expired please raise a `GitHub Issues`_.
-,CNR1,TRUE,TRUE,manuals/CNR1_manual,CNR1 manual,Manual from Campbell Scientific
-,ARG100,TRUE,TRUE,manuals/ARG100_manual,ARG100 manual,Manual from Campbell Scientific
+,CNR1,TRUE,TRUE,manuals/CNR1_manual.pdf,CNR1 manual,Manual from Campbell Scientific
+,ARG100,TRUE,TRUE,manuals/ARG100_manual.pdf,ARG100 manual,Manual from Campbell Scientific
 ,HMP45A,FALSE,TRUE,https://www.vaisala.com/sites/default/files/documents/HMP45AD-User-Guide-U274EN.pdf,HMP45A manual,Manual from Vaisala.  If link has expired please raise a `GitHub Issues`_.
 ,HMP45A,TRUE,FALSE,manuals/HMP45A_manual.pdf,HMP45A manual,Manual from Vaisala.

@@ -1,12 +1,12 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-73,:ref:`SM300`,:ref:`A01362`,single,SMP,2011-06-12,2012-12-06
-271,:ref:`SM300`,:ref:`A01362`,single,SMP,2013-07-05,2016-02-12
-74,:ref:`SM300`,:ref:`A01361`,single,SMP,2011-06-12,2012-12-06
-270,:ref:`SM300`,:ref:`A01361`,single,SMP,2013-07-05,2016-02-12
-75,:ref:`SM300`,:ref:`A01364`,single,SMP,2011-06-12,2012-04-25
-77,:ref:`SM300`,:ref:`A01364`,single,SMP,2012-05-14,2012-11-11
-273,:ref:`SM300`,:ref:`A01364`,single,SMP,2014-08-06,2016-02-12
-76,:ref:`SM300`,:ref:`A01363`,single,SMP,2011-06-12,2012-04-25
-78,:ref:`SM300`,:ref:`A01363`,single,SMP,2012-05-14,2012-11-11
-272,:ref:`SM300`,:ref:`A01363`,single,SMP,2014-08-06,2016-02-12
+73,:ref:`SM300`,:ref:`A01362 <A01362>`,single,SMP,2011-06-12,2012-12-06
+271,:ref:`SM300`,:ref:`A01362 <A01362>`,single,SMP,2013-07-05,2016-02-12
+74,:ref:`SM300`,:ref:`A01361 <A01361>`,single,SMP,2011-06-12,2012-12-06
+270,:ref:`SM300`,:ref:`A01361 <A01361>`,single,SMP,2013-07-05,2016-02-12
+75,:ref:`SM300`,:ref:`A01364 <A01364>`,single,SMP,2011-06-12,2012-04-25
+77,:ref:`SM300`,:ref:`A01364 <A01364>`,single,SMP,2012-05-14,2012-11-11
+273,:ref:`SM300`,:ref:`A01364 <A01364>`,single,SMP,2014-08-06,2016-02-12
+76,:ref:`SM300`,:ref:`A01363 <A01363>`,single,SMP,2011-06-12,2012-04-25
+78,:ref:`SM300`,:ref:`A01363 <A01363>`,single,SMP,2012-05-14,2012-11-11
+272,:ref:`SM300`,:ref:`A01363 <A01363>`,single,SMP,2014-08-06,2016-02-12

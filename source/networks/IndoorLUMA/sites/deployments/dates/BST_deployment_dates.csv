@@ -1,13 +1,13 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-157,:ref:`MICROLITE`,:ref:`9178813`,indoor,19th floor (incomplete),2014-03-04,2014-05-29
-165,:ref:`MICROLITE`,:ref:`9178794`,indoor,19th floor (incomplete),2014-02-14,2014-05-28
-192,:ref:`MICROLITE`,:ref:`9178792`,indoor,17th floor (incomplete),2013-12-12,2014-05-28
-193,:ref:`MICROLITE`,:ref:`9178791`,indoor,28th floor (incomplete),2014-03-03,2014-06-02
-194,:ref:`MICROLITE`,:ref:`9178745`,indoor,17th floor (incomplete),2013-12-17,2014-06-02
-195,:ref:`MICROLITE`,:ref:`9178740`,indoor,11th floor (incomplete),2013-09-08,2013-09-13
-196,:ref:`MICROLITE`,:ref:`9178740`,indoor,17th floor (incomplete),2014-03-04,2014-05-28
-197,:ref:`MICROLITE`,:ref:`9178733`,indoor,17th floor (incomplete),2013-08-13,2013-09-03
-198,:ref:`MICROLITE`,:ref:`9178724`,indoor,28th floor (incomplete),2014-03-04,2014-05-28
-199,:ref:`MICROLITE`,:ref:`9178722`,indoor,28th floor (incomplete),2013-11-25,2014-03-04
-267,:ref:`MICROLITE`,:ref:`9178739`,indoor,Living Room,2016-02-02,
+157,:ref:`MICROLITE`,:ref:`9178813 <9178813>`,indoor,19th floor (incomplete),2014-03-04,2014-05-29
+165,:ref:`MICROLITE`,:ref:`9178794 <9178794>`,indoor,19th floor (incomplete),2014-02-14,2014-05-28
+192,:ref:`MICROLITE`,:ref:`9178792 <9178792>`,indoor,17th floor (incomplete),2013-12-12,2014-05-28
+193,:ref:`MICROLITE`,:ref:`9178791 <9178791>`,indoor,28th floor (incomplete),2014-03-03,2014-06-02
+194,:ref:`MICROLITE`,:ref:`9178745 <9178745>`,indoor,17th floor (incomplete),2013-12-17,2014-06-02
+195,:ref:`MICROLITE`,:ref:`9178740 <9178740>`,indoor,11th floor (incomplete),2013-09-08,2013-09-13
+196,:ref:`MICROLITE`,:ref:`9178740 <9178740>`,indoor,17th floor (incomplete),2014-03-04,2014-05-28
+197,:ref:`MICROLITE`,:ref:`9178733 <9178733>`,indoor,17th floor (incomplete),2013-08-13,2013-09-03
+198,:ref:`MICROLITE`,:ref:`9178724 <9178724>`,indoor,28th floor (incomplete),2014-03-04,2014-05-28
+199,:ref:`MICROLITE`,:ref:`9178722 <9178722>`,indoor,28th floor (incomplete),2013-11-25,2014-03-04
+267,:ref:`MICROLITE`,:ref:`9178739 <9178739>`,indoor,Living Room,2016-02-02,

@@ -101,7 +101,7 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`CNR1 manual <manuals/CNR1_manual>`
+   * - :download:`CNR1 manual <manuals/CNR1_manual.pdf>`
      - CNR1 manual
      - Manual from Campbell Scientific
 

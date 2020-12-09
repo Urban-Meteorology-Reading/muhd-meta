@@ -1,6 +1,6 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-322,:ref:`BLS`,:ref:`T-E-0470`,scintillometer,BLS Rx,2014-06-29,2017-03-16
-358,:ref:`LAS150`,:ref:`60029`,scintillometer,LAS150_KGG_BTT,2010-03-09,2011-09-23
-384,:ref:`WXT510`,:ref:`E1620005`,single,WXT,2017-01-01,
-386,:ref:`CNR4`,:ref:`090065`,single,CNR4,2017-01-01,
+322,:ref:`BLS`,:ref:`T-E-0470 <T-E-0470>`,scintillometer,BLS Rx,2014-06-29,2017-03-16
+358,:ref:`LAS150`,:ref:`60029 <60029>`,scintillometer,LAS150_KGG_BTT,2010-03-09,2011-09-23
+384,:ref:`WXT510`,:ref:`E1620005 <E1620005>`,single,WXT,2017-01-01,
+386,:ref:`CNR4`,:ref:`090065 <090065>`,single,CNR4,2017-01-01,

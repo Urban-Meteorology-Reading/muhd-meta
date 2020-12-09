@@ -1,16 +1,16 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-80,:ref:`SM300`,:ref:`A01357`,single,SMP 123,2010-07-30,2010-10-13
-89,:ref:`SM300`,:ref:`A01357`,single,SMP 123,2011-02-09,2015-11-02
-81,:ref:`SM300`,:ref:`A01366`,single,SMP 123,2010-07-30,2010-10-13
-90,:ref:`SM300`,:ref:`A01366`,single,SMP 123,2011-02-09,2015-11-02
-82,:ref:`SM300`,:ref:`A01358`,single,SMP 126,2010-07-30,2010-09-22
-91,:ref:`SM300`,:ref:`A01358`,single,Incomplete SMP 126,2012-03-15,2012-11-01
-92,:ref:`SM300`,:ref:`A01358`,single,Incomplete SMP 126,2012-11-02,2013-03-04
-83,:ref:`SM300`,:ref:`A01359`,single,SMP 126,2010-07-30,2010-09-22
-84,:ref:`SM300`,:ref:`A01360`,single,SMP 121,2010-07-30,2010-11-12
-85,:ref:`SM300`,:ref:`A01362`,single,SMP 122,2010-07-30,2011-01-04
-86,:ref:`SM300`,:ref:`A01364`,single,SMP 120,2010-07-30,2010-09-22
-87,:ref:`SM300`,:ref:`A01365`,single,SMP 120,2010-07-30,2010-09-22
-88,:ref:`SM300`,:ref:`A01605`,single,SMP 163,2010-09-22,2010-10-13
-93,:ref:`ML2`,:ref:`224_063_EMB`,single,Incomplete and check end date ML2,2010-06-22,2015-01-01
+80,:ref:`SM300`,:ref:`A01357 <A01357>`,single,SMP 123,2010-07-30,2010-10-13
+89,:ref:`SM300`,:ref:`A01357 <A01357>`,single,SMP 123,2011-02-09,2015-11-02
+81,:ref:`SM300`,:ref:`A01366 <A01366>`,single,SMP 123,2010-07-30,2010-10-13
+90,:ref:`SM300`,:ref:`A01366 <A01366>`,single,SMP 123,2011-02-09,2015-11-02
+82,:ref:`SM300`,:ref:`A01358 <A01358>`,single,SMP 126,2010-07-30,2010-09-22
+91,:ref:`SM300`,:ref:`A01358 <A01358>`,single,Incomplete SMP 126,2012-03-15,2012-11-01
+92,:ref:`SM300`,:ref:`A01358 <A01358>`,single,Incomplete SMP 126,2012-11-02,2013-03-04
+83,:ref:`SM300`,:ref:`A01359 <A01359>`,single,SMP 126,2010-07-30,2010-09-22
+84,:ref:`SM300`,:ref:`A01360 <A01360>`,single,SMP 121,2010-07-30,2010-11-12
+85,:ref:`SM300`,:ref:`A01362 <A01362>`,single,SMP 122,2010-07-30,2011-01-04
+86,:ref:`SM300`,:ref:`A01364 <A01364>`,single,SMP 120,2010-07-30,2010-09-22
+87,:ref:`SM300`,:ref:`A01365 <A01365>`,single,SMP 120,2010-07-30,2010-09-22
+88,:ref:`SM300`,:ref:`A01605 <A01605>`,single,SMP 163,2010-09-22,2010-10-13
+93,:ref:`ML2`,:ref:`224_063_EMB <224_063_EMB>`,single,Incomplete and check end date ML2,2010-06-22,2015-01-01

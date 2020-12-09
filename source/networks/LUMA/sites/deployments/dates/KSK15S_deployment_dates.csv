@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-43,:ref:`CNR1`,:ref:`000220`,single,CNR1,2007-02-20,2008-08-12
-376,:ref:`CL31`,:ref:`B20201`,ceilometer,CL31-A,2006-11-29,2009-04-22
-377,:ref:`CL31`,:ref:`B20202`,ceilometer,CL31-B,2007-12-04,2008-08-20
+43,:ref:`CNR1`,:ref:`000220 <000220>`,single,CNR1,2007-02-20,2008-08-12
+376,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2006-11-29,2009-04-22
+377,:ref:`CL31`,:ref:`B20202 <B20202>`,ceilometer,CL31-B,2007-12-04,2008-08-20

@@ -88,7 +88,7 @@ Supplementary information
    * - Link
      - Title
      - Description
-   * - :download:`ARG100 manual <manuals/ARG100_manual>`
+   * - :download:`ARG100 manual <manuals/ARG100_manual.pdf>`
      - ARG100 manual
      - Manual from Campbell Scientific
 

@@ -1,9 +1,9 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
 ,,,,,UTC,UTC
-10,:ref:`DAVIS`,:ref:`A00422A002`,single,Davis weather station,2011-09-02,2013-02-27
-11,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station,2011-05-24,2011-09-01
-236,:ref:`WXT510`,:ref:`B0840003`,single,WXT,2011-07-01,2011-11-15
-351,:ref:`BLS`,:ref:`T-E-0470`,scintillometer,BLS_NTT_NDT,2011-05-20,2011-11-23
-352,:ref:`BLS`,:ref:`T-E-0470`,scintillometer,BLS_NTT_NDT,2012-01-11,2012-03-08
-353,:ref:`BLS`,:ref:`T-E-0470`,scintillometer,BLS_NGT_NDT,2012-03-29,2012-09-21
-357,:ref:`LASMKII`,:ref:`120028`,scintillometer,LAS_MKII_28_NGT_NDT,2012-09-21,2013-02-26
+10,:ref:`DAVIS`,:ref:`A00422A002 <A00422A002>`,single,Davis weather station,2011-09-02,2013-02-27
+11,:ref:`DAVIS`,:ref:`A00422A003 <A00422A003>`,single,Davis weather station,2011-05-24,2011-09-01
+236,:ref:`WXT510`,:ref:`B0840003 <B0840003>`,single,WXT,2011-07-01,2011-11-15
+351,:ref:`BLS`,:ref:`T-E-0470 <T-E-0470>`,scintillometer,BLS_NTT_NDT,2011-05-20,2011-11-23
+352,:ref:`BLS`,:ref:`T-E-0470 <T-E-0470>`,scintillometer,BLS_NTT_NDT,2012-01-11,2012-03-08
+353,:ref:`BLS`,:ref:`T-E-0470 <T-E-0470>`,scintillometer,BLS_NGT_NDT,2012-03-29,2012-09-21
+357,:ref:`LASMKII`,:ref:`120028 <120028>`,scintillometer,LAS_MKII_28_NGT_NDT,2012-09-21,2013-02-26
