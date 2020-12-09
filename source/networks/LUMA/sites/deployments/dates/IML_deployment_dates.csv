@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 14,:ref:`DAVIS`,:ref:`A00422A002`,single,Davis weather station,2013-07-19,2014-07-31
 15,:ref:`DAVIS`,:ref:`A00422A002`,single,Davis weather station,2014-08-01,2017-11-29
 445,:ref:`DAVIS`,:ref:`AZ170310004`,single,Davis weather station,2017-11-29,2018-10-31

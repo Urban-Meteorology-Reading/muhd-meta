@@ -124,8 +124,8 @@ rst_epilog = r"""
 
     .. tip::
 
-      1. Stuck? the :ref:`help <NeedHelp>` and :ref:`FAQ <FAQ>` pages are useful places to start.
-      2. Please report workshop manual issues at `GitHub Issues`_. Go from the page with the problem - an automatical link will be inserted. Thanks.
+      1. Stuck? the :ref:`reference guide <reference_guide>` is a useful place to start.
+      2. Please report issues at `GitHub Issues`_. Go from the page with the problem - an automatic link will be inserted. Thanks.
 """
 
 # Exclude build directory and Jupyter backup files:

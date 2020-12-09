@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 44,:ref:`CNR1`,:ref:`000220`,single,CNR1,2008-08-13,2009-09-30
 45,:ref:`CNR4`,:ref:`100312`,single,CNR4,2010-09-21,2013-03-04
 46,:ref:`PAR`,:ref:`020630661`,single,PAR,2008-09-29,2009-09-29

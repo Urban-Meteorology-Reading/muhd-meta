@@ -1,9 +1,9 @@
-Site ID,NA,SHU
-Full Name,NA,Southampton University
-Network,NA,ReFresh
+Site ID,,SHU
+Full Name,,Southampton University
+Network,,ReFresh
 Longitude,degrees,-1.396022
 Latitude,degrees,50.936795
 Start date,UTC,2017-01-20
 End date,UTC,2018-03-07
 Displacement height,m,-999.0
-City,NA,Southampton
+City,,Southampton

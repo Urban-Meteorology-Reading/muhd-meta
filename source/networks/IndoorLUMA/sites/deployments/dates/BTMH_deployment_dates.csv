@@ -1,3 +1,3 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 222,:ref:`MICROLITE`,:ref:`9178739`,indoor,Ground floor (incomplete),2013-08-11,2013-08-12

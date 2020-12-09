@@ -1,9 +1,9 @@
-Site ID,NA,IMU
-Full Name,NA,"Islington Michael Cliffe, Upper Level"
-Network,NA,LUMA
+Site ID,,IMU
+Full Name,,"Islington Michael Cliffe, Upper Level"
+Network,,LUMA
 Longitude,degrees,-0.106086
 Latitude,degrees,51.526148
 Start date,UTC,2013-07-26
 End date,UTC,
 Displacement height,m,19.0
-City,NA,London
+City,,London

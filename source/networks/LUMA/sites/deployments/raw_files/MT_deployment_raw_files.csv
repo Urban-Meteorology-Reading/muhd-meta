@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 73,MT_120_%d%m%y.dt6,30 min,instantaneous
 271,MT_177_%d%m%y.dt6,30 min,instantaneous
 74,MT_120_%d%m%y.dt6,30 min,instantaneous

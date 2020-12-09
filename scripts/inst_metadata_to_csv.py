@@ -24,11 +24,6 @@ site = pd.read_sql_query('SELECT * from site', connection)
 
 #close connection
 connection.close()
-# %%
-# define out dir 
-inst_out_dir = os.path.join('..', 'source', 'instruments', 'instIds')
-if os.path.exists(inst_out_dir) == False:
-    os.makedirs(inst_out_dir)
 #%%
 insts_to_process = instrument['instId']
 
@@ -39,6 +34,12 @@ for instId in insts_to_process:
         continue 
 
     print(instId)
+    #get the type
+    itype = instrument.loc[instrument['instId'] == instId, 'type'].values[0]
+    #init dirs
+    inst_out_dir = os.path.join('..', 'source', 'instrument_types', itype, 'instIds')
+    if os.path.exists(inst_out_dir) == False:
+        os.makedirs(inst_out_dir)
 
     # metadata for instrument
     inst_info = instrument.loc[instrument['instId'] == instId]

@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 17,Davis/Daily/%m/%Y%m%d_davis.txt,2 sec,instantaneous
 354,BLS/Daily/%m/Mnd/%Y-%m-%d.mnd,60s,average
 356,/LAS_MkII_29/Daily/%m/%Y%m%d_120028.log,60s,average

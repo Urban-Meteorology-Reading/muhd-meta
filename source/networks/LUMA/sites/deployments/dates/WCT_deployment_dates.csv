@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 405,:ref:`PI160`,:ref:`C12060057_L16080014`,fov,C57,2017-07-22,2017-08-02
 442,:ref:`PI160`,:ref:`C12060057_L16080014`,fov,C57,2017-08-04,2017-11-10
 406,:ref:`PI160`,:ref:`C12070069_L17050015`,fov,C69,2017-07-22,2017-08-02

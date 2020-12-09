@@ -1,3 +1,3 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 451,:ref:`WXT510`,:ref:`E1620004`,single,WXT Weather Station,2018-05-10,

@@ -1,9 +1,9 @@
-Site ID,NA,NGT
-Full Name,NA,"Grenfell Tower, Kings College London (North Kensington)"
-Network,NA,LUMA
+Site ID,,NGT
+Full Name,,"Grenfell Tower, Kings College London (North Kensington)"
+Network,,LUMA
 Longitude,degrees,-0.215762
 Latitude,degrees,51.514164
 Start date,UTC,2011-10-11
 End date,UTC,2013-02-27
 Displacement height,m,-999.0
-City,NA,London
+City,,London

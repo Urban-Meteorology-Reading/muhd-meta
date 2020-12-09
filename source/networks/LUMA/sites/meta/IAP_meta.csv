@@ -1,9 +1,9 @@
-Site ID,NA,IAP
-Full Name,NA,"Institute of Physics (Beijing, China)"
-Network,NA,LUMA
+Site ID,,IAP
+Full Name,,"Institute of Physics (Beijing, China)"
+Network,,LUMA
 Longitude,degrees,116.370677
 Latitude,degrees,39.974506
 Start date,UTC,2016-11-04
 End date,UTC,2017-06-25
 Displacement height,m,-999.0
-City,NA,London
+City,,London

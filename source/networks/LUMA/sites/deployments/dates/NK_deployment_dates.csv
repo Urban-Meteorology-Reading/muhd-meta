@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 16,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station - CHECK DATE - no raw data in 2011,2011-05-16,2011-05-23
 366,:ref:`CL31`,:ref:`F2730001`,ceilometer,CL31-D,2011-02-02,2016-07-07
 374,:ref:`CL31`,:ref:`103150004`,ceilometer,CL31-E,2016-07-07,2018-11-14

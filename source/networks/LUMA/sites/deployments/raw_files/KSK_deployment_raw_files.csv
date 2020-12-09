@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 44,CR5000/KSK_RF%y%DOY.dat,15min,
 45,Radiation/CNR4_%y%DOY.dat,15min,
 46,CR5000/KSK_RF%y%DOY.dat,,

@@ -1,9 +1,9 @@
-Site ID,NA,SJP
-Full Name,NA,St James' Park
-Network,NA,MetOffice
+Site ID,,SJP
+Full Name,,St James' Park
+Network,,MetOffice
 Longitude,degrees,-0.12948
 Latitude,degrees,51.5042
 Start date,UTC,1981-01-01
 End date,UTC,
 Displacement height,m,-999.0
-City,NA,London
+City,,London

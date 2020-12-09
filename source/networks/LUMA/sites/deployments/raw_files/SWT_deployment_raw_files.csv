@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 372,CeilometerQ/%m/Q%q%m%d%H.DAT,30,average
 389,BLS/Daily/%m/Mnd/%Y-%m-%d.mnd,60s,average
 390,MetData/%m/%Y%m%d_SWT_MetData.dat,1min,average

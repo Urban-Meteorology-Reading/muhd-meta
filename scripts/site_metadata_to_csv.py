@@ -36,7 +36,7 @@ for process_site in sites_to_process:
     process_site_cols = {'id' : 'Site ID', 'fullName' : 'Full Name', 'network' : 'Network',
                         'longitude' : 'Longitude', 'latitude' : 'Latitude', 'startDate' : 'Start date', 
                         'endDate' : 'End date', 'displacementHeight' : 'Displacement height', 'city' : 'City'}
-    process_site_units = ['NA', 'NA', 'NA', 'degrees', 'degrees', 'UTC', 'UTC', 'm', 'NA']
+    process_site_units = ['', '', '', 'degrees', 'degrees', 'UTC', 'UTC', 'm', '']
     process_site_info = gen_csv.wrangle_cols(process_site_info, process_site_cols, process_site_units, col_ind = 'ind')
 
     #save the site meta
@@ -67,7 +67,7 @@ for process_site in sites_to_process:
     # filter columns for date of deployments 
     dates_cols = {'Deployment ID' : 'Deployment ID', 'instId' : 'Instrument ID', 'instSerial' : 'Instrument serial', 
                 'type' : 'Type', 'friendlyName' : 'Deployment name', 'startDate' : 'Start date', 'endDate' : 'End date'}
-    dates_units = ['NA', 'NA', 'NA', 'NA', 'NA', 'UTC', 'UTC']
+    dates_units = ['', '', '', '', '', 'UTC', 'UTC']
     dates_df = gen_csv.wrangle_cols(site_deployments_pos_ser, dates_cols, dates_units)
 
     dates_columns_to_keep = ['Deployment ID', 'instId', 'instSerial', 'suffix', 'type', 'friendlyName', 'startDate', 'endDate']
@@ -82,7 +82,7 @@ for process_site in sites_to_process:
     # filter columns for position of deployments
     pos_cols = {'Deployment ID' : 'Deployment ID', 'height' : 'Height', 'yaw' : 'Yaw', 'pitch' : 'Pitch', 
                 'roll' : 'Roll'}
-    pos_units = ['NA', 'm asl', 'degrees', 'degrees', 'degrees']
+    pos_units = ['', 'm asl', 'degrees', 'degrees', 'degrees']
     pos_df = gen_csv.wrangle_cols(site_deployments_pos_ser, pos_cols, pos_units)
 
     #save file 
@@ -94,7 +94,7 @@ for process_site in sites_to_process:
     # filter columns for raw file info of deployments 
     raw_cols = {'Deployment ID' : 'Deployment ID','filenameFormat' : 'Raw file name format', 
                 'rawTimeResolution' : 'Raw file time resolution', 'sampleType' : 'Sample type'}
-    raw_units = ['NA', 'NA', 'NA', 'Instantaneous/Average']
+    raw_units = ['', '', '', 'Instantaneous/Average']
     raw_df = gen_csv.wrangle_cols(site_deployments_pos_ser, raw_cols, raw_units)
 
     #save file 
@@ -112,7 +112,7 @@ for process_site in sites_to_process:
         #configure cols
         prof_cols = {'Deployment ID' : 'Deployment ID', 'profileBottom' : 'Profile bottom', 'profileTop' : 'Profile top',
                     'profileStep' : 'Profile step'}
-        prof_units = ['NA', 'm asl', 'm asl', 'm asl']
+        prof_units = ['', 'm asl', 'm asl', 'm']
         prof_df = gen_csv.wrangle_cols(ceil_deployment_info, prof_cols, prof_units)
         # save
         prof_out_name = f"{process_site}_profile_deployments.csv"
@@ -127,7 +127,7 @@ for process_site in sites_to_process:
         #config cols
         scint_cols = {'Deployment ID' : 'Deployment ID', 'targetDistance' : 'Target distance',
                     'targetSite' : 'Target site', 'targetHeight' : 'Target height'}
-        scint_units = ['NA', 'm', 'NA', 'm asl']
+        scint_units = ['', 'm', '', 'm asl']
         scint_df = gen_csv.wrangle_cols(scint_deployment_info, scint_cols, scint_units)
 
         #save 
@@ -143,7 +143,7 @@ for process_site in sites_to_process:
         #configure cols
         indoor_cols = {'Deployment ID' : 'Deployment ID', 'roomType' : 'Room type', 'buildingStorey' : 'Building storey', 
                     'distanceToWindow' : 'Distance to wnidow'}
-        indoor_units = ['NA', 'NA', 'NA', 'm']
+        indoor_units = ['', '', '', 'm']
         indoor_df = gen_csv.wrangle_cols(indoor_deployment_info, indoor_cols, indoor_units)
 
         #save 

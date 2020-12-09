@@ -99,7 +99,7 @@ Images of the instruments whilst they're deployed. Most of these have a date att
 Supplementary information
 *************************
 
-This includes (but is not limited to) instrument manuals. In most cases a download link is given but when this is not permissible a url link is given. If you find an expired url please contact Prof. Sue Grimmond (c.s.grimmond@reading.ac.uk).
+This includes (but is not limited to) instrument manuals. In most cases a download link is given but when this is not permissible a url link is given. If you find an expired url please raise a `GitHub Issues`_.
 
 Data acquisition
 ****************

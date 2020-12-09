@@ -1,9 +1,9 @@
-Site ID,NA,KSK15S
-Full Name,NA,"Kings Building, Kings College London (Strand Campus) 15m South of KSK"
-Network,NA,LUMA
+Site ID,,KSK15S
+Full Name,,"Kings Building, Kings College London (Strand Campus) 15m South of KSK"
+Network,,LUMA
 Longitude,degrees,-0.115968
 Latitude,degrees,51.51137
 Start date,UTC,2008-08-21
 End date,UTC,2013-05-19
 Displacement height,m,19.0
-City,NA,London
+City,,London

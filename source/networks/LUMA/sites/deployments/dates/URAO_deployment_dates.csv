@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 299,:ref:`CT25K`,:ref:`LCBRV312`,ceilometer,CT25K-X,2016-07-15,2016-07-28
 303,:ref:`CT25K`,:ref:`LCBRV152`,ceilometer,CT25K-U,2016-08-05,2016-08-19
 304,:ref:`CT25K`,:ref:`LCBRV017`,ceilometer,CT25K-W,2016-06-17,2016-07-01

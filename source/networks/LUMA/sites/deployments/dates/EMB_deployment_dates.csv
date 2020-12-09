@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 80,:ref:`SM300`,:ref:`A01357`,single,SMP 123,2010-07-30,2010-10-13
 89,:ref:`SM300`,:ref:`A01357`,single,SMP 123,2011-02-09,2015-11-02
 81,:ref:`SM300`,:ref:`A01366`,single,SMP 123,2010-07-30,2010-10-13

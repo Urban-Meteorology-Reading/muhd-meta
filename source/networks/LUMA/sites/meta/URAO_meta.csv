@@ -1,9 +1,9 @@
-Site ID,NA,URAO
-Full Name,NA,University of Reading
-Network,NA,LUMA
+Site ID,,URAO
+Full Name,,University of Reading
+Network,,LUMA
 Longitude,degrees,-0.93795
 Latitude,degrees,51.4414
 Start date,UTC,2008-01-01
 End date,UTC,
 Displacement height,m,0.1
-City,NA,London
+City,,London

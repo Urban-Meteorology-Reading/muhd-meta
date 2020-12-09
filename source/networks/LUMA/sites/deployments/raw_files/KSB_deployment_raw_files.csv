@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 53,CSAT_Hrly/%m/KSBFast%y%DOY_%H.txt,0.1,instantaneous
 53,CSAT_Hrly/%m/KSBFast%y%DOY_%H.txt,0.1,instantaneous
 340,Gill_Hrly/%m/KSBFast%y%DOY_%H.txt,0.1,instantaneous

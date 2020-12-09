@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 10,Davis2/Daily/%m/%Y%m%d_davis.txt,2 sec,instantaneous
 11,Davis2/Daily/%m/%Y%m%d_davis.txt,2 sec,instantaneous
 236,wxt/Daily/%m/com7-%Y%m%d-000000.txt,,

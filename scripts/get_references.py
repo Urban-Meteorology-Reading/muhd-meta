@@ -21,6 +21,7 @@ base_url_site = "http://centaur.reading.ac.uk/cgi/search/archive/simple/export_r
 inst_out_dir = os.path.join('..','source','instruments','instIds','references')
 # out directory for sites
 site_out_dir = os.path.join('..','source','networks')
+inst_out_dir = os.path.join('..','source','instrument_types')
 #%%
 # get connection to database
 db_path = os.path.join("..", "metadata", "metadata.sq3")
@@ -125,9 +126,10 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     ref_df.to_csv(ref_file_path, index = False)
 #%%
 #loop through instruments
-all_insts = inst_df['instId']
-for instId in all_insts:
-    get_references(base_url_inst, instId, author, 'inst', inst_out_dir)
+all_insts = inst_df[['instId', 'type']]
+for index, instId in all_insts.iterrows():
+    out_dir = os.path.join(inst_out_dir, instId['type'],'instIds','references')
+    get_references(base_url_inst, instId['instId'], author, 'inst', out_dir)
 #%%
 #loop through sites 
 all_sites = site_df[['id', 'network']]

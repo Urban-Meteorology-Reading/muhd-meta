@@ -1,3 +1,3 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 454,:ref:`CL31`,:ref:`103150004`,ceilometer,CL31-E,2018-12-12,

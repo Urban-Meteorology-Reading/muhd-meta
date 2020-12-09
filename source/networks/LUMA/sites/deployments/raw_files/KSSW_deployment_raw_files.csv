@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 8,Davis/Daily/%m/%Y%m%d_davis_KSSW2.txt,2 sec,instantaneous
 9,Davis2/Daily/%m/%Y%m%d_davis_KSSW1.txt,2 sec,instantaneous
 28,CR5000/KSSW_RF%y%DOY.dat,1min,

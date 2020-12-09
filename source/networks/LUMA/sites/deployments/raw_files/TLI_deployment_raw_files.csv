@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 66,rawTwater%y%m%d_%y%m%d.csv,5 min,average
 67,rawTwater%y%m%d_%y%m%d.csv,5 min,average
 68,rawTwater%y%m%d_%y%m%d.csv,1 min,average

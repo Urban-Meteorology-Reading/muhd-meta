@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 363,OptrisPI/C26/%m/%d/,1min,instantaneous
 365,OptrisPI/C26/%m/%d/,1min,instantaneous
 364,OptrisPI/C57/%m/%d/,1min,instantaneous

@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 411,:ref:`RM81000`,:ref:`RM001`,ec,Baltimore fluxes,2001-05-23,2006-05-03
 411,:ref:`LI7500`,:ref:`BCH001`,ec,Baltimore fluxes,2001-05-23,2006-05-03
 412,:ref:`LI190`,:ref:`BCH002`,single,Baltimore PAR,2001-05-23,2006-05-03

@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 12,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station,2013-07-19,2014-07-31
 13,:ref:`DAVIS`,:ref:`A00422A003`,single,Davis weather station,2014-08-01,2019-08-30
 280,:ref:`CL31`,:ref:`B20201`,ceilometer,CL31-A,2016-04-29,2019-12-18

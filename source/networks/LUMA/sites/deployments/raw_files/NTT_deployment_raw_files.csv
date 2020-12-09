@@ -1,4 +1,4 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 355,/LAS_MkII_29/Daily/%m/%Y%m%d_120029.log,60s,average
 359,LAS_29/hourly/LasFast%y%DOY_%H.txt,0.1,instantaneous

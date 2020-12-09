@@ -1,4 +1,4 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 1,Davis/Daily/%m/%Y%m%d_davis_BCT.txt,2 sec,instantaneous
 323,LASMkII_28/Fast/%m/LASMkII-28_Fast_%Y%DOY.dat,10Hz,instantaneous

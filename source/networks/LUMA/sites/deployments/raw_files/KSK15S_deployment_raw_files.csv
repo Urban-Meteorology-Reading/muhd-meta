@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
-NA,NA,NA,Instantaneous/Average
+,,,Instantaneous/Average
 43,CR3000/RF%y%DOY.dat,,
 376,CeilometerA/%m/A%q%m%d%H.DAT,15sec,average
 377,CeilometerB/%m/B%q%m%d%H.DAT,15sec,average

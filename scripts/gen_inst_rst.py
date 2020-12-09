@@ -18,8 +18,6 @@ connection.close()
 # get list of all sites 
 insts_to_process = inst_df['instId']
 
-inst_dir = os.path.join('..', 'source', 'instruments', 'instIds')
-
 #for every instrument
 for instId in insts_to_process:
 
@@ -27,7 +25,11 @@ for instId in insts_to_process:
     if instId == '':
         continue 
 
+    #get the type
+    itype = inst_df.loc[inst_df['instId'] == instId, 'type'].values[0]
+
     inst_file_name = f"{instId}.rst"
+    inst_dir = os.path.join('..', 'source', 'instrument_types',itype ,'instIds')
     inst_path = os.path.join(inst_dir, inst_file_name)
     with io.open(inst_path, 'w+', encoding="utf-8") as inst_file:
         #write header 
@@ -42,7 +44,7 @@ for instId in insts_to_process:
         gen_rst.write_csv(inst_file, f"out_defs/{instId}_out_defs.csv", 1)
         #code to convert from raw to processed
         gen_rst.write_title(inst_file, 'Processing code')
-        gh_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'github_links', 'github_links.csv')
+        gh_dir = os.path.join('..', 'source', 'supplementary_info', 'github_links', 'github_links.csv')
         if os.path.exists(gh_dir):
             gen_rst.wrtie_gh_link(inst_file, gh_dir, instId)
         #variables
@@ -53,19 +55,19 @@ for instId in insts_to_process:
         gen_rst.write_csv(inst_file, f"serials/{instId}_serials.csv", 1)
         #every deployment
         gen_rst.write_title(inst_file, 'Deployments')
-        deployment_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'deployments', instId) 
+        deployment_dir = os.path.join(inst_dir, 'deployments', instId) 
         if os.path.exists(deployment_dir):
             all_serials = [i.replace('_deployments.csv', '') for i in os.listdir(deployment_dir)]
             for serial in all_serials:
                 #write referencer
                 inst_file.write(f".. _{serial}:\n\n")
-                gen_rst.write_title(inst_file, serial, '*')
+                gen_rst.write_title(inst_file, f'Serial number: {serial}', '*')
                 gen_rst.write_csv(inst_file, f"deployments/{instId}/{serial}_deployments.csv", 1)
 
         # photos 
         #get the photo names and captions required 
         gen_rst.write_title(inst_file, 'Photos')
-        photo_ref_path = os.path.join('..', 'source', 'instruments', 'instIds', 'photos', instId, 'photo_ref.csv')
+        photo_ref_path = os.path.join(inst_dir, 'photos', instId, 'photo_ref.csv')
         if os.path.exists(photo_ref_path):
             photo_ref = pd.read_csv(photo_ref_path)
             photo_ref.apply(lambda x: gen_rst.write_figures(x, instId, inst_file), axis = 1)
@@ -83,7 +85,7 @@ for instId in insts_to_process:
         
         #data acquisition
         gen_rst.write_title(inst_file, 'Data acquisition')
-        data_acquisition_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'data_acquisition', f'{instId}_data_acquisition.rst')
+        data_acquisition_dir = os.path.join(inst_dir, 'data_acquisition', f'{instId}_data_acquisition.rst')
         if os.path.exists(data_acquisition_dir):
             inst_file.write(f".. include:: data_acquisition/{instId}_data_acquisition.rst\n\n")
         else:
@@ -91,7 +93,7 @@ for instId in insts_to_process:
         
         #references
         gen_rst.write_title(inst_file, 'References')        
-        ref_dir = os.path.join('..', 'source', 'instruments', 'instIds', 'references', f'{instId}_references.csv')
+        ref_dir = os.path.join(inst_dir, 'references', f'{instId}_references.csv')
         if os.path.exists(ref_dir):
             gen_rst.write_ref_list(inst_file,ref_dir)
 # %%

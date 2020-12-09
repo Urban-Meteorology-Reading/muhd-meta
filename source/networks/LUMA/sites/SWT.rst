@@ -16,7 +16,6 @@ Site metadata
    :file: meta/SWT_meta.csv
    :stub-columns: 2
 
-
 .. raw:: html
 
    <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
@@ -35,6 +34,7 @@ Site metadata
 
    </script>
 
+   
 Deployments at site
 ###################
 

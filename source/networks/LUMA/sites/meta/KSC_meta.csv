@@ -1,9 +1,9 @@
-Site ID,NA,KSC
-Full Name,NA,Kings college london
-Network,NA,LUMA
+Site ID,,KSC
+Full Name,,Kings college london
+Network,,LUMA
 Longitude,degrees,-0.1161
 Latitude,degrees,51.51146
 Start date,UTC,2006-08-11
 End date,UTC,2020-09-17
 Displacement height,m,19.0
-City,NA,London
+City,,London

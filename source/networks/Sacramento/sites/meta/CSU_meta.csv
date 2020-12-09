@@ -1,9 +1,9 @@
-Site ID,NA,CSU
-Full Name,NA,California Sacramento Urban (lat/lon=best guess)
-Network,NA,Sacramento
+Site ID,,CSU
+Full Name,,California Sacramento Urban (lat/lon=best guess)
+Network,,Sacramento
 Longitude,degrees,-121.325076
 Latitude,degrees,38.630489
 Start date,UTC,1991-08-19
 End date,UTC,1991-08-29
 Displacement height,m,-9.0
-City,NA,Sacramento
+City,,Sacramento

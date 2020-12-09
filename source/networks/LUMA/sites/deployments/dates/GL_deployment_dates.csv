@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 368,:ref:`WUNDERGROUNDWEB`,:ref:`WUNDERGROUND_WEB`,single,Wunderground spatial data,2015-01-01,
 369,:ref:`NETATMOWEB`,:ref:`NETATMO_WEB`,single,NetAtmo spatial data,2015-01-01,
 370,:ref:`DATAPOINTWEB`,:ref:`DATAPOINT_WEB`,single,Datapoint spatial data,2015-01-01,

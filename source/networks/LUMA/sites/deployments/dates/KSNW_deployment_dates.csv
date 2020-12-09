@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 49,:ref:`CNR1`,:ref:`000220`,single,CNR1,2012-09-19,2016-02-18
 54,:ref:`GILL121R03`,:ref:`307`,ec,EC,2015-09-17,2016-01-12
 234,:ref:`WXT510`,:ref:`B084005`,single,WXT,2012-05-16,2016-02-18

@@ -1,9 +1,9 @@
-Site ID,NA,KSS
-Full Name,NA,"Strand Building, Kings College London (Strand Campus)"
-Network,NA,LUMA
+Site ID,,KSS
+Full Name,,"Strand Building, Kings College London (Strand Campus)"
+Network,,LUMA
 Longitude,degrees,-0.11635
 Latitude,degrees,51.512
 Start date,UTC,2009-10-01
 End date,UTC,2012-03-26
 Displacement height,m,19.0
-City,NA,London
+City,,London

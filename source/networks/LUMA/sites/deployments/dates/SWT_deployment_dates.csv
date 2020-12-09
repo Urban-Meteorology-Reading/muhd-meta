@@ -1,5 +1,5 @@
 Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,End date
-NA,NA,NA,NA,NA,UTC,UTC
+,,,,,UTC,UTC
 372,:ref:`CT25K`,:ref:`LCBR045`,ceilometer,CT25K-Q,2016-12-15,2017-11-10
 389,:ref:`BLS`,:ref:`T-E-0470`,scintillometer,BLS Rx,2017-04-06,2020-11-04
 390,:ref:`SWTWXSTATION`,:ref:`SWT123456`,single,SWTWX,2017-03-18,

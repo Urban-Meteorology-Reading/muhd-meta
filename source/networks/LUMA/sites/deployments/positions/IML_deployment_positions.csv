@@ -1,5 +1,5 @@
 Deployment ID,Height,Yaw,Pitch,Roll
-NA,m asl,degrees,degrees,degrees
+,m asl,degrees,degrees,degrees
 14,25.5,338.0,,
 15,25.5,338.0,0.0,0.0
 445,25.5,338.0,0.0,0.0
