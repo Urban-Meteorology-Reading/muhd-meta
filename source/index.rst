@@ -5,7 +5,7 @@ Multi-City Urban Hydrometeorology Database
    :target: https://muhd.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
-This provides the metadata for the sites and instruments for the Urban Micromet Group (e.g. as published in these :ref:`reference_guide`) for information on how to interpret this metadata.
+This provides the metadata for the sites and instruments for the Urban Micromet Group (e.g. as published in the references :ref:`reference_guide`). 
 
 .. toctree::
    :caption: MUHD sites
