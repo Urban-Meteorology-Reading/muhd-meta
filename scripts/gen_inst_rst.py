@@ -89,7 +89,7 @@ for instId in insts_to_process:
         if os.path.exists(data_acquisition_dir):
             inst_file.write(f".. include:: data_acquisition/{instId}_data_acquisition.rst\n\n")
         else:
-            inst_file.write(f".. include:: ../../data_acquisition/data_acquisition_default.rst\n\n")
+            inst_file.write(f".. include:: ../../../data_acquisition/data_acquisition_default.rst\n\n")
         
         #references
         gen_rst.write_title(inst_file, 'References')        
