@@ -16,6 +16,23 @@ Site metadata
    :file: meta/KSC_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/LUMA/KSC_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -45,7 +62,6 @@ Data acquisition
 References
 ##########
 
-#. Mulcahy, J. P., Johnson, C., Jones, C. G., Povey, A. C., Scott, C. E., Sellar, A., Turnock, S. T., Woodhouse, M. T., Abraham, N. L., Andrews, M. B., Bellouin, N., Browse, J., Carslaw, K. S., Dalvi, M., Folberth, G. A., Glover, M., Grosvenor, D., Hardacre, C., Hill, R., Johnson, B., Jones, A., Kipling, Z., Mann, G., Mollard, J., O'Connor, F. M., Palmieri, J., Reddington, C., Rumbold, S. T., Richardson, M., Schutgens, N. A.J., Stier, P., Stringer, M., Tang, Y., Walton, J., Woodward, S. and Yool, A. (2020) Description and evaluation of aerosol in UKESM1 and HadGEM3-GC3.1 CMIP6 historical simulations. Geoscientific Model Development. ISSN 1991-9603 doi: https://doi.org/10.5194/gmd-2019-357 (In Press)
 
 Acknowledgements
 ################

@@ -115,7 +115,7 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     # sort by year - omit non Grimmond papers (or Kent thesis)
     if search_type == 'site':
         ref_df = ref_df.sort_values('year', ascending = False)
-        ref_df[ref_df['Reference'].str.contains('Grimmond') | ref_df['Reference'].str.contains('Kent')]
+        ref_df = ref_df[ref_df['Reference'].str.contains('Grimmond') | ref_df['Reference'].str.contains('Kent')]
     #define out dir
     ref_dir = out_dir
     if os.path.exists(ref_dir) == False:

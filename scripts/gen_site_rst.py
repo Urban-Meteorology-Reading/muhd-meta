@@ -5,7 +5,7 @@ import pandas as pd
 import sqlite3
 import io
 import gen_rst_functions as gen_rst
-
+from write_map_html import *
 #%%
 # get connection to database
 db_path = os.path.join("..", "metadata", "metadata.sq3")
@@ -37,7 +37,8 @@ for site in sites_to_process:
         #metadata
         gen_rst.write_title(site_file, 'Site metadata')
         gen_rst.write_csv(site_file, f"meta/{site}_meta.csv", 2, stub_columns = True)
-        
+        #map
+        write_map_html(f'../../_static/network_maps/{network}/{site}_map', site_file)
         #deployments
         #dates
         gen_rst.write_title(site_file, 'Deployments at site')

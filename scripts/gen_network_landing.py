@@ -1,4 +1,5 @@
 import os
+from write_map_html import *
 #%%
 # write a landing page for every network 
 network_dir_parent = os.path.join('..', 'source', 'networks')
@@ -15,8 +16,8 @@ for network in all_networks:
         network_file.write(f"{title}\n{network}\n{title}\n\n")
         #write intro 
         network_file.write(f".. include:: {network}_intro.rst\n\n")
-        # here will be a map 
-        network_file.write(f"**here will be a map of site positions**\n\n")
+        # add map 
+        write_map_html(f'../../_static/network_maps/{network}_map', network_file)
         #write the tree
         network_file.write(".. toctree::\n")
         network_file.write(f"   :caption: {network} sites\n")

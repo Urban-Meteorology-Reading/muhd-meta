@@ -16,6 +16,23 @@ Site metadata
    :file: meta/NDT_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/LUMA/NDT_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -49,7 +66,6 @@ Data acquisition
 References
 ##########
 
-#. Boutle, I., Beare, R.J., Belcher, S. E., Brown, A.R. and Plant, R. S. (2010) The moist boundary layer under a mid-latitude weather system. Boundary-Layer Meteorology, 134 (3). pp. 367-386. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-009-9452-9
 
 Acknowledgements
 ################

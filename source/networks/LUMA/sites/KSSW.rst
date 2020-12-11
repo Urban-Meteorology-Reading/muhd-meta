@@ -16,6 +16,23 @@ Site metadata
    :file: meta/KSSW_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/LUMA/KSSW_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -59,7 +76,7 @@ References
 #. Kent, C. W., Grimmond, S., Barlow, J., Gatey, D., Kotthaus, S., Lindberg, F. and Halios, C. H. (2017) Evaluation of urban local-scale aerodynamic parameters: implications for the vertical profile of wind speed and for source areas. Boundary-Layer Meteorology, 164 (2). pp. 183-213. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-017-0248-z
 #. Bjorkegren, A. and Grimmond, C. S. B., (2017) Net carbon dioxide emissions from central London. Urban Climate, 23. pp. 131-158. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2016.10.002
 #. Crawford, B., Grimmond, C. S. B., Ward, H. C., Morrison, W. and Kotthaus, S. (2017) Spatial and temporal patterns of surface-atmosphere energy exchange in a dense urban environment using scintillometry. Quarterly Journal of the Royal Meteorological Society, 143 (703). pp. 817-833. ISSN 1477-870X doi: https://doi.org/10.1002/qj.2967
-#. Ward, H. C., Kotthaus, S., J�rvi, L. and Grimmond, C. S. B. (2016) Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites. Urban Climate, 18. pp. 1-32. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2016.05.001
+#. Ward, H. C., Kotthaus, S., J�rvi, L. and Grimmond, C. S. B. (2016) Surface Urban Energy and Water Balance Scheme (SUEWS): development and evaluation at two UK sites. Urban Climate, 18. pp. 1-32. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2016.05.001
 #. Bjorkeren, A. B., Grimmond, C. S. B., Kotthaus, S. and Malamud, B. D. (2015) CO2 emission estimation in the urban environment: measurement of the CO2 storage term. Atmospheric Environment, 122. pp. 775-790. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2015.10.012
 #. Ward, H. C., Kotthaus, S., Grimmond, C. S. B., Bjorkegren, A., Wilkinson, M., Morrison, W. T. J., Evans, J. G., Morison, J. I. L. and Iamarino, M. (2015) Effects of urban density on carbon dioxide exchanges: observations of dense urban, suburban and woodland areas of southern England. Environmental Pollution, 198. pp. 186-200. ISSN 0269-7491 doi: https://doi.org/10.1016/j.envpol.2014.12.031
 

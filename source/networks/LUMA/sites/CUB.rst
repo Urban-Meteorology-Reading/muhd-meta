@@ -16,6 +16,23 @@ Site metadata
    :file: meta/CUB_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/LUMA/CUB_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -47,7 +64,6 @@ References
 
 #. Morrison, W., Yin, T., Lauret, N., Guilleux, J., Kotthaus, S., Gastellu-Etchegorry, J.-P., Norford, L. and Grimmond, S. (2020) Atmospheric and emissivity corrections for ground-based thermography using 3D radiative transfer modelling. Remote Sensing of Environment, 237. 111524. ISSN 00344257 doi: https://doi.org/10.1016/j.rse.2019.111524
 #. Bellucco, V. S., Marras, S., Grimmond, C. S. B., J�rvi, L., Sirca, C. and Spano, D. (2017) Modelling the biogenic CO2 exchange in urban and non-urban ecosystems through the assessment of light-response curve parameters. Agricultural and Forest Meteorology, 236. pp. 113-122. ISSN 0168-1923 doi: https://doi.org/10.1016/j.agrformet.2016.12.011
-#. Valdes, P. J., Armstrong, E., Badger, M. P. S., Bradshaw, C. D., Bragg, F., Davies-Barnard, T., Day, J. J., Farnsworth, A., Hopcroft, P. O., Kennedy, A. T., Lord, N. S., Lunt, D. J., Marzocchi, A., Parry, L. M., Roberts, W. H. G., Stone, E. J., Tourte, G. J. L. and Williams, J. H. T. (2017) The BRIDGE HadCM3 family of climate models: HadCM3@Bristol v1.0. Geoscientific Model Development, 10. pp. 3715-3743. ISSN 1991-9603 doi: https://doi.org/10.5194/gmd-2017-16
 #. Loridan, T., Grimmond, C.S.B., Offerle, B. D., Young, D. T., Smith, T. E. L., J�rvi, L. and Lindberg, F. (2011) Local-scale urban meteorological parameterization scheme (LUMPS): longwave radiation parameterization and seasonality-related developments. Journal of Applied Meteorology and Climatology, 50 (1). pp. 185-202. ISSN 1558-8424 doi: https://doi.org/10.1175/2010JAMC2474.1
 
 Acknowledgements

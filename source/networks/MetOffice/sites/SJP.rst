@@ -16,6 +16,23 @@ Site metadata
    :file: meta/SJP_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/MetOffice/SJP_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -45,8 +62,6 @@ Data acquisition
 References
 ##########
 
-#. Coceal, O., Bohnenstengel, S. I. and Kotthaus, S. (2018) Detection of sea-breeze events around London using a fuzzy-logic algorithm. Atmospheric Science Letters, 19 (9). e846. ISSN 1530-261X doi: https://doi.org/10.1002/asl.846
-#. Luo, Z. and Christina, A. (2015) Subsurface urban heat island and its effects on horizontal ground-source heat pump potential under climate change. Applied Thermal Engineering, 90. pp. 530-537. ISSN 1359-4311 doi: https://doi.org/10.1016/j.applthermaleng.2015.07.025
 
 Acknowledgements
 ################

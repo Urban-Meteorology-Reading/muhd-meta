@@ -16,6 +16,23 @@ Site metadata
    :file: meta/BDH_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/IndoorLUMA/BDH_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -49,7 +66,6 @@ Data acquisition
 References
 ##########
 
-#. Farshim, P., Walton, G., Chakrabarti, B., Givens, I., Saddy, D., Kitchen, I., Swann, J. R. and Bailey, A. (2016) Maternal weaning modulates emotional behavior and regulates the gut-brain axis. Scientific Reports, 6. 21958. ISSN 2045-2322 doi: https://doi.org/10.1038/srep21958
 
 Acknowledgements
 ################

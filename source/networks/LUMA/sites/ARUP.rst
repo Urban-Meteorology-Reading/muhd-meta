@@ -16,6 +16,23 @@ Site metadata
    :file: meta/ARUP_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/LUMA/ARUP_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -45,10 +62,7 @@ Data acquisition
 References
 ##########
 
-#. Dixon, T. and Farrelly, L., eds. (2020) Reading 2050: A Smart and Sustainable City. School of the Built Environment University of Reading, Reading, UK, pp81. (In Press)
-#. Thomsit-Ireland, F. (2019) Overcoming the barriers to green walls in urban areas of the UK. EngD thesis, University of Reading.
 #. Dixon, T., Barlow, J., Grimmond, S. and Blower, J., (2015) Smart and sustainable: using Big Data to improve peoples' lives in cities. Discussion Paper. University of Reading, Reading. ISSN 2058-9751
-#. Mohareb, E., Bristow, D. and Derrible, S. (2015) Climate change mitigation in high-income cities. In: Seto, K. C., Solecki, W. D. and Griffith, C. A. (eds.) The Routledge Handbook of Urbanization and Global Environmental Change. Routledge International Handbooks. Routledge, London, pp. 377-405. ISBN 9780415732260 doi: https://doi.org/10.4324/9781315849256
 #. Kotthaus, S., Smith, T. E.L., Wooster, M. J. and Grimmond, C. S. B. (2014) Derivation of an urban materials spectral library through emittance and reflectance spectroscopy. ISPRS Journal of Photogrammetry and Remote Sensing, 94. pp. 194-212. ISSN 0924-2716 doi: https://doi.org/10.1016/j.isprsjprs.2014.05.005
 #. Grimmond, C.S.B., Blackett, M., Best, M. J., Barlow, J., Baik, J.-J., Belcher, S. E., Bohnenstengel, S. I., Calmet, I., Chen, F., Dandou, A., Fortuniak, K., Gouvea, M. L., Hamdi, R., Hendry, M., Kawai, T., Kawamoto, Y., Kondo, H., Krayenhoff, E. S., Lee, S.-H., Loridan, T., Martilli, A., Masson, V., Miao, S., Oleson, K., Pigeon, G., Porson, A., Ryu, Y.-H., Salamanca, F., Shashua-Bar, L., Steeneveld, G.-J., Tombrou, M., Voogt, J., Young, D. and Zhang, N. (2010) The International Urban Energy Balance Models Comparison Project: First Results from Phase 1. Journal of Applied Meteorology and Climatology, 49 (6). pp. 1268-1292. ISSN 1558-8432 doi: https://doi.org/10.1175/2010JAMC2354.1
 

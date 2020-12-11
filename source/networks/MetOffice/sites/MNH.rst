@@ -16,6 +16,23 @@ Site metadata
    :file: meta/MNH_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/MetOffice/MNH_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -50,7 +67,6 @@ References
 ##########
 
 #. Kotthaus, S. and Grimmond, C. S. B. (2018) Atmospheric boundary layer characteristics from ceilometer measurements. Part 1: a new method to track mixed layer height and classify clouds. Quarterly Journal of the Royal Meteorological Society, 144 (714). pp. 1525-1538. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3299
-#. Coceal, O., Bohnenstengel, S. I. and Kotthaus, S. (2018) Detection of sea-breeze events around London using a fuzzy-logic algorithm. Atmospheric Science Letters, 19 (9). e846. ISSN 1530-261X doi: https://doi.org/10.1002/asl.846
 
 Acknowledgements
 ################

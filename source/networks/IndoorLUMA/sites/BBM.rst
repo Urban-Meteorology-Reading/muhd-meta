@@ -16,6 +16,23 @@ Site metadata
    :file: meta/BBM_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/IndoorLUMA/BBM_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -49,7 +66,6 @@ Data acquisition
 References
 ##########
 
-#. Roberts, A. J., Woodage, M. J., Marsham, J. H., Highwood, E. J., Ryder, C. L., McGinty, W., Wilson, S. and Crook, J. (2018) Can explicit convection improve modelled dust in summertime West Africa? Atmospheric Chemistry and Physics, 18 (12). pp. 9025-9048. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-18-9025-2018
 
 Acknowledgements
 ################

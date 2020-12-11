@@ -16,6 +16,23 @@ Site metadata
    :file: meta/CSU_meta.csv
    :stub-columns: 2
 
+.. raw: html
+
+   <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
+
+   <script type="text/javascript">
+
+   requirejs.config({
+
+      paths: {
+         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
+      }
+   )};
+
+   requirejs(["../../_static/network_maps/Sacramento/CSU_map"]);
+
+   </script>
+
 Deployments at site
 ###################
 
@@ -45,7 +62,6 @@ Data acquisition
 References
 ##########
 
-#. Katz, D., Lawless, A. S., Nichols, N. K., Cullen, M. J. P. and Bannister, R. N. (2011) Correlations of control variables in variational data assimilation. Quarterly Journal of the Royal Meteorological Society, 137 (656). pp. 620-630. ISSN 1477-870X doi: https://doi.org/10.1002/qj.798 	(Part A)
 
 Acknowledgements
 ################
