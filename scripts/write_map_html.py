@@ -7,6 +7,6 @@ def write_map_html(map_dir, FILE):
     FILE.write('      paths: {\n')
     FILE.write('         "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",\n')
     FILE.write('      }\n')
-    FILE.write('   )};\n\n')
+    FILE.write('   });\n\n')
     FILE.write(f'   requirejs(["{map_dir}"]);\n\n')
     FILE.write('   </script>\n\n')

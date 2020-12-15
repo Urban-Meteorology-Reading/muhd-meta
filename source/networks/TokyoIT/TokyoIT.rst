@@ -17,7 +17,7 @@ TokyoIT
       paths: {
          "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
       }
-   )};
+   });
 
    requirejs(["../../_static/network_maps/TokyoIT_map"]);
 
