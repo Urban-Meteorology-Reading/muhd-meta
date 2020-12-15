@@ -16,7 +16,7 @@ Site metadata
    :file: meta/IMU_meta.csv
    :stub-columns: 2
 
-.. raw: html
+.. raw:: html
 
    <div id="mapid" style="height: 440px; border: 1px solid #AAA;"></div>
 
@@ -29,7 +29,7 @@ Site metadata
       }
    )};
 
-   requirejs(["../../_static/network_maps/LUMA/IMU_map"]);
+   requirejs(["../../../_static/network_maps/LUMA/IMU_map"]);
 
    </script>
 

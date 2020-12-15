@@ -1,3 +1,4 @@
+#%%
 import os
 from write_map_html import *
 #%%
@@ -26,4 +27,4 @@ for network in all_networks:
         network_file.write(f"   :glob:\n\n")
         network_file.write("   sites/*")
 
-# %%
+#%%
