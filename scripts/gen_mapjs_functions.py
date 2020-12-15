@@ -12,7 +12,11 @@ def get_focus_point(network_sites):
     #if one point
     if max_min_dif_lat == 0 and max_min_dif_lon == 0:
         zoom = 13
-    elif max_min_dif_lat > 0 or max_min_dif_lon > 0:
+    # city wide approx
+    elif 3 >= max_min_dif_lat > 0  or 3 >= max_min_dif_lon > 0:
+        zoom = 10
+    # world wide
+    elif max_min_dif_lat > 3 or max_min_dif_lon > 3:
         zoom = 3
     
     return mid_point_lat, mid_point_lon, zoom

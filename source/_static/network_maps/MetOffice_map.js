@@ -6,7 +6,7 @@ function onEachFeature(feature, layer) {
   }
 }
 
-var mymap = L.map('mapid').setView([51.5271, -0.27324], 3);
+var mymap = L.map('mapid').setView([51.5271, -0.27324], 10);
 
 var geojsonFeature = {"features": [{"geometry": {"coordinates": [-0.12948, 51.5042], "type": "Point"}, "properties": {"amenity": "Site", "link": "https://muhd.readthedocs.io/en/latest/networks/MetOffice/sites/SJP.html", "name": "SJP"}, "type": "Feature"}, {"geometry": {"coordinates": [-0.417, 51.55], "type": "Point"}, "properties": {"amenity": "Site", "link": "https://muhd.readthedocs.io/en/latest/networks/MetOffice/sites/MNH.html", "name": "MNH"}, "type": "Feature"}], "type": "FeatureCollection"};
 
