@@ -15,7 +15,7 @@ The instrumentation :ref:`networks<network_def>` that contrive MUHD.
 
    paths: {
          "leaflet": "https://unpkg.com/leaflet@1.7.1/dist/leaflet",
-         'markercluster': 'Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src',   
+         'markercluster': 'https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src',   
       },
       shim: {
          leaflet: {
