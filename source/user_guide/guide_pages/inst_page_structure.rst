@@ -74,7 +74,7 @@ What the instrument measures. These variables are stored in one or more of the f
 Serials
 *******
 
-The serial number(s) of the instruments used in the mudh database for this instrument make. 
+The serial number(s) of the instruments in the mudh database for this model. 
 
 .. list-table::
     :header-rows: 1

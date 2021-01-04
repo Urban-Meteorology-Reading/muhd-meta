@@ -4,6 +4,12 @@
 Definitions
 ***********
 
+.. _network_def:
+Network
+#######
+
+A site or group of sites that have been set up for a certain campaign or project, typically in one city.
+
 Site
 ####
 
