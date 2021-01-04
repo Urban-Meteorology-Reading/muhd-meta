@@ -19,9 +19,11 @@ MetOffice
       }
    });
 
-   requirejs(["../../_static/network_maps/MetOffice_map"]);
+   requirejs(["../../_static/network_maps/networks/MetOffice_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: MetOffice sites

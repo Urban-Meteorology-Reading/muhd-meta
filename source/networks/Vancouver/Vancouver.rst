@@ -19,9 +19,11 @@ Vancouver
       }
    });
 
-   requirejs(["../../_static/network_maps/Vancouver_map"]);
+   requirejs(["../../_static/network_maps/networks/Vancouver_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: Vancouver sites

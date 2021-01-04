@@ -19,9 +19,11 @@ ClearfLo
       }
    });
 
-   requirejs(["../../_static/network_maps/ClearfLo_map"]);
+   requirejs(["../../_static/network_maps/networks/ClearfLo_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: ClearfLo sites

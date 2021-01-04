@@ -19,9 +19,11 @@ MAGIC AirPro
       }
    });
 
-   requirejs(["../../_static/network_maps/MAGIC AirPro_map"]);
+   requirejs(["../../_static/network_maps/networks/MAGIC AirPro_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: MAGIC AirPro sites

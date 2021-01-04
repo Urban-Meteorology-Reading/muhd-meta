@@ -18,7 +18,7 @@ for network in all_networks:
         #write intro 
         network_file.write(f".. include:: {network}_intro.rst\n\n")
         # add map 
-        write_map_html(f'../../_static/network_maps/{network}_map', network_file)
+        write_map_html(f'../../_static/network_maps/networks/{network}_map', network_file)
         #write the tree
         network_file.write(".. toctree::\n")
         network_file.write(f"   :caption: {network} sites\n")

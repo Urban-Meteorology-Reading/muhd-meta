@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/TLI_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/TLI_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/MAGIC AirPro/MAGIC_WT_map"]);
+   requirejs(["../../../_static/network_maps/networks/MAGIC AirPro/MAGIC_WT_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/IndoorLUMA/LVS_map"]);
+   requirejs(["../../../_static/network_maps/networks/IndoorLUMA/LVS_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

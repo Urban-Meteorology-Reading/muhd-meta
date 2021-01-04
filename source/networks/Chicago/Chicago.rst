@@ -19,9 +19,11 @@ Chicago
       }
    });
 
-   requirejs(["../../_static/network_maps/Chicago_map"]);
+   requirejs(["../../_static/network_maps/networks/Chicago_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: Chicago sites

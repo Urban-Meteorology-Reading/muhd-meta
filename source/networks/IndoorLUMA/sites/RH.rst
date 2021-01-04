@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/IndoorLUMA/RH_map"]);
+   requirejs(["../../../_static/network_maps/networks/IndoorLUMA/RH_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

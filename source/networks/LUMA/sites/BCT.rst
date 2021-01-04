@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/BCT_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/BCT_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/ClearfLo/DKS_map"]);
+   requirejs(["../../../_static/network_maps/networks/ClearfLo/DKS_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

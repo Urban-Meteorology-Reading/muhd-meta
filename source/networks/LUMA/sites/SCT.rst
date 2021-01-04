@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/SCT_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/SCT_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

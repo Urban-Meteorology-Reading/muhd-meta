@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/EMB_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/EMB_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

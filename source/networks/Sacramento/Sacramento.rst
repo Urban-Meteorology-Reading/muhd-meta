@@ -19,9 +19,11 @@ Sacramento
       }
    });
 
-   requirejs(["../../_static/network_maps/Sacramento_map"]);
+   requirejs(["../../_static/network_maps/networks/Sacramento_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: Sacramento sites

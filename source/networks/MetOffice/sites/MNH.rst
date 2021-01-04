@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/MetOffice/MNH_map"]);
+   requirejs(["../../../_static/network_maps/networks/MetOffice/MNH_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

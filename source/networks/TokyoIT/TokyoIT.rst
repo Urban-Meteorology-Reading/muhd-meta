@@ -19,9 +19,11 @@ TokyoIT
       }
    });
 
-   requirejs(["../../_static/network_maps/TokyoIT_map"]);
+   requirejs(["../../_static/network_maps/networks/TokyoIT_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: TokyoIT sites

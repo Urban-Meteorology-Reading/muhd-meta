@@ -19,9 +19,11 @@ LUMA
       }
    });
 
-   requirejs(["../../_static/network_maps/LUMA_map"]);
+   requirejs(["../../_static/network_maps/networks/LUMA_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: LUMA sites

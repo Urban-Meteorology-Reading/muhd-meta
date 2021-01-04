@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/SWT_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/SWT_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

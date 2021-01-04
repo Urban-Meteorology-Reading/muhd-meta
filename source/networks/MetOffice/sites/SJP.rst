@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/MetOffice/SJP_map"]);
+   requirejs(["../../../_static/network_maps/networks/MetOffice/SJP_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

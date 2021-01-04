@@ -19,9 +19,11 @@ IndoorLUMA
       }
    });
 
-   requirejs(["../../_static/network_maps/IndoorLUMA_map"]);
+   requirejs(["../../_static/network_maps/networks/IndoorLUMA_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: IndoorLUMA sites

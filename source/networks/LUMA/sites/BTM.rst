@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/BTM_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/BTM_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

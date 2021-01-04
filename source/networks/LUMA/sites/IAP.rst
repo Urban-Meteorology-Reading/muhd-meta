@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/IAP_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/IAP_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

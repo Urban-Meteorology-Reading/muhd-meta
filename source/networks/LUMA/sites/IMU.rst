@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/IMU_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/IMU_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/RAG_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/RAG_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

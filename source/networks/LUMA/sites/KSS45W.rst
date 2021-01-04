@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/KSS45W_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/KSS45W_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

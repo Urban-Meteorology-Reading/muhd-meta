@@ -10,3 +10,4 @@ def write_map_html(map_dir, FILE):
     FILE.write('   });\n\n')
     FILE.write(f'   requirejs(["{map_dir}"]);\n\n')
     FILE.write('   </script>\n\n')
+    FILE.write('   <br />\n\n')

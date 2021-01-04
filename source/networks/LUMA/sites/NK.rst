@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/LUMA/NK_map"]);
+   requirejs(["../../../_static/network_maps/networks/LUMA/NK_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

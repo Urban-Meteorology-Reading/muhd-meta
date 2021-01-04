@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/ReFresh/SBU_map"]);
+   requirejs(["../../../_static/network_maps/networks/ReFresh/SBU_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

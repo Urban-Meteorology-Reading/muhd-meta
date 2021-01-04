@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/TokyoIT/CT_map"]);
+   requirejs(["../../../_static/network_maps/networks/TokyoIT/CT_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################

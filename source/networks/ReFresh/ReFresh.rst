@@ -19,9 +19,11 @@ ReFresh
       }
    });
 
-   requirejs(["../../_static/network_maps/ReFresh_map"]);
+   requirejs(["../../_static/network_maps/networks/ReFresh_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: ReFresh sites

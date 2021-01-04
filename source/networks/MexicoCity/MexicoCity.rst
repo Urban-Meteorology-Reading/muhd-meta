@@ -19,9 +19,11 @@ MexicoCity
       }
    });
 
-   requirejs(["../../_static/network_maps/MexicoCity_map"]);
+   requirejs(["../../_static/network_maps/networks/MexicoCity_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: MexicoCity sites

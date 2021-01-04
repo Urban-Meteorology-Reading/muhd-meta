@@ -19,9 +19,11 @@ BLTER
       }
    });
 
-   requirejs(["../../_static/network_maps/BLTER_map"]);
+   requirejs(["../../_static/network_maps/networks/BLTER_map"]);
 
    </script>
+
+   <br />
 
 .. toctree::
    :caption: BLTER sites

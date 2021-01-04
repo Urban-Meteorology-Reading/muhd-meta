@@ -29,9 +29,11 @@ Site metadata
       }
    });
 
-   requirejs(["../../../_static/network_maps/Sacramento/CSU_map"]);
+   requirejs(["../../../_static/network_maps/networks/Sacramento/CSU_map"]);
 
    </script>
+
+   <br />
 
 Deployments at site
 ###################
