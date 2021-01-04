@@ -124,7 +124,7 @@ rst_epilog = r"""
 
     .. tip::
 
-      1. Stuck? the :ref:`reference guide <reference_guide>` is a useful place to start.
+      1. Stuck? the :ref:`user guide <user_guide>` is a useful place to start.
       2. Please report issues at `GitHub Issues`_. Go from the page with the problem - an automatic link will be inserted. Thanks.
 """
 
