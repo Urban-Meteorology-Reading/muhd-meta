@@ -14,7 +14,7 @@ Site metadata
 
 .. csv-table:: 
    :file: meta/SWT_meta.csv
-   :stub-columns: 2
+   :stub-columns: 1
 
 .. raw:: html
 

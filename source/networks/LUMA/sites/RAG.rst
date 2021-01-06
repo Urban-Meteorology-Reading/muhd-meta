@@ -14,7 +14,7 @@ Site metadata
 
 .. csv-table:: 
    :file: meta/RAG_meta.csv
-   :stub-columns: 2
+   :stub-columns: 1
 
 .. raw:: html
 
