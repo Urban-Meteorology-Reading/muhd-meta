@@ -14,7 +14,7 @@ networks, sites and instruments, the observation data itself is stored on `Zenod
 MUDH is currently administered by the `Urban Micromet Group <http://micromet.reading.ac.uk/>`_ at the University of Reading, UK. 
 
 .. toctree::
-   :caption: MUHD sites
+   :caption: MUHD metadata
    :maxdepth: 2
    :numbered:
    :glob:

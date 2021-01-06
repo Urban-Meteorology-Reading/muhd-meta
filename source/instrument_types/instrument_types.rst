@@ -3,7 +3,7 @@
 Instrument types
 ================
 
-The instrumentation types used in MUHD networks
+The measurement instrument types used in MUHD networks.
 
 .. toctree::
    :caption: MUHD instrument types
