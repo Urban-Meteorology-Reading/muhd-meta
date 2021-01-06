@@ -28,10 +28,10 @@ The instrumentation :ref:`networks<network_def>` that contrive MUHD.
    });
 
    requirejs(["../_static/network_maps/all_site_map"]);
-   
-   <br> 
-   
+      
    </script>
+
+   <br> 
 
 .. toctree::
    :caption: MUHD sites
