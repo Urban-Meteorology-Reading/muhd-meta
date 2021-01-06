@@ -1,9 +1,9 @@
-Site ID,,MT
-Full Name,,Middle Temple Gardens
-Network,,LUMA
-Longitude,degrees,-0.1113
-Latitude,degrees,51.5116
-Start date,UTC,2011-06-12
-End date,UTC,2016-02-12
-Displacement height,m,-999.0
-City,,London
+Site ID,MT,
+Full Name,Middle Temple Gardens,
+Network,LUMA,
+Longitude,-0.1113,degrees
+Latitude,51.5116,degrees
+Start date,2011-06-12,UTC
+End date,2016-02-12,UTC
+Displacement height,-999.0,m
+City,London,

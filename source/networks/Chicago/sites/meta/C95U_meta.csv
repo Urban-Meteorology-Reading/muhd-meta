@@ -1,9 +1,9 @@
-Site ID,,C95U
-Full Name,,Illinois Chicago 95 urban site
-Network,,Chicago
-Longitude,degrees,-87.8
-Latitude,degrees,41.95
-Start date,UTC,1995-06-14
-End date,UTC,1995-08-10
-Displacement height,m,-9.0
-City,,Chicago
+Site ID,C95U,
+Full Name,Illinois Chicago 95 urban site,
+Network,Chicago,
+Longitude,-87.8,degrees
+Latitude,41.95,degrees
+Start date,1995-06-14,UTC
+End date,1995-08-10,UTC
+Displacement height,-9.0,m
+City,Chicago,

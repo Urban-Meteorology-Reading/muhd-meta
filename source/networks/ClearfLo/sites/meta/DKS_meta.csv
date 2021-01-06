@@ -1,9 +1,9 @@
-Site ID,,DKS
-Full Name,,Detling Kent Showgrounds
-Network,,ClearfLo
-Longitude,degrees,0.582642
-Latitude,degrees,51.307951
-Start date,UTC,2010-10-02
-End date,UTC,2012-09-12
-Displacement height,m,109.0
-City,,London
+Site ID,DKS,
+Full Name,Detling Kent Showgrounds,
+Network,ClearfLo,
+Longitude,0.582642,degrees
+Latitude,51.307951,degrees
+Start date,2010-10-02,UTC
+End date,2012-09-12,UTC
+Displacement height,109.0,m
+City,London,

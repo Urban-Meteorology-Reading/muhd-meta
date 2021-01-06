@@ -1,9 +1,9 @@
-Site ID,,TLI
-Full Name,,Thames Royal National Lifeboat Institution
-Network,,LUMA
-Longitude,degrees,-0.11768
-Latitude,degrees,51.50975
-Start date,UTC,2010-04-04
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,TLI,
+Full Name,Thames Royal National Lifeboat Institution,
+Network,LUMA,
+Longitude,-0.11768,degrees
+Latitude,51.50975,degrees
+Start date,2010-04-04,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

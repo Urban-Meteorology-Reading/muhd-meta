@@ -1,9 +1,9 @@
-Site ID,,KSB
-Full Name,,Kings College London (Strand Campus) Strand Building Balcony
-Network,,LUMA
-Longitude,degrees,-0.116351
-Latitude,degrees,51.512104
-Start date,UTC,2013-03-04
-End date,UTC,2015-09-18
-Displacement height,m,19.0
-City,,London
+Site ID,KSB,
+Full Name,Kings College London (Strand Campus) Strand Building Balcony,
+Network,LUMA,
+Longitude,-0.116351,degrees
+Latitude,51.512104,degrees
+Start date,2013-03-04,UTC
+End date,2015-09-18,UTC
+Displacement height,19.0,m
+City,London,

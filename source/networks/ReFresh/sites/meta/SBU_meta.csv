@@ -1,9 +1,9 @@
-Site ID,,SBU
-Full Name,,London Southbank University
-Network,,ReFresh
-Longitude,degrees,-0.10201
-Latitude,degrees,51.498149
-Start date,UTC,2018-05-10
-End date,UTC,
-Displacement height,m,0.0
-City,,London
+Site ID,SBU,
+Full Name,London Southbank University,
+Network,ReFresh,
+Longitude,-0.10201,degrees
+Latitude,51.498149,degrees
+Start date,2018-05-10,UTC
+End date,,UTC
+Displacement height,0.0,m
+City,London,

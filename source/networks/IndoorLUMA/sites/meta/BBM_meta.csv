@@ -1,9 +1,9 @@
-Site ID,,BBM
-Full Name,,Barbican Brandon Mews
-Network,,IndoorLUMA
-Longitude,degrees,-0.09139
-Latitude,degrees,51.519043
-Start date,UTC,2013-08-12
-End date,UTC,2013-08-13
-Displacement height,m,-999.0
-City,,London
+Site ID,BBM,
+Full Name,Barbican Brandon Mews,
+Network,IndoorLUMA,
+Longitude,-0.09139,degrees
+Latitude,51.519043,degrees
+Start date,2013-08-12,UTC
+End date,2013-08-13,UTC
+Displacement height,-999.0,m
+City,London,

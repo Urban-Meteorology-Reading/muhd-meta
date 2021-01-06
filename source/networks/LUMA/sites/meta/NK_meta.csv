@@ -1,9 +1,9 @@
-Site ID,,NK
-Full Name,,North Kensington
-Network,,LUMA
-Longitude,degrees,-0.2134
-Latitude,degrees,51.521055
-Start date,UTC,2011-02-02
-End date,UTC,2018-11-14
-Displacement height,m,-999.0
-City,,London
+Site ID,NK,
+Full Name,North Kensington,
+Network,LUMA,
+Longitude,-0.2134,degrees
+Latitude,51.521055,degrees
+Start date,2011-02-02,UTC
+End date,2018-11-14,UTC
+Displacement height,-999.0,m
+City,London,

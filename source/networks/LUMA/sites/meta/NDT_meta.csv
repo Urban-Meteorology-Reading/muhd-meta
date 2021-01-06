@@ -1,9 +1,9 @@
-Site ID,,NDT
-Full Name,,"Dartrey Tower, Kings College London (North Kensington)"
-Network,,LUMA
-Longitude,degrees,-0.1796
-Latitude,degrees,51.4814
-Start date,UTC,2011-05-24
-End date,UTC,2013-02-27
-Displacement height,m,-999.0
-City,,London
+Site ID,NDT,
+Full Name,"Dartrey Tower, Kings College London (North Kensington)",
+Network,LUMA,
+Longitude,-0.1796,degrees
+Latitude,51.4814,degrees
+Start date,2011-05-24,UTC
+End date,2013-02-27,UTC
+Displacement height,-999.0,m
+City,London,

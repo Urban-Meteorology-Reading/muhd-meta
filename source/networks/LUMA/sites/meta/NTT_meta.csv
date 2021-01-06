@@ -1,9 +1,9 @@
-Site ID,,NTT
-Full Name,,North Kensington Trellick Tower
-Network,,LUMA
-Longitude,degrees,-0.205439
-Latitude,degrees,51.523705
-Start date,UTC,2011-06-03
-End date,UTC,2013-02-26
-Displacement height,m,-999.0
-City,,London
+Site ID,NTT,
+Full Name,North Kensington Trellick Tower,
+Network,LUMA,
+Longitude,-0.205439,degrees
+Latitude,51.523705,degrees
+Start date,2011-06-03,UTC
+End date,2013-02-26,UTC
+Displacement height,-999.0,m
+City,London,

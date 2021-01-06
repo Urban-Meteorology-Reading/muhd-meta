@@ -1,9 +1,9 @@
-Site ID,,MFR
-Full Name,,Mayfield Road
-Network,,IndoorLUMA
-Longitude,degrees,-0.092698
-Latitude,degrees,51.347983
-Start date,UTC,2016-03-22
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,MFR,
+Full Name,Mayfield Road,
+Network,IndoorLUMA,
+Longitude,-0.092698,degrees
+Latitude,51.347983,degrees
+Start date,2016-03-22,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

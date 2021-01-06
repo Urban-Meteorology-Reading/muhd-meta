@@ -1,9 +1,9 @@
-Site ID,,BLT
-Full Name,,Barbican Lauderdale Tower
-Network,,IndoorLUMA
-Longitude,degrees,-0.096744
-Latitude,degrees,51.519903
-Start date,UTC,2016-07-04
-End date,UTC,2017-06-05
-Displacement height,m,-999.0
-City,,London
+Site ID,BLT,
+Full Name,Barbican Lauderdale Tower,
+Network,IndoorLUMA,
+Longitude,-0.096744,degrees
+Latitude,51.519903,degrees
+Start date,2016-07-04,UTC
+End date,2017-06-05,UTC
+Displacement height,-999.0,m
+City,London,

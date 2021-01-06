@@ -1,9 +1,9 @@
-Site ID,,BMH
-Full Name,,Barbican Mountjoy House
-Network,,IndoorLUMA
-Longitude,degrees,-0.096576
-Latitude,degrees,51.519501
-Start date,UTC,2015-10-01
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,BMH,
+Full Name,Barbican Mountjoy House,
+Network,IndoorLUMA,
+Longitude,-0.096576,degrees
+Latitude,51.519501,degrees
+Start date,2015-10-01,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

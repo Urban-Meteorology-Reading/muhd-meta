@@ -1,9 +1,9 @@
-Site ID,,BTMH
-Full Name,,Barbican Thomas Moore House
-Network,,IndoorLUMA
-Longitude,degrees,-0.096026
-Latitude,degrees,51.519016
-Start date,UTC,2013-08-11
-End date,UTC,2013-08-12
-Displacement height,m,-999.0
-City,,London
+Site ID,BTMH,
+Full Name,Barbican Thomas Moore House,
+Network,IndoorLUMA,
+Longitude,-0.096026,degrees
+Latitude,51.519016,degrees
+Start date,2013-08-11,UTC
+End date,2013-08-12,UTC
+Displacement height,-999.0,m
+City,London,

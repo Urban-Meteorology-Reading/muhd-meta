@@ -1,9 +1,9 @@
-Site ID,,LVS
-Full Name,,Leaver Street
-Network,,IndoorLUMA
-Longitude,degrees,-0.097435
-Latitude,degrees,51.526867
-Start date,UTC,2016-02-01
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,LVS,
+Full Name,Leaver Street,
+Network,IndoorLUMA,
+Longitude,-0.097435,degrees
+Latitude,51.526867,degrees
+Start date,2016-02-01,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

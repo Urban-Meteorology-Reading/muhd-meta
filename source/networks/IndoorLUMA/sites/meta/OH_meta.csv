@@ -1,9 +1,9 @@
-Site ID,,OH
-Full Name,,Orford House
-Network,,IndoorLUMA
-Longitude,degrees,-0.113785
-Latitude,degrees,51.529834
-Start date,UTC,2013-07-31
-End date,UTC,2013-09-08
-Displacement height,m,-999.0
-City,,London
+Site ID,OH,
+Full Name,Orford House,
+Network,IndoorLUMA,
+Longitude,-0.113785,degrees
+Latitude,51.529834,degrees
+Start date,2013-07-31,UTC
+End date,2013-09-08,UTC
+Displacement height,-999.0,m
+City,London,

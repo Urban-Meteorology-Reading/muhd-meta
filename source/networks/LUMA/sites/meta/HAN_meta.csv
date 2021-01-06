@@ -1,9 +1,9 @@
-Site ID,,HAN
-Full Name,,Hanover Square
-Network,,LUMA
-Longitude,degrees,-0.1438
-Latitude,degrees,51.5139
-Start date,UTC,2011-01-11
-End date,UTC,2012-11-22
-Displacement height,m,-999.0
-City,,London
+Site ID,HAN,
+Full Name,Hanover Square,
+Network,LUMA,
+Longitude,-0.1438,degrees
+Latitude,51.5139,degrees
+Start date,2011-01-11,UTC
+End date,2012-11-22,UTC
+Displacement height,-999.0,m
+City,London,

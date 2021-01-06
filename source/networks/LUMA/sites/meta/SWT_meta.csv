@@ -1,9 +1,9 @@
-Site ID,,SWT
-Full Name,,Southwark Woodsford Tower
-Network,,LUMA
-Longitude,degrees,-0.091059
-Latitude,degrees,51.487765
-Start date,UTC,1999-05-10
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,SWT,
+Full Name,Southwark Woodsford Tower,
+Network,LUMA,
+Longitude,-0.091059,degrees
+Latitude,51.487765,degrees
+Start date,1999-05-10,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

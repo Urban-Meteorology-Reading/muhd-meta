@@ -1,9 +1,9 @@
-Site ID,,KSNW
-Full Name,,Kings College London (Strand Campus) North Wing Building
-Network,,LUMA
-Longitude,degrees,-0.115947
-Latitude,degrees,51.512195
-Start date,UTC,2011-10-11
-End date,UTC,2016-02-18
-Displacement height,m,19.0
-City,,London
+Site ID,KSNW,
+Full Name,Kings College London (Strand Campus) North Wing Building,
+Network,LUMA,
+Longitude,-0.115947,degrees
+Latitude,51.512195,degrees
+Start date,2011-10-11,UTC
+End date,2016-02-18,UTC
+Displacement height,19.0,m
+City,London,

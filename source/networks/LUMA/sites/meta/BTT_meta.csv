@@ -1,9 +1,9 @@
-Site ID,,BTT
-Full Name,,BT Tower
-Network,,LUMA
-Longitude,degrees,-0.138843
-Latitude,degrees,51.521454
-Start date,UTC,2009-01-01
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,BTT,
+Full Name,BT Tower,
+Network,LUMA,
+Longitude,-0.138843,degrees
+Latitude,51.521454,degrees
+Start date,2009-01-01,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

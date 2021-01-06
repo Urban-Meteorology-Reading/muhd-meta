@@ -1,9 +1,9 @@
-Site ID,,RAG
-Full Name,,Reading Agriculture Glasshouses
-Network,,LUMA
-Longitude,degrees,-0.97113
-Latitude,degrees,51.45625
-Start date,UTC,2018-01-17
-End date,UTC,2018-08-15
-Displacement height,m,-999.0
-City,,Reading
+Site ID,RAG,
+Full Name,Reading Agriculture Glasshouses,
+Network,LUMA,
+Longitude,-0.97113,degrees
+Latitude,51.45625,degrees
+Start date,2018-01-17,UTC
+End date,2018-08-15,UTC
+Displacement height,-999.0,m
+City,Reading,

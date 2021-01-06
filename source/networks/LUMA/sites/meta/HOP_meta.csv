@@ -1,9 +1,9 @@
-Site ID,,HOP
-Full Name,,Honor Oak Park
-Network,,LUMA
-Longitude,degrees,-0.037491
-Latitude,degrees,51.449684
-Start date,UTC,2018-12-12
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,HOP,
+Full Name,Honor Oak Park,
+Network,LUMA,
+Longitude,-0.037491,degrees
+Latitude,51.449684,degrees
+Start date,2018-12-12,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

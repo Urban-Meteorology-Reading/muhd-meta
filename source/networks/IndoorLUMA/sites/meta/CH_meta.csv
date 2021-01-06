@@ -1,9 +1,9 @@
-Site ID,,CH
-Full Name,,80s Council House
-Network,,IndoorLUMA
-Longitude,degrees,-0.114697
-Latitude,degrees,51.536963
-Start date,UTC,2013-09-08
-End date,UTC,2013-09-29
-Displacement height,m,-999.0
-City,,London
+Site ID,CH,
+Full Name,80s Council House,
+Network,IndoorLUMA,
+Longitude,-0.114697,degrees
+Latitude,51.536963,degrees
+Start date,2013-09-08,UTC
+End date,2013-09-29,UTC
+Displacement height,-999.0,m
+City,London,

@@ -1,9 +1,9 @@
-Site ID,,WCT
-Full Name,,Wyclif Court Tower
-Network,,LUMA
-Longitude,degrees,-0.1036
-Latitude,degrees,51.52667
-Start date,UTC,2017-07-20
-End date,UTC,2017-11-10
-Displacement height,m,0.0
-City,,London
+Site ID,WCT,
+Full Name,Wyclif Court Tower,
+Network,LUMA,
+Longitude,-0.1036,degrees
+Latitude,51.52667,degrees
+Start date,2017-07-20,UTC
+End date,2017-11-10,UTC
+Displacement height,0.0,m
+City,London,

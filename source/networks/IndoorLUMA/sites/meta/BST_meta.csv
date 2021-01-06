@@ -1,9 +1,9 @@
-Site ID,,BST
-Full Name,,Barbican Shakespeare Tower
-Network,,IndoorLUMA
-Longitude,degrees,-0.094842
-Latitude,degrees,51.52027
-Start date,UTC,2013-07-29
-End date,UTC,2014-06-23
-Displacement height,m,-999.0
-City,,London
+Site ID,BST,
+Full Name,Barbican Shakespeare Tower,
+Network,IndoorLUMA,
+Longitude,-0.094842,degrees
+Latitude,51.52027,degrees
+Start date,2013-07-29,UTC
+End date,2014-06-23,UTC
+Displacement height,-999.0,m
+City,London,

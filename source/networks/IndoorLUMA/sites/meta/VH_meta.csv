@@ -1,9 +1,9 @@
-Site ID,,VH
-Full Name,,Victorian House
-Network,,IndoorLUMA
-Longitude,degrees,-0.111207
-Latitude,degrees,51.52841
-Start date,UTC,2013-08-02
-End date,UTC,2013-08-16
-Displacement height,m,-999.0
-City,,London
+Site ID,VH,
+Full Name,Victorian House,
+Network,IndoorLUMA,
+Longitude,-0.111207,degrees
+Latitude,51.52841,degrees
+Start date,2013-08-02,UTC
+End date,2013-08-16,UTC
+Displacement height,-999.0,m
+City,London,

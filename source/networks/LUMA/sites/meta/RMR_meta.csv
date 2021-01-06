@@ -1,9 +1,9 @@
-Site ID,,RMR
-Full Name,,Reading Meteorology Roof
-Network,,LUMA
-Longitude,degrees,-0.937381
-Latitude,degrees,51.43877
-Start date,UTC,2016-04-01
-End date,UTC,2016-10-03
-Displacement height,m,13.0
-City,,Reading
+Site ID,RMR,
+Full Name,Reading Meteorology Roof,
+Network,LUMA,
+Longitude,-0.937381,degrees
+Latitude,51.43877,degrees
+Start date,2016-04-01,UTC
+End date,2016-10-03,UTC
+Displacement height,13.0,m
+City,Reading,

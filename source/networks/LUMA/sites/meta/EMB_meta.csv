@@ -1,9 +1,9 @@
-Site ID,,EMB
-Full Name,,Victoria Embankment Gardens
-Network,,LUMA
-Longitude,degrees,-0.1217
-Latitude,degrees,51.5081
-Start date,UTC,2010-06-22
-End date,UTC,2015-11-02
-Displacement height,m,-999.0
-City,,London
+Site ID,EMB,
+Full Name,Victoria Embankment Gardens,
+Network,LUMA,
+Longitude,-0.1217,degrees
+Latitude,51.5081,degrees
+Start date,2010-06-22,UTC
+End date,2015-11-02,UTC
+Displacement height,-999.0,m
+City,London,

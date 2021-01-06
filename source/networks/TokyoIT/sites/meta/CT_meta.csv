@@ -1,9 +1,9 @@
-Site ID,,CT
-Full Name,,Central Tower
-Network,,TokyoIT
-Longitude,degrees,139.42
-Latitude,degrees,36.01
-Start date,UTC,2014-06-16
-End date,UTC,2014-09-26
-Displacement height,m,1.0
-City,,COSMO
+Site ID,CT,
+Full Name,Central Tower,
+Network,TokyoIT,
+Longitude,139.42,degrees
+Latitude,36.01,degrees
+Start date,2014-06-16,UTC
+End date,2014-09-26,UTC
+Displacement height,1.0,m
+City,COSMO,

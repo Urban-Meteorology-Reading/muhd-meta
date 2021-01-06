@@ -1,9 +1,9 @@
-Site ID,,MR
-Full Name,,Marylebone Road
-Network,,LUMA
-Longitude,degrees,-0.154566
-Latitude,degrees,51.52253
-Start date,UTC,2011-03-09
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,MR,
+Full Name,Marylebone Road,
+Network,LUMA,
+Longitude,-0.154566,degrees
+Latitude,51.52253,degrees
+Start date,2011-03-09,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

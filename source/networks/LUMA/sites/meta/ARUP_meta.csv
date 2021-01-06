@@ -1,9 +1,9 @@
-Site ID,,ARUP
-Full Name,,ARUP Building
-Network,,LUMA
-Longitude,degrees,-0.137242
-Latitude,degrees,51.522003
-Start date,UTC,1970-01-02
-End date,UTC,1970-01-03
-Displacement height,m,-999.0
-City,,London
+Site ID,ARUP,
+Full Name,ARUP Building,
+Network,LUMA,
+Longitude,-0.137242,degrees
+Latitude,51.522003,degrees
+Start date,1970-01-02,UTC
+End date,1970-01-03,UTC
+Displacement height,-999.0,m
+City,London,

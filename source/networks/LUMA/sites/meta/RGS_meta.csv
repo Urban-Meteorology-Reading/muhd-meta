@@ -1,9 +1,9 @@
-Site ID,,RGS
-Full Name,,Royal Geographical Society
-Network,,LUMA
-Longitude,degrees,-0.17492
-Latitude,degrees,51.501517
-Start date,UTC,2009-03-26
-End date,UTC,
-Displacement height,m,-999.0
-City,,London
+Site ID,RGS,
+Full Name,Royal Geographical Society,
+Network,LUMA,
+Longitude,-0.17492,degrees
+Latitude,51.501517,degrees
+Start date,2009-03-26,UTC
+End date,,UTC
+Displacement height,-999.0,m
+City,London,

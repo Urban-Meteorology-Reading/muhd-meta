@@ -1,9 +1,9 @@
-Site ID,,RH
-Full Name,,Rahere House
-Network,,IndoorLUMA
-Longitude,degrees,-0.097763
-Latitude,degrees,51.528589
-Start date,UTC,2013-08-01
-End date,UTC,2013-08-23
-Displacement height,m,-999.0
-City,,London
+Site ID,RH,
+Full Name,Rahere House,
+Network,IndoorLUMA,
+Longitude,-0.097763,degrees
+Latitude,51.528589,degrees
+Start date,2013-08-01,UTC
+End date,2013-08-23,UTC
+Displacement height,-999.0,m
+City,London,

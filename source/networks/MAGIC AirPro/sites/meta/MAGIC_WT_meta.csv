@@ -1,9 +1,9 @@
-Site ID,,MAGIC_WT
-Full Name,,Wind tunnel campaign (1:200 scale model)
-Network,,MAGIC AirPro
-Longitude,degrees,-0.10475
-Latitude,degrees,51.4987
-Start date,UTC,2017-07-31
-End date,UTC,2017-08-16
-Displacement height,m,999.0
-City,,London
+Site ID,MAGIC_WT,
+Full Name,Wind tunnel campaign (1:200 scale model),
+Network,MAGIC AirPro,
+Longitude,-0.10475,degrees
+Latitude,51.4987,degrees
+Start date,2017-07-31,UTC
+End date,2017-08-16,UTC
+Displacement height,999.0,m
+City,London,

@@ -1,9 +1,9 @@
-Site ID,,BTM
-Full Name,,Barbican Thomas More Garden
-Network,,LUMA
-Longitude,degrees,-0.095688
-Latitude,degrees,51.519515
-Start date,UTC,2015-11-01
-End date,UTC,2016-06-07
-Displacement height,m,-999.0
-City,,London
+Site ID,BTM,
+Full Name,Barbican Thomas More Garden,
+Network,LUMA,
+Longitude,-0.095688,degrees
+Latitude,51.519515,degrees
+Start date,2015-11-01,UTC
+End date,2016-06-07,UTC
+Displacement height,-999.0,m
+City,London,

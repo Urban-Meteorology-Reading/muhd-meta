@@ -1,9 +1,9 @@
-Site ID,,ME93
-Full Name,,Mexico City School of Mines zd
-Network,,MexicoCity
-Longitude,degrees,-99.13
-Latitude,degrees,19.43
-Start date,UTC,1993-11-30
-End date,UTC,1993-12-07
-Displacement height,m,-9.0
-City,,MexicoCity
+Site ID,ME93,
+Full Name,Mexico City School of Mines zd,
+Network,MexicoCity,
+Longitude,-99.13,degrees
+Latitude,19.43,degrees
+Start date,1993-11-30,UTC
+End date,1993-12-07,UTC
+Displacement height,-9.0,m
+City,MexicoCity,

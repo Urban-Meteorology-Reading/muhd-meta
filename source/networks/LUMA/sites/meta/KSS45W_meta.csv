@@ -1,9 +1,9 @@
-Site ID,,KSS45W
-Full Name,,"Strand Building, Kings College London (Strand Campus)  45m west of KSS"
-Network,,LUMA
-Longitude,degrees,-0.11675
-Latitude,degrees,51.51178
-Start date,UTC,2009-10-01
-End date,UTC,2016-04-14
-Displacement height,m,19.0
-City,,London
+Site ID,KSS45W,
+Full Name,"Strand Building, Kings College London (Strand Campus)  45m west of KSS",
+Network,LUMA,
+Longitude,-0.11675,degrees
+Latitude,51.51178,degrees
+Start date,2009-10-01,UTC
+End date,2016-04-14,UTC
+Displacement height,19.0,m
+City,London,

@@ -1,9 +1,9 @@
-Site ID,,KCLK
-Full Name,,"Kings Building, Kings College London"
-Network,,IndoorLUMA
-Longitude,degrees,-0.1161
-Latitude,degrees,51.51146
-Start date,UTC,2014-06-25
-End date,UTC,2014-07-01
-Displacement height,m,19.0
-City,,London
+Site ID,KCLK,
+Full Name,"Kings Building, Kings College London",
+Network,IndoorLUMA,
+Longitude,-0.1161,degrees
+Latitude,51.51146,degrees
+Start date,2014-06-25,UTC
+End date,2014-07-01,UTC
+Displacement height,19.0,m
+City,London,

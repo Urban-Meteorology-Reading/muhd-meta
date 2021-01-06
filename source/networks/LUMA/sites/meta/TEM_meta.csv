@@ -1,9 +1,9 @@
-Site ID,,TEM
-Full Name,,Victoria Embankment Temple Gardens
-Network,,LUMA
-Longitude,degrees,-0.113
-Latitude,degrees,51.5112
-Start date,UTC,2010-06-22
-End date,UTC,2010-08-31
-Displacement height,m,-999.0
-City,,London
+Site ID,TEM,
+Full Name,Victoria Embankment Temple Gardens,
+Network,LUMA,
+Longitude,-0.113,degrees
+Latitude,51.5112,degrees
+Start date,2010-06-22,UTC
+End date,2010-08-31,UTC
+Displacement height,-999.0,m
+City,London,

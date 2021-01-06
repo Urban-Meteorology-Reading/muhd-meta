@@ -19,8 +19,7 @@ def wrangle_cols(df, col_dict, units = None, col_ind = 'col'):
             site_cols_units = pd.MultiIndex.from_arrays([list(df.columns), units])
             df.columns = site_cols_units
         elif col_ind == 'ind':
-            site_cols_units = pd.MultiIndex.from_arrays([list(df.index), units])
-            df.index = site_cols_units
+            df['units'] = units
 
     return df
 
