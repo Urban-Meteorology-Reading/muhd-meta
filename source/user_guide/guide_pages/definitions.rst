@@ -5,20 +5,27 @@ Definitions
 ***********
 
 .. _network_def:
+
 Network
 #######
 
 A site or group of sites that have been set up for a certain campaign or project, typically in one city.
+
+.. _site_def:
 
 Site
 ####
 
 A singular general location (e.g. building, roof, garden) where meteorological measurement equipment is deployed.
 
+.. _instrument_def:
+
 Instrument
 ##########
 
 Equipment (defined by the manufacturer and make) used to measure the enviromental conditions.
+
+.. _deployment_def:
 
 Deployment
 ##########
