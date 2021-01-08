@@ -20,7 +20,7 @@ jobs:
       - name: check database
         run: | 
           cd metadata
-          python "../read_remote_db.py" ${{ secrets.MM_USER }} ${{ secrets.MM_PW }}
+          python "../scripts/read_remote_db.py" ${{ secrets.MM_USER }} ${{ secrets.MM_PW }}
       - name: create csvs and maps
         run: |
           renew_db=`cat metadata/renew_meta_db.txt`
