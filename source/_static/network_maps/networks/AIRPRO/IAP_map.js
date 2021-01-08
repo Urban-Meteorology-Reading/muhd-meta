@@ -4,9 +4,9 @@ function onEachFeature(feature, layer) {
     layer.bindPopup("<a href='" + feature.properties.site_link + "'>" + feature.properties.site_name + "</a>");
 }
 
-var mymap = L.map('mapid').setView([36.026, 139.705], 13);
+var mymap = L.map('mapid').setView([39.974506, 116.370677], 13);
 
-var geojsonFeature = {"features": [{"geometry": {"coordinates": [139.705, 36.026], "type": "Point"}, "properties": {"amenity": "Site", "network_link": "https://muhd.readthedocs.io/en/latest/networks/TokyoIT.html", "network_name": "TokyoIT", "site_link": "https://muhd.readthedocs.io/en/latest/networks/TokyoIT/sites/CT.html", "site_name": "CT"}, "type": "Feature"}], "type": "FeatureCollection"};
+var geojsonFeature = {"geometry": {"coordinates": [116.370677, 39.974506], "type": "Point"}, "properties": {"amenity": "Site", "site_link": "https://muhd.readthedocs.io/en/latest/networks/AIRPRO/sites/IAP.html", "site_name": "IAP"}, "type": "Feature"};
 
 L.geoJSON(geojsonFeature, {
 onEachFeature: onEachFeature
