@@ -1,0 +1,50 @@
+name: check_metadata_updates
+
+# set this workflow as a cronjob
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check_db_updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: setup repo
+        uses: actions/checkout@v2
+      - name: set up python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: check database
+        run: | 
+          cd metadata
+          python "../read_remote_db.py" ${{ secrets.MM_USER }} ${{ secrets.MM_PW }}
+      - name: create csvs and maps
+        run: |
+          renew_db=`cat metadata/renew_meta_db.txt`
+          if [ $renew_db = 'True' ]; then
+            cd scripts
+            python -m pip install pandas geojson
+            python inst_metadata_to_csv.py
+            python site_metadata_to_csv.py
+            python gen_mapjs.py
+          fi    
+      - name: commit changes
+        run: |
+          renew_db=`cat metadata/renew_meta_db.txt`
+          echo $renew_db
+          rm metadata/renew_meta_db.txt
+          if [ $renew_db = 'True' ]; then
+            git config --local user.name "kitbenjamin"
+            git status
+            git add -A
+            git commit -m "metadata db updated"
+          fi
+      - name: push changes 
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          branch: main

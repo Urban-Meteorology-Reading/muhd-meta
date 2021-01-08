@@ -1,6 +1,5 @@
 #%%
 import os
-import geojson
 import sqlite3
 import pandas as pd
 import gen_mapjs_functions as gen_mapjs
@@ -22,6 +21,8 @@ max_zoom = 18
 
 # where to save map javascript files
 map_dir = os.path.join('..', 'source', '_static', 'network_maps')
+if os.path.exists(map_dir) == False:
+      os.makedirs(map_dir)
 #write javascript for all sites as a cluster map
 all_site_geojson = gen_mapjs.get_networks_geojson(site_df) 
 all_site_map_path = os.path.join(map_dir,"all_site_map.js")
