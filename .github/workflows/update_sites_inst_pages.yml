@@ -1,0 +1,41 @@
+name: update_site_inst_pages
+
+
+on:
+  push:
+    paths:
+      - source/networks/*/sites/photos/*/photo_ref.csv
+      - source/instrument_types/*/instIds/photos/*/photo_ref.csv
+      - source/supplementary_info/supplementary_info.csv
+      - source/supplementary_info/github_links/github_links.csv
+      - source/site_acknowledgements.csv
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check_file_updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: setup repo
+        uses: actions/checkout@v2
+      - name: set up python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: check references
+        run: | 
+          python "scripts/gen_site_rst.py" 
+          python "scripts/gen_inst_rst.py"
+      - name: commit changes
+        run: |
+          git config --local user.name "kitbenjamin"
+          git status
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "site or inst pages updated"
+      - name: push changes 
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          branch: main

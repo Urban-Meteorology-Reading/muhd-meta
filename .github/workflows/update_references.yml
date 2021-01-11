@@ -1,0 +1,36 @@
+name: check_reference_updates
+
+# set this workflow as a cronjob
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check_ref_updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: setup repo
+        uses: actions/checkout@v2
+      - name: set up python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: check references
+        run: | 
+          python "scripts/get_references.py"  
+          python "scripts/gen_site_rst.py" 
+          python "scripts/gen_inst_rst.py" 
+      - name: commit changes
+        run: |
+          git config --local user.name "kitbenjamin"
+          git status
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "references updated"
+      - name: push changes 
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          branch: main
