@@ -8,7 +8,7 @@ import gen_rst_functions as gen_rst
 from write_map_html import *
 #%%
 # get connection to database
-db_path = os.path.join("..", "metadata", "metadata.sq3")
+db_path = os.path.join("metadata", "metadata.sq3")
 connection = sqlite3.connect(db_path)
 
 # read in site table

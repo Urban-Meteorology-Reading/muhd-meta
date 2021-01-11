@@ -24,7 +24,7 @@ site_out_dir = os.path.join('..','source','networks')
 inst_out_dir = os.path.join('..','source','instrument_types')
 #%%
 # get connection to database
-db_path = os.path.join("..", "metadata", "metadata.sq3")
+db_path = os.path.join( "metadata", "metadata.sq3")
 connection = sqlite3.connect(db_path)
 
 # read in site table
