@@ -57,6 +57,26 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BCT/p1040428_25742073982_o.jpg
+   :width: 100 %
+
+   Full panoramic view facing eastwards 04-09-2014.
+
+.. figure:: photos/BCT/20140123_140957_25562323310_o.jpg
+   :width: 50 %
+
+   View of City of London skyline looking towards the South East 23-01-2014.
+
+.. figure:: photos/BCT/p1010224_25562267330_o(1).jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station and :ref:`LASMK11` reciever from :ref:`BTT` 13-03-2013.
+
+.. figure:: photos/BCT/20140123_121559_25742090382_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station looking towards the West 23-01-2014.
+
 Supplementary information
 #########################
 
