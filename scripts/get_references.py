@@ -45,10 +45,6 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     # temperature probe for swt 
     elif site_inst == '107':
         site_inst_new = '107+campbell+SWT'
-    # MR returns way too many - use more refined inst style search
-    elif site_inst == 'MR':
-        search_type = 'inst'
-        site_inst_new = site_inst
     else:
         site_inst_new = site_inst
 
@@ -131,13 +127,19 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
 #loop through instruments
 all_insts = inst_df[['instId', 'type']]
 for index, instId in all_insts.iterrows():
+    print(f"getting references for {instId['instId']}")
     out_dir = os.path.join(inst_out_dir, instId['type'],'instIds','references')
     get_references(base_url_inst, instId['instId'], author, 'inst', out_dir)
 #%%
 #loop through sites 
 all_sites = site_df[['id', 'network']]
 for index, site in all_sites.iterrows():
+    print(f"getting references for {site['id']}")
     out_dir = os.path.join(site_out_dir, site['network'],'sites','references')
-    get_references(base_url_site, site['id'], author, 'site', out_dir)
+    if site['id'] != 'MR':
+        get_references(base_url_site, site['id'], author, 'site', out_dir)
+    # MR returns way too many - use more refined inst style search
+    else:
+        get_references(base_url_inst, site['id'], author, 'inst', out_dir)
 
 # %%
