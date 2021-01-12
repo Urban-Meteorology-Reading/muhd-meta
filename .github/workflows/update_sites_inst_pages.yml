@@ -25,9 +25,10 @@ jobs:
           python-version: 3.7
       - name: check references
         run: | 
+          cd scripts
           python -m pip install pandas
-          python "scripts/gen_site_rst.py" 
-          python "scripts/gen_inst_rst.py"
+          python gen_site_rst.py 
+          python gen_inst_rst.py
       - name: commit changes
         run: |
           git config --local user.name "kitbenjamin"
