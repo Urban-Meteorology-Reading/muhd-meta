@@ -45,6 +45,10 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     # temperature probe for swt 
     elif site_inst == '107':
         site_inst_new = '107+campbell+SWT'
+    # MR returns way too many - use more refined inst style search
+    elif site_inst == 'MR':
+        search_type = 'inst'
+        site_inst_new = site_inst
     else:
         site_inst_new = site_inst
 
@@ -113,9 +117,8 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
         ref_series = pd.Series(ref_list, index = ref_cols)
         ref_df = ref_df.append(ref_series, ignore_index = True)
     # sort by year - omit non Grimmond papers (or Kent thesis)
-    if search_type == 'site':
-        ref_df = ref_df.sort_values('year', ascending = False)
-        ref_df = ref_df[ref_df['Reference'].str.contains('Grimmond') | ref_df['Reference'].str.contains('Kent')]
+    ref_df = ref_df.sort_values('year', ascending = False)
+    ref_df = ref_df[ref_df['Reference'].str.contains('Grimmond') | ref_df['Reference'].str.contains('Kent')]
     #define out dir
     ref_dir = out_dir
     if os.path.exists(ref_dir) == False:
