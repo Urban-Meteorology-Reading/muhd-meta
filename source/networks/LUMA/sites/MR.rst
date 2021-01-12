@@ -57,6 +57,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/MR/my1_4northwest_25402040643_o.jpg
+   :width: 50 %
+
+   View facing NW 03-03-2010.
+
+.. figure:: photos/MR/marylebone_hut_ceilometer_23161363643_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` looking towards the West 03-09-2011.
+
+.. figure:: photos/MR/marylebone_hut_ceilometer_2_23492470300_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` looking towards the East 03-09-2011.
+
 Supplementary information
 #########################
 
