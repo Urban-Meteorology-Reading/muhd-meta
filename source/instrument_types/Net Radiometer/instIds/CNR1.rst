@@ -46,15 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _000220:
-
-Serial number: 000220
-*********************
-
-.. csv-table:: 
-   :file: deployments/CNR1/000220_deployments.csv
-   :header-rows: 1
-
 .. _00022123:
 
 Serial number: 00022123
@@ -62,6 +53,15 @@ Serial number: 00022123
 
 .. csv-table:: 
    :file: deployments/CNR1/00022123_deployments.csv
+   :header-rows: 1
+
+.. _000220:
+
+Serial number: 000220
+*********************
+
+.. csv-table:: 
+   :file: deployments/CNR1/000220_deployments.csv
    :header-rows: 1
 
 Photos
