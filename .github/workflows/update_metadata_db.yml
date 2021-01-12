@@ -29,6 +29,8 @@ jobs:
             python -m pip install pandas geojson
             python inst_metadata_to_csv.py
             python site_metadata_to_csv.py
+            python gen_network_landing.py
+            python gen_instrument_type_landing.py
             python gen_mapjs.py
           fi    
       - name: commit changes
