@@ -1,0 +1,1 @@
+Dartrey Tower in the London borough of Chelsea and Kensington. Several :ref:`Large Aperture Scintillometer` and weather stations have been deployed here.

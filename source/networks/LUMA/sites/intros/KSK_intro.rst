@@ -1,0 +1,1 @@
+Roof of Kings building at the Strand campus of Kings College in the City of Westminster, London. A mast holding multiple deployments was set up here. Same building roof as :ref:`KSK15S`.

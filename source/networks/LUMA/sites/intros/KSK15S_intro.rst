@@ -1,0 +1,1 @@
+Roof of Kings building at the Strand campus of Kings College in the City of Westminster, London. The first MUHD site set up in London. Same building roof as :ref:`KSK15S` but 15 metres to the South.

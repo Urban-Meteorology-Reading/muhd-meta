@@ -1,0 +1,1 @@
+Royal Geographic Society building in the London borough of Chelsea and Kensington. Several :ref:`Ceilometers`, :ref:`microlites <MICROLITES>` and :ref:`Soil Moisture Probes` have been deployed here.

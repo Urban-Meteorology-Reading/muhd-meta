@@ -1,0 +1,1 @@
+GL is the site code for spatially variable stations in Greater London. These stations are not administered by any research group but each station is individually run by members of the public.

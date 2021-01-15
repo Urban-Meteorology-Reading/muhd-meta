@@ -1,0 +1,1 @@
+Hanover square in the City of Westminster, London. Soil moisture prodes have been deployed here.

@@ -1,0 +1,1 @@
+Vicoria Embankment gardens in the City of Westminster, London. Soil moisture probes have been deployed there. 

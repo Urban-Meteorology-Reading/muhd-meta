@@ -1,0 +1,2 @@
+West Roof of Kings College Strand building in the City of Westminster, London. Same building as :ref:`KSB`, :ref:`KSS45W` and :ref:`KSS`.
+A tower with multiple deployments and a :ref:`CT25K` was set up here. 

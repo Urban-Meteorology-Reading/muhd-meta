@@ -1,0 +1,1 @@
+Cromwell tower in the Barbican estate in the City of London. An :ref:`LASMKII` reciever and a :ref:`Davis weather station <DAVIS>` have been deployed here. This is the same roof as :ref:`BCT`, but is slightly to the west.

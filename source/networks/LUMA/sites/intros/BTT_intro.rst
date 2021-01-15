@@ -1,0 +1,1 @@
+BT tower is a 189 metre tall tower in the London borough of Camden. It has been the site of several deployments, notably of :ref:`Large Aperture Scintillometer`.

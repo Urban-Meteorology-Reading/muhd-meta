@@ -1,0 +1,1 @@
+The University of Reading atmospheric observatory is on the Whiteknights campus of the University of Reading. Observations have been made at the current site since 1970. It is run by the University of Reading meteorology department. Measurements from the :ref:`CL31` and eddy covariance set up are used in :ref:`LUMA`.  

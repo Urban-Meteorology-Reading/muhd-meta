@@ -1,0 +1,1 @@
+Thomas More garden in the Barbican estate in the City of London. :ref:`Soil moisture probes <SM300>` have been deployed here. 

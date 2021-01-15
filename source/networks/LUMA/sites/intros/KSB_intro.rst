@@ -1,0 +1,1 @@
+Balcony of King College Strand building in the City of Westminster, London. Same building as :ref:`KSS`, :ref:`KSSW` and :ref:`KSS45W`.

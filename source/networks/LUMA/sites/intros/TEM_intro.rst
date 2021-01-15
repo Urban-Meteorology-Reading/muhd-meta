@@ -1,0 +1,1 @@
+Victoria Embankment Temple Gardens in City of Westminster, London. Soil Moisture probes were deployed here.

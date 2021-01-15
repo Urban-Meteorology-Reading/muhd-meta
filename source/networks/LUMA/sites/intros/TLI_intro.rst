@@ -1,0 +1,1 @@
+Thames Royal National Lifeboat Institution in City of Westminster, London. Water temperature sensors have been deployed here.

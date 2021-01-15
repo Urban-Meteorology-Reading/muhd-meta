@@ -1,0 +1,1 @@
+Trellick Tower in the London borough of Chelsea and Kensington. Several :ref:`Large Aperture Scintillometer` have been deployed here.

@@ -1,0 +1,1 @@
+Lower part of Frobisher cresent in the Barbican estate in the City of London. A :ref:`Davis weather station <DAVIS>` and :ref:`Soil moisture probes <SM300>` have been deployed here.

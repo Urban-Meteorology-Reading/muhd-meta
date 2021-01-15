@@ -1,0 +1,1 @@
+City University Bell Tower is a :ref:`LUMA` site in the London borough of Islington. An :ref:`infrared camera <PI160>` has been deployed there.

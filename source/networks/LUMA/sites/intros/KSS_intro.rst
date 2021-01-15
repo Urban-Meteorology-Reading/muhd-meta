@@ -1,0 +1,1 @@
+Roof of Strand building of Kings College in the City of Westminster, London. A large tower was set up at this site. Same building as :ref:`KSB`, :ref:`KSSW` and :ref:`KSS45W`.

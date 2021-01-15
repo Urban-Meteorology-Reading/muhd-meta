@@ -1,0 +1,1 @@
+Middle Temple Gardens in the City of Westminster, London. :ref:`Soil moisture probes <SM300>` have been deployed here.
