@@ -57,6 +57,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/IAP/my1_4northwest_25402040643_o.jpg
+   :width: 100 %
+
+   Panoramic looking East 18-03-2016.
+
+.. figure:: photos/IAP/aphh-november-2016_30271064514_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` on cabin roof 04-11-2016.
+
+.. figure:: photos/IAP/aphh-november-2016_30269120223_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` 04-11-2016.
+
 Supplementary information
 #########################
 

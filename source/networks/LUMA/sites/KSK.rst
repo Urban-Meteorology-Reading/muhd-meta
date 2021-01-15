@@ -53,6 +53,26 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSK/cimg5547_25349631934_o(1).jpg
+   :width: 50 %
+
+   :ref:`CSAT3`, :ref:`KH20` and :ref:`WXT510` atop mast. :ref:`KSS` tower can be seen in the background. 20-07-2010.
+
+.. figure:: photos/KSK/cimg5551_23491932550_o.jpg
+   :width: 50 %
+
+   :ref:`CSAT3`, :ref:`KH20` and :ref:`WXT510` atop mast 20-07-2010.
+
+.. figure:: photos/KSK/dscf1766_23160816403_o.jpg
+   :width: 50 %
+
+   :ref:`CSAT3`, :ref:`LI7500A`, :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`CNR1` and :ref:`WXT510` atop tower 18-08-2009.
+
+.. figure:: photos/KSK/ksk_mast_1_23679118412_o.jpg
+   :width: 50 %
+
+   :ref:`CSAT3`, :ref:`LI7500A`, :ref:`CNR4` and :ref:`WXT510` 19-08-2011.
+
 Supplementary information
 #########################
 

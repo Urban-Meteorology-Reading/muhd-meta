@@ -53,6 +53,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/WCT/img_2808_35348442783_o.jpg
+   :width: 100 %
+
+   Panoramic facing South 21-07-2017.
+
+.. figure:: photos/WCT/2014-04-10-161008_25236186783_o.jpg
+   :width: 50 %
+
+   Seen from :ref:`IMU` 10-04-2014.
+
+.. figure:: photos/WCT/img_2832_35987206192_o.jpg
+   :width: 50 %
+
+   :ref:`PI160` 21-07-2017.
+
 Supplementary information
 #########################
 

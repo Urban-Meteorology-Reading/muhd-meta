@@ -53,6 +53,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BFCL/2014-02-03-141330_25741720112_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station looking towards the South East 03-02-2014.
+
+.. figure:: photos/BFCL/img_20140203_132354_25862626915_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station seen looking towards the West 03-02-2014.
+
+.. figure:: photos/BFCL/sort-kjell-2_23143313334_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` nodes 22-10-2015.
+
 Supplementary information
 #########################
 

@@ -53,6 +53,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/TEM/tem_e_2012_135_23680510912_o.jpg
+   :width: 50 %
+
+   View of the gardens 14-05-2012.
+
 Supplementary information
 #########################
 

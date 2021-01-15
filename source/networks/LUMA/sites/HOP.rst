@@ -57,6 +57,31 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/HOP/IMG_2667.jpeg
+   :width: 50 %
+
+   View of cabin looking South 12-12-2018.
+
+.. figure:: photos/HOP/IMG_2672.jpeg
+   :width: 50 %
+
+   View from top of cabin looking North 12-12-2018.
+
+.. figure:: photos/HOP/IMG_2671.jpeg
+   :width: 50 %
+
+   View from cabin roof looking North East 12-12-2018.
+
+.. figure:: photos/HOP/IMG_2685.jpeg
+   :width: 50 %
+
+   Cabin roof and :ref:`CL31`with door open 12-12-2018.
+
+.. figure:: photos/HOP/IMG_2710(1).jpeg
+   :width: 50 %
+
+   :ref:`CL31` 12-12-2018.
+
 Supplementary information
 #########################
 

@@ -43,15 +43,6 @@ Serials
 Deployments
 ###########
 
-.. _SOUTHWARK_ARG100:
-
-Serial number: SOUTHWARK_ARG100
-*******************************
-
-.. csv-table:: 
-   :file: deployments/ARG100/SOUTHWARK_ARG100_deployments.csv
-   :header-rows: 1
-
 .. _042908:
 
 Serial number: 042908
@@ -59,6 +50,15 @@ Serial number: 042908
 
 .. csv-table:: 
    :file: deployments/ARG100/042908_deployments.csv
+   :header-rows: 1
+
+.. _SOUTHWARK_ARG100:
+
+Serial number: SOUTHWARK_ARG100
+*******************************
+
+.. csv-table:: 
+   :file: deployments/ARG100/SOUTHWARK_ARG100_deployments.csv
    :header-rows: 1
 
 Photos

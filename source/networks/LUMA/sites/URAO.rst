@@ -57,8 +57,33 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/URAO/2015-02-17_23-32-58_23244231299_o.jpg
+   :width: 100 %
+
+   Panoramic facing North West 17-02-2015.
+
+.. figure:: photos/URAO/2015-02-11_16-31-37_22985098643_o.jpg
+   :width: 50 %
+
+   Eddy covariance set up 11-02-2015.
+
+.. figure:: photos/URAO/20150608_140522_25964619725_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` 08-06-2015.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://research.reading.ac.uk/meteorology/atmospheric-observatory/
+     - Atmospheric observatory webpage. 
+     - Univeristy of Reading site page for atmospheric observatory. 
 
 Data acquisition
 ################

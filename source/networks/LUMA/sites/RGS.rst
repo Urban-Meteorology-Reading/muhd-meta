@@ -61,6 +61,26 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/RGS/27246847345_59135275cb_o(1).jpg
+   :width: 50 %
+
+   :ref:`CT25K` and :ref:`CL31` 25-05-2016.
+
+.. figure:: photos/RGS/18-02-2020.jpg
+   :width: 50 %
+
+   Soil moisture probe node 18-02-2020.
+
+.. figure:: photos/RGS/2014-02-26-171111_25767860891_o(1).jpg
+   :width: 50 %
+
+   :ref:`CL31` 26-02-2014.
+
+.. figure:: photos/RGS/27212638986_2a63b617b8_o.jpg
+   :width: 50 %
+
+   Soil moisture nodes in flower bed 25-05-2016.
+
 Supplementary information
 #########################
 

@@ -53,6 +53,36 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSS/cimg4960_25664730480_o.jpg
+   :width: 50 %
+
+   View looking to the South 16-10-2009.
+
+.. figure:: photos/KSS/cimg4962_25939411576_o.jpg
+   :width: 50 %
+
+   View looking to the East 16-10-2009.
+
+.. figure:: photos/KSS/cimg4963_25870351171_o.jpg
+   :width: 50 %
+
+   View looking South West 16-10-2009.
+
+.. figure:: photos/KSS/cimg4964_25332609854_o.jpg
+   :width: 50 %
+
+   View looking West 16-10-2009.
+
+.. figure:: photos/KSS/cimg5012_23159816924_o.jpg
+   :width: 50 %
+
+   :ref:`CNR1`, :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`WXT510`, :ref:`CSAT3` and :ref:`LI7500A` atop tower 16-10-2009.  
+
+.. figure:: photos/KSS/r0014839_25861608292_o.jpg
+   :width: 50 %
+
+   Tower fullly extended 07-11-2009.
+
 Supplementary information
 #########################
 

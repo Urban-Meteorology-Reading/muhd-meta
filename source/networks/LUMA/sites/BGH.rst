@@ -53,6 +53,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BGH/24171371343_03edc3ffd9_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station looking towards the South East 02-02-2016.
+
 Supplementary information
 #########################
 

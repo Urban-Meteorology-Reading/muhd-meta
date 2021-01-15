@@ -53,6 +53,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSB/102_1943_23336073250_o.jpg
+   :width: 50 %
+
+   :ref:`GILL121R03` 05-07-2015.
+
 Supplementary information
 #########################
 

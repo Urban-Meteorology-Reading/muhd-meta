@@ -53,6 +53,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/MT/middle_temple_02_position_23420243319_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` 13-06-2011.
+
+.. figure:: photos/MT/middle_temple_01_probes_23679722732_o.jpg
+   :width: 50 %
+
+   Position of :ref:`SM300` 13-06-2011.
+
 Supplementary information
 #########################
 

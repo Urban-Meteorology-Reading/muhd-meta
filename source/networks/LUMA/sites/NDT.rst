@@ -57,6 +57,31 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/NDT/pano_20130313_141953_25232367034_o.jpg
+   :width: 100 %
+
+   Panoramic 13-03-2013.
+
+.. figure:: photos/NDT/dartrey_tower_las_cityscan_bls_23161439553_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` reciever from :ref:`NTT` and :ref:`LAS150` transmitter to :ref:`NGT` 11-01-2012. 
+
+.. figure:: photos/NDT/dartrey-bls-view-to-trellick_23679847542_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` view to :ref:`NTT` 24-05-2011.
+
+.. figure:: photos/NDT/dartrey-bls-view-to-trellick-2_23420370559_o(1).jpg
+   :width: 50 %
+
+   :ref:`BLS` view to :ref:`NTT` 24-05-2011.
+
+.. figure:: photos/NDT/dartrey_tower_davis_station_2_23160140304_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station 24-05-2011.
+
 Supplementary information
 #########################
 

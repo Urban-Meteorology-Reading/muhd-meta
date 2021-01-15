@@ -53,6 +53,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KGG/guys_hospital_las_transmitter_23761272786_o.jpg
+   :width: 50 %
+
+   :ref:`LAS150`transmitter to :ref:`BTT` 05-08-2011.
+
 Supplementary information
 #########################
 

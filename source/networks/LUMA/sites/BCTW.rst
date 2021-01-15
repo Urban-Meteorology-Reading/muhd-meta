@@ -53,6 +53,26 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BCTW/p1050100_25236399043_o.jpg
+   :width: 50 %
+
+   View facing North West. The sites :ref:`IMU` and :ref:`BTT` are indicated.  14-11-2013.
+
+.. figure:: photos/BCTW/20140123_140957_25562323310_o.jpg
+   :width: 50 %
+
+   View of City of London skyline looking towards the South East 23-01-2014.
+
+.. figure:: photos/BCTW/20140123_121559_25742090382_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station looking towards the West 23-01-2014.
+
+.. figure:: photos/BCTW/2014-03-10-150618_25236446123_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station and :ref:`LASMKII` receiver from :ref:`BTT` 10-03-2014.
+
 Supplementary information
 #########################
 

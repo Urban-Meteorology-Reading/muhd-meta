@@ -53,6 +53,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/TLI/sort-kjell_23144423273_o.jpg
+   :width: 50 %
+
+   Gangway from which water temperature sensors are deployed 03-11-2015.
+
+.. figure:: photos/TLI/water_tinytag_1_23680520982_o.jpg
+   :width: 50 %
+
+   Pole on which :ref:`TINYTAG` were deployed 27-04-2011.
+
 Supplementary information
 #########################
 

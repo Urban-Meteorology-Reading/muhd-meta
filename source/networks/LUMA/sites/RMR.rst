@@ -57,6 +57,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/RMR/roof_24840019203_o.jpg
+   :width: 50 %
+
+   View facing North West 03-03-2016.
+
+.. figure:: photos/RMR/roof_25171158580_o.jpg
+   :width: 50 %
+
+   View facing South East 03-03-2016.
+
 Supplementary information
 #########################
 

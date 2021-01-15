@@ -53,6 +53,31 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSNW/102_1939_23631816005_o(1).jpg
+   :width: 50 %
+
+   :ref:`CNR1` and :ref:`WXT510` looking towards the West 05-07-2015.
+
+.. figure:: photos/KSNW/102_1946_23263813199_o(1).jpg
+   :width: 50 %
+
+   :ref:`LI7500A`, :ref:`CSAT3`, :ref:`CNR1` and :ref:`WXT510` looking towards the East 05-07-2015.
+
+.. figure:: photos/KSNW/102_1940_23004725333_o.jpg
+   :width: 50 %
+
+   :ref:`CSAT3` and :ref:`LI7500A` 05-07-2015.
+
+.. figure:: photos/KSNW/25239290895_d98db3c7f3_o.jpg
+   :width: 50 %
+
+   :ref:`GILL121R03` 18-02-2016.
+
+.. figure:: photos/KSNW/23448985959_d666ac2c23_o.jpg
+   :width: 50 %
+
+   :ref:`LI840` pipe coming down the side of the building 17-12-2015.
+
 Supplementary information
 #########################
 

@@ -53,6 +53,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/IML/2013-07-31-151328_25836681706_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` station looking East 31-07-2013.
+
+.. figure:: photos/IML/2013-07-31-151521_25232190824_o.jpg
+   :width: 50 %
+
+   Wider view of :ref:`DAVIS` station looking East 31-07-2013.
+
 Supplementary information
 #########################
 

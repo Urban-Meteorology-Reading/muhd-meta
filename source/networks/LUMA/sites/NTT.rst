@@ -57,6 +57,31 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/NTT/trellick-tower_23706387101_o.jpg
+   :width: 50 %
+
+   View of tower from the ground 04-02-2011.
+
+.. figure:: photos/NTT/trellick-bls-view-to-dartrey_23762744656_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` transmitter to :ref:`NDT` 24-05-2011.
+
+.. figure:: photos/NTT/img_20121025_160218_25767849681_o(1).jpg
+   :width: 50 %
+
+   :ref:`BLS` transmitter to :ref:`NGT` and :ref:`LASMKII` reciever from :ref:`NGT` 25-10-2012.
+
+.. figure:: photos/NTT/img_0447_23420954139_o.jpg
+   :width: 50 %
+
+   :ref:`LASMKII` transmitter to :ref:`NGT` and :ref:`LASMKII` reciever from :ref:`NGT` 25-05-2012.
+
+.. figure:: photos/NTT/trellick_tower_las_bls_23160660534_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` transmitter to :ref:`NDT` and :ref:`LAS150` reciever from :ref:`NDT` 05-10-2011.
+
 Supplementary information
 #########################
 

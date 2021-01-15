@@ -57,6 +57,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/NK/dscf0879_23762607816_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` 02-02-2011
+
 Supplementary information
 #########################
 

@@ -61,6 +61,41 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/IMU/img_2860_36022305881_o.jpg
+   :width: 100 %
+
+   Panoramic facing East 21-07-2017.
+
+.. figure:: photos/IMU/img_2804_36154912395_o.jpg
+   :width: 50 %
+
+   View of Michael Cliffe House from :ref:`WCT` 21-07-2017.
+
+.. figure:: photos/IMU/2016-04-18-173109_26519389685_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` transmitter, :ref:`PI160`, :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`PIR`, :ref:`PSP`, :ref:`DAVIS`, :ref:`CNR1`, :ref:`CSAT3` and :ref:`LI7500A` looking West 18-04-2016.
+
+.. figure:: photos/IMU/2013-07-25-154246_25836727066_o.jpg
+   :width: 50 %
+
+   :ref:`DAVIS` looking South West 25-07-2013.
+
+.. figure:: photos/IMU/08-01-2020_(9).JPEG
+   :width: 50 %
+
+   :ref:`TRISONICAWS`, :ref:`DAVIS`, :ref:`CSAT3` and :ref:`LI7500A` 08-01-2020.
+
+.. figure:: photos/IMU/img_20180530_134613767_hdr_42494980621_o.jpg
+   :width: 50 %
+
+   :ref:`CL31` looking  North East 30-05-2018.
+
+.. figure:: photos/IMU/2014-04-10-160311_25236186713_o.jpg
+   :width: 50 %
+
+   :ref:`LASMKII` reciever from :ref:`BCT` 10-04-2014.
+
 Supplementary information
 #########################
 

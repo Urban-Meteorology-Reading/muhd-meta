@@ -53,6 +53,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BTM/24502696680_1169fdd011_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` node 02-02-2016.
+
+.. figure:: photos/BTM/24502701210_8576c434ec_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` node 02-02-2016.
+
+.. figure:: photos/BTM/sort-kjell-2_23689050041_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` node 02-10-2015.
+
 Supplementary information
 #########################
 

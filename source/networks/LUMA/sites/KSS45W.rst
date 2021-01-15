@@ -57,6 +57,20 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSS45W/img_2246_23161203143_o.jpg
+   :width: 50 %
+
+   :ref:`ARG100` and :ref:`CL31` 10-02-2010.
+
+.. figure:: photos/KSS45W/bls-adn-uv-solar_23761900796_o.jpg
+   :width: 50 %
+
+   :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`SPN1`, :ref:`PIR`, :ref:`PSP` on top of structure 04-03-2011.
+
+.. figure:: photos/KSS45W/r0015453_25401838054_o.jpg
+
+   :ref:`CL31` and :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`SPN1`, :ref:`PIR`, :ref:`PSP` on top of structure.
+
 Supplementary information
 #########################
 

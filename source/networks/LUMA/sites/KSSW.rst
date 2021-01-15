@@ -57,6 +57,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSSW/2016-02-11-134430_24839661932_o.jpg
+   :width: 50 %
+
+   Tower fully extended 11-02-2016.
+
+.. figure:: photos/KSSW/tower-lowering-15092016_29073458294_o.jpg
+   :width: 50 %
+
+   :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`CNR4`, :ref:`WXT510`, :ref:`CSAT3`, :ref:`LI7500A` on top of tower 15-09-2016.
+
+.. figure:: photos/KSSW/tower-lowering-15092016_29073458334_o.jpg
+   :width: 50 %
+
+   :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`CNR4`, :ref:`CSAT3`, :ref:`LI7500A` on top of tower 15-09-2016.
+
 Supplementary information
 #########################
 

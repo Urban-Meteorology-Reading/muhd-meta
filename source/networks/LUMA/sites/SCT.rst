@@ -53,6 +53,11 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/SCT/19-07-2019(12)(1).png
+   :width: 50 %
+
+   Seen from :ref:`SWT` 19-07-2019.
+
 Supplementary information
 #########################
 

@@ -53,6 +53,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/HAN/dsc05885_23761302336_o.jpg
+   :width: 50 %
+
+   Location of :ref:`SM300` (darker patch of soil) 08-06-2011.
+
+.. figure:: photos/HAN/dscf3438_23704877001_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` unnearthed 08-06-2011.
+
 Supplementary information
 #########################
 

@@ -43,15 +43,6 @@ Serials
 Deployments
 ###########
 
-.. _020630659:
-
-Serial number: 020630659
-************************
-
-.. csv-table:: 
-   :file: deployments/PAR/020630659_deployments.csv
-   :header-rows: 1
-
 .. _020630661:
 
 Serial number: 020630661
@@ -59,6 +50,15 @@ Serial number: 020630661
 
 .. csv-table:: 
    :file: deployments/PAR/020630661_deployments.csv
+   :header-rows: 1
+
+.. _020630659:
+
+Serial number: 020630659
+************************
+
+.. csv-table:: 
+   :file: deployments/PAR/020630659_deployments.csv
    :header-rows: 1
 
 Photos

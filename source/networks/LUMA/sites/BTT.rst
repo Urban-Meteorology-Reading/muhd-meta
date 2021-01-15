@@ -57,6 +57,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/BTT/2014-03-05-105019_25232158214_o.jpg
+   :width: 50 %
+
+   :ref:`LASMKII` transmitter to :ref:`BCT`. Looking South West 05-03-2014.
+
+.. figure:: photos/BTT/31161350610_715a3f7961_o.jpg
+   :width: 50 %
+
+   :ref:`BLS` and :ref:`LASMKII` 30-11-2016.
+
+.. figure:: photos/BTT/bt_tower_las_23491564730_o.jpg
+   :width: 50 %
+
+   :ref:`LAS150` reciever from :ref:`KGG` 13-09-2011.
+
 Supplementary information
 #########################
 

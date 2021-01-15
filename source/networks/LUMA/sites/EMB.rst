@@ -53,6 +53,16 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/EMB/dsc05491_23678875032_o.jpg
+   :width: 50 %
+
+   The gardens 14-03-2011.
+
+.. figure:: photos/EMB/dscf3438_23704877001_o.jpg
+   :width: 50 %
+
+   :ref:`SM300` in flower bed 30-07-2010.
+
 Supplementary information
 #########################
 

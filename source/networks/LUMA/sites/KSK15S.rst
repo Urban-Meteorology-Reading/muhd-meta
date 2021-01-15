@@ -57,6 +57,21 @@ Deployments at site
 Photos
 ######
 
+.. figure:: photos/KSK15S/dcfc0050_23159466954_o.jpg
+   :width: 50 %
+
+   :ref:`CNR1` and :ref:`CL31`.
+
+.. figure:: photos/KSK15S/dcfc0054_23160818423_o.jpg
+   :width: 50 %
+
+   :ref:`CNR1` and :ref:`CL31`.
+
+.. figure:: photos/KSK15S/dcfc0052_23159464934_o.jpg
+   :width: 50 %
+
+   :ref:`CNR1`.
+
 Supplementary information
 #########################
 
