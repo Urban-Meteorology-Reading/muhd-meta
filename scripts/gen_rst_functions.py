@@ -153,42 +153,16 @@ def write_site_acknowledgements(file, acknowledgements_path, site):
         name_str = 'We thank '
         # iterrate through acknowledgements for this site  
         for index, ack in site_acknowledgements.iterrows():
-            # check if there's no organisation
-            if type(ack['Organisation']) != str:
-                # if second last item
-                if n == (len(site_acknowledgements)-1):
-                    name_str = name_str + f"{ack['Name']} and "
-                # if last item
-                elif n > (len(site_acknowledgements)-1):
-                    name_str = name_str + f"{ack['Name']} "
-                # if middle item
-                elif n < (len(site_acknowledgements)-1):
-                    name_str = name_str + f"{ack['Name']}, "
-            else:
-                # if second last item
-                if n == (len(site_acknowledgements)-1):
-                    # is there organisation only 
-                    if str(ack['Name']) != 'nan':
-                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']} and "
-                    # is there name and organisation  
-                    else:
-                        name_str = name_str + f"{ack['Organisation']} and "
-                # if last item
-                elif n > (len(site_acknowledgements)-1):
-                    # is there organisation only 
-                    if str(ack['Name']) != 'nan':
-                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']} "
-                    # is there name and organisation  
-                    else:
-                        name_str = name_str + f"{ack['Organisation']} "
-                # if middle item
-                elif n < (len(site_acknowledgements)-1):
-                    # is there organisation only 
-                    if str(ack['Name']) != 'nan':
-                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']}, "
-                    # is there name and organisation  
-                    else:
-                        name_str = name_str + f"{ack['Organisation']}, "
+            # if second last item
+            if n == (len(site_acknowledgements)-1):
+                name_str = name_str + f"{ack['Name/Organisation']} and "
+            # if last item
+            elif n > (len(site_acknowledgements)-1):
+                name_str = name_str + f"{ack['Name/Organisation']} "
+            # if middle item
+            elif n < (len(site_acknowledgements)-1):
+                name_str = name_str + f"{ack['Name/Organisation']}, "
+            
             n += 1
         # finalise acknowledgement 
         name_str = name_str + "for site access.\n\n"
