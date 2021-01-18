@@ -22,7 +22,7 @@ MUDH is currently administered by the `Urban Micromet Group <http://micromet.rea
    user_guide/user_guide.rst
    networks/networks.rst
    instrument_types/instrument_types.rst
-
+   acknowledgements/*
 
 
 

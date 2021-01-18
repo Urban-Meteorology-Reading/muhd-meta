@@ -142,28 +142,55 @@ def write_site_acknowledgements(file, acknowledgements_path, site):
 
     #read table
     acknowledgements_df = pd.read_csv(acknowledgements_path)
-    site_acknowledgements = acknowledgements_df[acknowledgements_df['Linked site'] == site]
+    # check if/where site is in df
+    site_acknowledgements_bool = acknowledgements_df['Linked site'].apply(lambda x: site in x if type(x) == str else False) 
+    site_acknowledgements = acknowledgements_df[site_acknowledgements_bool]
     site_acknowledgements = site_acknowledgements.drop('Linked site', axis = 1)
     #write to list-table
     if len(site_acknowledgements) > 0:
-        file.write(f"We thank ")
-        site_acknowledgements_group = site_acknowledgements.groupby('Organisation')
-        n_orgs = len(site_acknowledgements['Organisation'].unique())
+        # initiate acknowledgement
         n = 1
-        for org, group in site_acknowledgements_group:
-            #check if it is organisation only
-            if all([str(names) != 'nan' for names in group['Name']]):
-                file.write(f"{', '.join(group['Name'])} from {org}")
+        name_str = 'We thank '
+        # iterrate through acknowledgements for this site  
+        for index, ack in site_acknowledgements.iterrows():
+            # check if there's no organisation
+            if type(ack['Organisation']) != str:
+                # if second last item
+                if n == (len(site_acknowledgements)-1):
+                    name_str = name_str + f"{ack['Name']} and "
+                # if last item
+                elif n > (len(site_acknowledgements)-1):
+                    name_str = name_str + f"{ack['Name']} "
+                # if middle item
+                elif n < (len(site_acknowledgements)-1):
+                    name_str = name_str + f"{ack['Name']}, "
             else:
-                file.write(f"{org}")
-            #if last org add a space
-            if n == n_orgs:
-                file.write(' ')
-            # if second last write and
-            elif n_orgs - n == 1:
-                file.write(' and ')
-            #else separate with comma
-            else:
-                file.write(', ')
+                # if second last item
+                if n == (len(site_acknowledgements)-1):
+                    # is there organisation only 
+                    if str(ack['Name']) != 'nan':
+                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']} and "
+                    # is there name and organisation  
+                    else:
+                        name_str = name_str + f"{ack['Organisation']} and "
+                # if last item
+                elif n > (len(site_acknowledgements)-1):
+                    # is there organisation only 
+                    if str(ack['Name']) != 'nan':
+                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']} "
+                    # is there name and organisation  
+                    else:
+                        name_str = name_str + f"{ack['Organisation']} "
+                # if middle item
+                elif n < (len(site_acknowledgements)-1):
+                    # is there organisation only 
+                    if str(ack['Name']) != 'nan':
+                        name_str = name_str + f"{ack['Name']} from {ack['Organisation']}, "
+                    # is there name and organisation  
+                    else:
+                        name_str = name_str + f"{ack['Organisation']}, "
             n += 1
-        file.write(f"for initial and continued site access.\n\n")
+        # finalise acknowledgement 
+        name_str = name_str + "for site access.\n\n"
+        # write acknowledgement
+        file.write(name_str)
