@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-FLUX
+
 Variables measured by instrument
 ################################
 
@@ -73,8 +76,33 @@ Serial number: 152701
 Photos
 ######
 
+.. figure:: photos/GILL121R03/102_1943_23336073250_o.jpg
+   :width: 50 %
+
+   At :ref:`KSB` 05-07-2015.
+
+.. figure:: photos/GILL121R03/25239290895_d98db3c7f3_o(1).jpg
+   :width: 50 %
+
+   At :ref:`KSNW` 18-02-2016.
+
+.. figure:: photos/GILL121R03/2015-02-17_22-56-07_23586067236_o.jpg
+   :width: 50 %
+
+   At :ref:`URAO` 17-02-2015.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`Gill manual <manuals/Gill_manual.pdf>`
+     - Gill manual
+     - Manual from Gill.
 
 Data acquisition
 ################

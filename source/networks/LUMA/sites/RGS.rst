@@ -99,5 +99,5 @@ References
 Acknowledgements
 ################
 
-We thank Catherine Souch from Royal Geographical Society for site access.
+We thank Catherine Souch at Royal Geographical Society for site access.
 

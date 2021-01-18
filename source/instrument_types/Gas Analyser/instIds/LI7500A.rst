@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-FLUX
+
 Variables measured by instrument
 ################################
 
@@ -73,8 +76,46 @@ Serial number: 75H-1124
 Photos
 ######
 
+.. figure:: photos/LI7500A/tower-lowering-15092016_29073458334_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 15/09/2016 
+
+.. figure:: photos/LI7500A/102_1940_23004725333_o.jpg
+   :width: 50 %
+
+   At :ref:`KSNW` 05/07/2015 
+
+.. figure:: photos/LI7500A/2016-04-18-173022_26453291121_o.jpg
+   :width: 50 %
+
+   At :ref:`IMU` 18/04/2016
+
+.. figure:: photos/LI7500A/ksk_mast_1_23679118412_o(1).jpg
+   :width: 50 %
+
+   At :ref:`KSK` 19/08/2011
+
+.. figure:: photos/LI7500A/r0015029_23161117173_o(1).jpg
+   :width: 50 %
+
+   Atop tower :ref:`KSS` 08/04/2011.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`LI7500A/RS manual <manuals/7500RS_manual.pdf>`
+     - LI7500A/RS manual
+     - Manual from Li-Cor.
+   * - :download:`LI7500A brochure <manuals/7500A_brochure.pdf>`
+     - LI7500A brochure
+     - Brochure from Li-Cor.
 
 Data acquisition
 ################

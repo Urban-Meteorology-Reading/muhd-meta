@@ -58,6 +58,19 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`Trisonica MiniWS manual. <manuals/TRISONICAWS_manual.pdf>`
+     - Trisonica MiniWS manual.
+     - Manual provided by Anemoment.
+   * - :download:`Trisonica MiniWS datasheet. <manuals/TRISONICAWS_ds.pdf>`
+     - Trisonica MiniWS datasheet.
+     - Datasheet provided by Anemoment.
+
 Data acquisition
 ################
 

@@ -64,8 +64,28 @@ Serial number: HGA-0418
 Photos
 ######
 
+.. figure:: photos/LI840/102_1937_23631835495_o.jpg
+   :width: 50 %
+
+   At :ref:`KSNW` 07-05-2015. 
+
+.. figure:: photos/LI840/23448985959_d666ac2c23_o.jpg
+   :width: 50 %
+
+   Measurements taken at intervals down the face of the building at :ref:`KSNW` 17/12/2015. 
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.licor.com/documents/t7dc7b25vniigsall2te
+     - LI840 manual
+     - Manual from Li-Cor.
 
 Data acquisition
 ################

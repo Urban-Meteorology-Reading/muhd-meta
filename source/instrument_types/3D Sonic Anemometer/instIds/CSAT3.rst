@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-FLUX
+
 Variables measured by instrument
 ################################
 
@@ -73,8 +76,48 @@ Serial number: 0194-2
 Photos
 ######
 
+.. figure:: photos/CSAT3/tower-lowering-15092016_29073458334_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 15/09/2016 
+
+.. figure:: photos/CSAT3/102_1940_23004725333_o.jpg
+   :width: 50 %
+
+   At :ref:`KSNW` 05/07/2015 
+
+.. figure:: photos/CSAT3/33443367841_6b73585bea_o(1).jpg
+   :width: 50 %
+
+   At :ref:`IMU` 07/02/2017
+
+.. figure:: photos/CSAT3/cimg5553_25353610893_o.jpg
+   :width: 50 %
+
+   At :ref:`KSK` 20/07/2010
+
+.. figure:: photos/CSAT3/r0015029_23161117173_o(1).jpg
+   :width: 50 %
+
+   Atop tower :ref:`KSS` 08/04/2011.
+
+.. figure:: photos/CSAT3/nan
+   :width: 50 %
+
+   nan
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`CSAT3 manual <manuals/CSAT3_manual.pdf>`
+     - CSAT3 manual
+     - Manual from Campbell Scientific.
 
 Data acquisition
 ################

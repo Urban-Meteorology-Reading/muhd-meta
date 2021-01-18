@@ -55,8 +55,31 @@ Serial number: 29757F3
 Photos
 ######
 
+.. figure:: photos/PIR/r0015469_23679546772_o.jpg
+   :width: 50 %
+
+   At :ref:`KSS45W`. Unknowm date between 2012-02-27 and 2016-04-14.
+
+.. figure:: photos/PIR/08-01-2020_(7).JPEG
+   :width: 50 %
+
+   At :ref:`IMU`, indicated by arrow, 08-01-2020.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`PIR specification <manuals/PIR_spec.pdf>`
+     - PIR specification
+     - From Eppley.
+   * - :download:`PIR manual <manuals/PIR_manual.pdf>`
+     - PIR manual
+     - Manual from Campbell Scientific.
 
 Data acquisition
 ################
