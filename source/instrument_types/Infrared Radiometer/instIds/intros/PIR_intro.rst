@@ -1,0 +1,1 @@
+Precision Infrared Radiometer (PIR) is a Pyrgeometer manufactured by Eppley. It measures longwave irradiance. One has been deployed at :ref:`KSS45W` and :ref:`IMU`.

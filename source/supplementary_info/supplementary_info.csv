@@ -18,3 +18,13 @@ SWT,SWTWXSTATION,FALSE,TRUE,http://data.urban-climate.net/southwark_plots/,South
 ,HMP45A,FALSE,TRUE,https://www.vaisala.com/sites/default/files/documents/HMP45AD-User-Guide-U274EN.pdf,HMP45A manual,Manual from Vaisala.  If link has expired please raise a `GitHub Issues`_.
 ,HMP45A,TRUE,FALSE,manuals/HMP45A_manual.pdf,HMP45A manual,Manual from Vaisala.
 URAO,,FALSE,TRUE,https://research.reading.ac.uk/meteorology/atmospheric-observatory/,Atmospheric observatory webpage. ,Univeristy of Reading site page for atmospheric observatory. 
+,TRISONICAWS,TRUE,TRUE,manuals/TRISONICAWS_manual.pdf,Trisonica MiniWS manual.,Manual provided by Anemoment.
+,TRISONICAWS,TRUE,TRUE,manuals/TRISONICAWS_ds.pdf,Trisonica MiniWS datasheet.,Datasheet provided by Anemoment.
+,CSAT3,TRUE,TRUE,manuals/CSAT3_manual.pdf,CSAT3 manual,Manual from Campbell Scientific.
+,LI7500A,TRUE,TRUE,manuals/7500RS_manual.pdf,LI7500A/RS manual,Manual from Li-Cor.
+,LI7500A,TRUE,TRUE,manuals/7500A_brochure.pdf,LI7500A brochure,Brochure from Li-Cor.
+,LI840,TRUE,FALSE,manuals/LI840.pdf,LI840 manual,Manual from Li-Cor.
+,LI840,FALSE,TRUE,https://www.licor.com/documents/t7dc7b25vniigsall2te,LI840 manual,Manual from Li-Cor.
+,GILL121R03,TRUE,TRUE,manuals/Gill_manual.pdf,Gill manual,Manual from Gill.
+,PIR,TRUE,TRUE,manuals/PIR_spec.pdf,PIR specification,From Eppley.
+,PIR,TRUE,TRUE,manuals/PIR_manual.pdf,PIR manual,Manual from Campbell Scientific.

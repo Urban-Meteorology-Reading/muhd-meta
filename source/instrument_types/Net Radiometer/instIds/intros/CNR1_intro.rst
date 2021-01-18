@@ -1,1 +1,1 @@
-The CNR1 is a net radiometer manufactured by Kipp and Zonen. It measures four components of radiation (shortwave and longwave both upwards and downwards). It works by having two pyranometers and two pyrgeometers, with one of each facing both upwards and downwards. 
+The CNR1 is a net radiometer manufactured manufactured by Kipp and Zonen. It measures four components of radiation (shortwave and longwave both upwards and downwards). It works by having two pyranometers and two pyrgeometers, with one of each facing both upwards and downwards. 

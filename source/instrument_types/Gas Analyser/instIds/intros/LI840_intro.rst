@@ -1,0 +1,1 @@
+Li-Cor LI-840 infrared gas analyser. It uses an interchangeable optical path so can take simultaneous measurements from multiple locations.
