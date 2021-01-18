@@ -53,10 +53,15 @@ Deployments at site
 Photos
 ######
 
-.. figure:: photos/CUB/19-07-2019(12)(1).png
+.. figure:: photos/CUB/2017-08-31-111123_36818564481_o.jpg
    :width: 50 %
 
-   Seen from :ref:`SWT` 19-07-2019.
+   View looking North 31-07-2017.
+
+.. figure:: photos/CUB/2017-09-07-122859_36286929483_o.jpg
+   :width: 50 %
+
+   :ref:`PI160` 07-09-2017.
 
 Supplementary information
 #########################
@@ -75,4 +80,6 @@ References
 
 Acknowledgements
 ################
+
+We thank City University for site access.
 

@@ -109,5 +109,5 @@ References
 Acknowledgements
 ################
 
-We thank Bill Legassick from Southwark council for initial and continued site access.
+We thank Bill Legassick from Southwark council for site access.
 
