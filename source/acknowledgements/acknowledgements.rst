@@ -11,7 +11,7 @@ Sites
 .. csv-filter:: Site acknowledgement table 
    :file: site_acknowledgements.csv
    :header-rows: 1
-   :included_cols: 1,2
+   :included_cols: 1
    
 Funders
 #####
