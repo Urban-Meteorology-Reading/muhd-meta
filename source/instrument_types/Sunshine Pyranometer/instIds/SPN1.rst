@@ -55,8 +55,31 @@ Serial number: A517
 Photos
 ######
 
+.. figure:: photos/SPN1/r0015470_23492310830_o.jpg
+   :width: 50 %
+
+   At :ref:`KSS45W`. Unknown date between 2012-02-27 and 2016-04-14.
+
+.. figure:: photos/SPN1/08-01-2020(7).png
+   :width: 50 %
+
+   At :ref:`IMU`, indicated by arrow, 08-01-2020.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.delta-t.co.uk/wp-content/uploads/2019/06/SPN1_User_Manual_4.2.pdf
+     - SPN1 manual
+     - Manual from Delta-T
+   * - :download:`SPN1 datasheet <manuals/SPN1_ds.pdf>`
+     - SPN1 datasheet
+     - From Delta-T.
 
 Data acquisition
 ################

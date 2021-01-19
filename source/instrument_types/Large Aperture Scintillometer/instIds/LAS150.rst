@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-LAS
+
 Variables measured by instrument
 ################################
 
@@ -54,6 +57,26 @@ Serial number: 60029
 
 Photos
 ######
+
+.. figure:: photos/LAS150/img_0498_23492921530_o.jpg
+   :width: 50 %
+
+   Transmitter from :ref:`KGG` to :ref:`BTT` 05-08-2011.
+
+.. figure:: photos/LAS150/img_0498_23492921530_o.jpg
+   :width: 50 %
+
+   Reciever at :ref:`NGT` 25-05-2012.
+
+.. figure:: photos/LAS150/grenfell_tower_las060030_23705912491_o.jpg
+   :width: 50 %
+
+   Receiver at :ref:`NGT` 06/01/2012.
+
+.. figure:: photos/LAS150/dartrey_tower_las_cityscan_bls_23161439553_o.jpg
+   :width: 50 %
+
+   Receiver at :ref:`NDT` 11/01/2012.
 
 Supplementary information
 #########################

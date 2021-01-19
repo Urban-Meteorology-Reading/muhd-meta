@@ -100,8 +100,53 @@ Serial number: B084006
 Photos
 ######
 
+.. figure:: photos/WXT510/tower-lowering-15092016_29075367313_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 15-09-2016.
+
+.. figure:: photos/WXT510/cimg5552_23491931920_o.jpg
+   :width: 50 %
+
+   At :ref:`KSK` 20-07-2010.
+
+.. figure:: photos/WXT510/24012008455_23491932900_o(1).jpg
+   :width: 50 %
+
+   At :ref:`KSK` 24-01-2008.
+
+.. figure:: photos/WXT510/104_1289_25870330711_o.jpg
+   :width: 50 %
+
+   At :ref:`KSNW` 11-01-2013.
+
+.. figure:: photos/WXT510/cimg5012_23159816924_o(1).jpg
+   :width: 50 %
+
+   At :ref:`KSS` (centre) 16-10-2009.
+
+.. figure:: photos/WXT510/r0015480_23788084605_o.jpg
+   :width: 50 %
+
+   Atop tower at :ref:`KSSW`. Unknown date between 26-03-2012 and 13-06-2017.
+
+.. figure:: photos/WXT510/32729326734_19790cb776_o.jpg
+   :width: 50 %
+
+   At :ref:`SHU` 20-01-2017.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`WXT510 manual <manuals/WXT510_brochure.pdf>`
+     - WXT510 manual
+     - From Vaisala
 
 Data acquisition
 ################

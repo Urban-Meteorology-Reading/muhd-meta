@@ -73,8 +73,23 @@ Serial number: 571883
 Photos
 ######
 
+.. figure:: photos/TINYTAG/sort-kjell_23475516030_o(1).jpg
+   :width: 50 %
+
+   Submerged in water at :ref:`TLI` 19-11-2015.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`TG-4100 datasheet <manuals/TINYTAG_ds.pdf>`
+     - TG-4100 datasheet
+     - From Tinytag
 
 Data acquisition
 ################

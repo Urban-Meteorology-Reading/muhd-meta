@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+
 Variables measured by instrument
 ################################
 

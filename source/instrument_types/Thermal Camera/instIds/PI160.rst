@@ -139,6 +139,16 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`PI160 manual <manuals/PI160_manual.pdf>`
+     - PI160 manual
+     - From Optris.
+
 Data acquisition
 ################
 

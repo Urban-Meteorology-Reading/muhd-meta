@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+
 Variables measured by instrument
 ################################
 
@@ -55,8 +58,28 @@ Serial number: 29765F3
 Photos
 ######
 
+.. figure:: photos/PSP/r0015464_23679559082_o.jpg
+   :width: 50 %
+
+   At :ref:`KSS45W`. Unknown date between 2012-02-27 and 2016-04-14.
+
+.. figure:: photos/PSP/08-01-2020(7).png
+   :width: 50 %
+
+   At :ref:`IMU`, indicated by arrow, 08-01-2020.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`PSP manual <manuals/PSP_manual.pdf>`
+     - PSP manual
+     - Manual from Eppley
 
 Data acquisition
 ################

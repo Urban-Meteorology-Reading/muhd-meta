@@ -109,8 +109,48 @@ Serial number: A00422A003
 Photos
 ######
 
+.. figure:: photos/DAVIS/sort-kjell-2_23745354866_o.jpg
+   :width: 50 %
+
+   At :ref:`BCT` 15-10-2015.
+
+.. figure:: photos/DAVIS/img_20140203_132314_25232118544_o.jpg
+   :width: 50 %
+
+   At :ref:`BFCL` 03-02-2014.
+
+.. figure:: photos/DAVIS/img_20130212_113417_25562223850_o.jpg
+   :width: 50 %
+
+   At :ref:`NGT` 12-02-2013.
+
+.. figure:: photos/DAVIS/24171371343_03edc3ffd9_o(1).jpg
+   :width: 50 %
+
+   At :ref:`BMH` 02-02-2016.
+
+.. figure:: photos/DAVIS/2013-07-31-151328_25836681706_o(1).jpg
+   :width: 50 %
+
+   At :ref:`IML` 31-07-2013.
+
+.. figure:: photos/DAVIS/04-11-2020(5).JPEG
+   :width: 50 %
+
+   At :ref:`IMU` 04-11-2020.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`Davis Vantage Pro manual <manuals/DAVIS_manual.pdf>`
+     - Davis Vantage Pro manual
+     - From Davis instruments
 
 Data acquisition
 ################

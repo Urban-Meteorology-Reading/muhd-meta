@@ -58,6 +58,16 @@ Photos
 Supplementary information
 #########################
 
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.metoffice.gov.uk/services/data/datapoint
+     - Webpage
+     - Met office datapoint webpage
+
 Data acquisition
 ################
 

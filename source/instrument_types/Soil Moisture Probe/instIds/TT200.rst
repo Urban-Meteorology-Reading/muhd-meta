@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+
 Variables measured by instrument
 ################################
 
@@ -55,8 +58,28 @@ Serial number: THERM2
 Photos
 ######
 
+.. figure:: photos/TT200/22-10-2020(5).JPEG
+   :width: 50 %
+
+   Unnearthed at :ref:`RGS` 22-10-2020.
+
+.. figure:: photos/TT200/26971563250_e32c1b8d25_o.jpg
+   :width: 50 %
+
+   Node at :ref:`RGS` 25-05-2016.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.vegetronix.com/Products/THERM200/
+     - THERM200 webpage
+     - Vegetronix websit.
 
 Data acquisition
 ################

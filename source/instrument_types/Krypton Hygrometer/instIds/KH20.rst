@@ -55,8 +55,28 @@ Serial number: 1122
 Photos
 ######
 
+.. figure:: photos/KH20/cimg5551_23491932550_o(1).jpg
+   :width: 50 %
+
+   As part of eddy covariance system at :ref:`KSK`. KH20 is oriented in the horizontal plane. 20-07-2010.
+
+.. figure:: photos/KH20/cimg5547_25349631934_o(2).jpg
+   :width: 50 %
+
+   Atop mast as part of eddy covariance system at :ref:`KSK` 20-07-2010.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`KH20 manual <manuals/KH20_manual.pdf>`
+     - KH20 manual
+     - Manual from Campbell Scientific.
 
 Data acquisition
 ################

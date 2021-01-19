@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+
 Variables measured by instrument
 ################################
 
@@ -66,6 +69,16 @@ Photos
 
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.delta-t.co.uk/wp-content/uploads/2016/11/ML2-Thetaprobe-UM.pdf
+     - ML2 manual
+     - Manual from Delta-T.
 
 Data acquisition
 ################

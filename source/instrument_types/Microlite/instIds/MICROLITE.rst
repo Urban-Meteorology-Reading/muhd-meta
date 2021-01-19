@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-Microlite
+
 Variables measured by instrument
 ################################
 
@@ -228,6 +231,16 @@ Photos
 
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`Microlite datasheet. <manuals/MICROLITE_specification.pdf>`
+     - Microlite datasheet.
+     - Data sheet from FourTec.
 
 Data acquisition
 ################

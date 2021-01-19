@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+
 Variables measured by instrument
 ################################
 
@@ -82,8 +85,46 @@ Serial number: 090064
 Photos
 ######
 
+.. figure:: photos/CNR4/tower-lowering-15092016_29409179500_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 15/09/2016 
+
+.. figure:: photos/CNR4/32729326734_19790cb776_o.jpg
+   :width: 50 %
+
+   At :ref:`SHU` 20/01/2017.
+
+.. figure:: photos/CNR4/ksk_mast_1_23679118412_o(2).jpg
+   :width: 50 %
+
+   At :ref:`KSK` (right most instrument) 19/08/2011.
+
+.. figure:: photos/CNR4/ksk_mast_2_23159424554_o.jpg
+   :width: 50 %
+
+   Seen from below at :ref:`KSK` 06/04/2011.
+
+.. figure:: photos/CNR4/tower-lowering-15092016_29073458294_o.jpg
+   :width: 50 %
+
+   Atop tower at :ref:`KSSW` 15/09/2016.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://www.kippzonen.com/Product/85/CNR4-Net-Radiometer#.YAa61hanxPY
+     - Manual location
+     - Manual by Kipp and Zonen
+   * - :download:`CNR4 brochure <manuals/CNR4_brochure.pdf>`
+     - CNR4 brochure
+     - From Kipp and Zonen
 
 Data acquisition
 ################

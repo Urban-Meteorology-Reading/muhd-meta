@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+
 Variables measured by instrument
 ################################
 
@@ -145,8 +148,43 @@ Serial number: A01366
 Photos
 ######
 
+.. figure:: photos/SM300/dscf3441_23761208906_o(1).jpg
+   :width: 50 %
+
+   At :ref:`EMB` 30/07/2010
+
+.. figure:: photos/SM300/dsc05882_23159257364_o(1).jpg
+   :width: 50 %
+
+   At :ref:`HAN` 08/06/2011
+
+.. figure:: photos/SM300/24019645873_d204249a0b_o.jpg
+   :width: 50 %
+
+   Node at :ref:`BTM` 13/01/2016
+
+.. figure:: photos/SM300/22-10-2020(4).JPEG
+   :width: 50 %
+
+   Unnearthed at :ref:`RGS` 22/10/2020.
+
+.. figure:: photos/SM300/soil_middle_temple_01_probes_23762079186_o.jpg
+   :width: 50 %
+
+   At :ref:`MT` 13/06/2011.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://dynamax.com/images/uploads/papers/SM300_Manual.pdf
+     - SM300 manual
+     - Manual from Delta-T.
 
 Data acquisition
 ################

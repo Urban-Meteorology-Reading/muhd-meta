@@ -26,6 +26,9 @@ Output definitions
 Processing code
 ###############
 
+Code used to process raw data:
+https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+
 Variables measured by instrument
 ################################
 
@@ -82,8 +85,43 @@ Serial number: 020630655
 Photos
 ######
 
+.. figure:: photos/UVA/r0015464_23679559082_o(1).jpg
+   :width: 50 %
+
+   Indicated by arrow at :ref:`KSS45W`. Unknown date between 2012-02-27 and  2016-04-14.
+
+.. figure:: photos/UVA/tower-lowering-15092016_29409179500_o.jpg
+   :width: 50 %
+
+   At :ref:`KSSW` 15-09-2016.
+
+.. figure:: photos/UVA/dscf1768_23679131102_o.jpg
+   :width: 50 %
+
+   Atop tower at :ref:`KSK` 18-08-2009.
+
+.. figure:: photos/UVA/cimg4994_23705531841_o.jpg
+   :width: 50 %
+
+   At :ref:`KSS` 16-10-2009.
+
+.. figure:: photos/UVA/08-01-2020(7)(1).JPEG
+   :width: 50 %
+
+   Structure on which it was on top of at :ref:`IMU` 08-01-2020.
+
 Supplementary information
 #########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - :download:`UV sensors manual <manuals/UV_manual.pdf>`
+     - UV sensors manual
+     - From Skye.
 
 Data acquisition
 ################
