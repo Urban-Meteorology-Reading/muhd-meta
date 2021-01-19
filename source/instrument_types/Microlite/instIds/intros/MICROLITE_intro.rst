@@ -1,0 +1,1 @@
+Fourtec LITE5032P-A is a compact usb temperature and humidity sensor and datalogger. It has been used as an indoor sensor in the :ref:`IndoorLUMA` network. These were set up indoors and connected to a raspberry pi to transmit the data.  

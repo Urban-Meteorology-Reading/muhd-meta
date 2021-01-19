@@ -1,0 +1,1 @@
+SM300 from Delta-T is a soil moisture probe that is buried in the ground to take readings. They have been deployed in multiple gardens as part of the :ref:`LUMA` network.

@@ -28,3 +28,27 @@ URAO,,FALSE,TRUE,https://research.reading.ac.uk/meteorology/atmospheric-observat
 ,GILL121R03,TRUE,TRUE,manuals/Gill_manual.pdf,Gill manual,Manual from Gill.
 ,PIR,TRUE,TRUE,manuals/PIR_spec.pdf,PIR specification,From Eppley.
 ,PIR,TRUE,TRUE,manuals/PIR_manual.pdf,PIR manual,Manual from Campbell Scientific.
+,KH20,TRUE,TRUE,manuals/KH20_manual.pdf,KH20 manual,Manual from Campbell Scientific.
+,MICROLITE,TRUE,TRUE,manuals/MICROLITE_specification.pdf,Microlite datasheet.,Data sheet from FourTec.
+,CNR4,FALSE,TRUE,https://www.kippzonen.com/Product/85/CNR4-Net-Radiometer#.YAa61hanxPY,Manual location,Manual by Kipp and Zonen
+,CNR4,TRUE,FALSE,manuals/CNR4_manual.pdf,CNR4 manual,Manual by Kipp and Zonen
+,CNR4,TRUE,TRUE,manuals/CNR4_brochure.pdf,CNR4 brochure,From Kipp and Zonen
+,PAR,TRUE,TRUE,manuals/PAR_manual.pdf,PAR manual,Manual from Skye Instruments.
+,SM300,FALSE,TRUE,https://dynamax.com/images/uploads/papers/SM300_Manual.pdf,SM300 manual,Manual from Delta-T.
+,SM300,TRUE,FALSE,manuals/SM300_manual.pdf,SM300 manual,Manual from Delta-T.
+,ML2,FALSE,TRUE,https://www.delta-t.co.uk/wp-content/uploads/2016/11/ML2-Thetaprobe-UM.pdf,ML2 manual,Manual from Delta-T.
+,ML2,TRUE,FALSE,manuals/SM300_manual.pdf,ML2 manual,Manual from Delta-T.
+,TT200,FALSE,TRUE,https://www.vegetronix.com/Products/THERM200/,THERM200 webpage,Vegetronix websit.
+,PSP,TRUE,TRUE,manuals/PSP_manual.pdf,PSP manual,Manual from Eppley
+,SPN1,FALSE,TRUE,https://www.delta-t.co.uk/wp-content/uploads/2019/06/SPN1_User_Manual_4.2.pdf,SPN1 manual,Manual from Delta-T
+,SPN1,TRUE,FALSE,manuals/SPN1_manual.pdf,SPN1 manual,Manual from Delta-T
+,SPN1,TRUE,TRUE,manuals/SPN1_ds.pdf,SPN1 datasheet,From Delta-T.
+,MICIRLE,TRUE,TRUE,manuals/MIRICLE_ds.pdf,MICIRCLE datasheet,From Thermoteknix.
+,PI160,TRUE,TRUE,manuals/PI160_manual.pdf,PI160 manual,From Optris.
+,UVA,TRUE,TRUE,manuals/UV_manual.pdf,UV sensors manual,From Skye.
+,UVB,TRUE,TRUE,manuals/UV_manual.pdf,UV sensors manual,From Skye.
+,WXT510,TRUE,TRUE,manuals/WXT510_brochure.pdf,WXT510 manual,From Vaisala
+,WXT510,TRUE,FALSE,manuals/WXT510_manual.pdf,WXT510 manual,From Vaisala
+,TINYTAG,TRUE,TRUE,manuals/TINYTAG_ds.pdf,TG-4100 datasheet,From Tinytag
+,DAVIS,TRUE,TRUE,manuals/DAVIS_manual.pdf,Davis Vantage Pro manual,From Davis instruments
+,DATAPOINTWEB,FALSE,TRUE,https://www.metoffice.gov.uk/services/data/datapoint,Webpage,Met office datapoint webpage

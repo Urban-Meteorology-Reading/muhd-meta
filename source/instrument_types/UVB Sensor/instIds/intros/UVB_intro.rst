@@ -1,0 +1,1 @@
+SKU430 from Skye instruments measures measures ultra violet-B radiation between 280-315 nm. Deployed in a set up with other Skye instruments :ref:`UVA` and :ref:`PAR`. Output definitions, variables etc are in the :ref:`UVA` instrument page. 

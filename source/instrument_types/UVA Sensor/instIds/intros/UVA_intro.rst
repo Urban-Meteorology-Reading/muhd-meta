@@ -1,0 +1,1 @@
+SKU420/5 from Skye instruments measures ultra violet-A radiation between 315-380 nm. Deployed at a set up with other Skye instruments :ref:`UVB` and :ref:`PAR`. Output definitions, variables etc forthese two instruments are on this page. 

@@ -1,10 +1,21 @@
 Instrument ID,Github URL
 CL31,https://github.com/Urban-Meteorology-Reading/Operations-CEIL
 CT25K,https://github.com/Urban-Meteorology-Reading/Operations-CEIL
+CNR4,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
 CNR1,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+PIR,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+PSP,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+PAR,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+UVA,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
+UVB,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
 SWTWXSTATION,https://github.com/Urban-Meteorology-Reading/Operations-SWT_WX
 BLS,https://github.com/Urban-Meteorology-Reading/Operations-LAS
 LASMKII,https://github.com/Urban-Meteorology-Reading/Operations-LAS
+LAS150,https://github.com/Urban-Meteorology-Reading/Operations-LAS
 CSAT3,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
 LI7500A,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
 GILL121R03,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
+MICROLITE,https://github.com/Urban-Meteorology-Reading/Operations-Microlite
+SM300,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+TT200,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+ML2,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R

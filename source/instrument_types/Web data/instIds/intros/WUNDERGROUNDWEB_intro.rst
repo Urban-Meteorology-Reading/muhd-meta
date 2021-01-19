@@ -1,0 +1,1 @@
+Extraction from `Weather Underground <https://www.wunderground.com/>`_ api.

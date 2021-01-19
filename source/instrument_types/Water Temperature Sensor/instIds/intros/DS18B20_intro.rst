@@ -1,0 +1,1 @@
+DS18B20 manufactured by Drok is a versatile, durable temperature probe. It has been used to measure water temperature of the river Thames at :ref:`TLI`.

@@ -1,0 +1,1 @@
+Campbell Scientific KH20 Krypton Hygrometetor used to measure rapid fluctuations in atmospheric water vapor. Typically used in eddy covariance systems. One was deployed at :ref:`KSK`. 

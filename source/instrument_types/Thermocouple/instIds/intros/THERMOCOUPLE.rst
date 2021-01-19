@@ -1,0 +1,1 @@
+Temperature measurements by thermocouples at vertical intervals up a mast.  

@@ -1,0 +1,1 @@
+SPN1 sunshine pyranometer from Delta-T. It measures shortwave and diffuse irradiance. It derives diffuse from direct radiation using seven thermopile sensors and a shading pattern.  One has been deployed at :ref:`KSS45W` and :ref:`IMU`.

@@ -1,0 +1,1 @@
+WXT510 is a small, lightweight, versatile weather station manufactured by Vaisala. It measures temperature, humidity, pressure, precipitation and wind speed and direction.

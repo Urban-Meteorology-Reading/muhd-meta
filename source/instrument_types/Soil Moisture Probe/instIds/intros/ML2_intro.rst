@@ -1,0 +1,1 @@
+ML2 from Delta-T is a soil moisture probe that is buried in the ground to take readings.

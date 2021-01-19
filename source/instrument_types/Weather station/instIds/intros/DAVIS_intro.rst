@@ -1,0 +1,1 @@
+Vantage pro plus is a versatile weather station, manufactured by Davis. It measures rain, temperature, humidity, pressure, wind and downward shortwave radiation. It has been used for weather measurements extensively across :ref:`LUMA` sites.

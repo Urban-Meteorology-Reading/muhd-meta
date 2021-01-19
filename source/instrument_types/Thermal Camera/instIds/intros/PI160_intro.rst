@@ -1,0 +1,1 @@
+PI160 infrared camera from Optris. This can be used to obtan surface temperature over a wide spatial extent. This has been used widely in the :ref:`LUMA` network. 

@@ -1,0 +1,1 @@
+TG-4100 manufactured by Tinytag measures water temperature. It has been used to measure water temperature of the river Thames at :ref:`TLI`.

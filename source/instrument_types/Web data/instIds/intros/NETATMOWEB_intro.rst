@@ -1,0 +1,1 @@
+Extraction from `Netatmo <https://dev.netatmo.com/apidocumentation/weather>`_ weather api.

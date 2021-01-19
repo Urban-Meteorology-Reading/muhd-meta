@@ -1,0 +1,1 @@
+SKL2620/5 from Skye instruments measures photosynthetically active radiation, used to determine the radiation available to plants for photosynthesis. Deployed at a set up with other Skye instruments :ref:`UVA` and :ref:`UVB`. Output definitions, variables etc are in the :ref:`UVA` instrument page. 

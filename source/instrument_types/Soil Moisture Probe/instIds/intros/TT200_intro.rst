@@ -1,0 +1,1 @@
+THERM200 from Vegetronix is a soil temperature probe that is buried in the ground to take readings. One has been deployed at :ref:`RGS`.

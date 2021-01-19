@@ -1,0 +1,1 @@
+Precision Spectral Pyranometer (PSP) is a Pyranometer manufactured by Eppley. It measures shortwave irradiance. One has been deployed at :ref:`KSS45W` and :ref:`IMU`.
