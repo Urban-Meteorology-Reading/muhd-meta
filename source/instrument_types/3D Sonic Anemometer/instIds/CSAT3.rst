@@ -101,11 +101,6 @@ Photos
 
    Atop tower :ref:`KSS` 08/04/2011.
 
-.. figure:: photos/CSAT3/nan
-   :width: 50 %
-
-   nan
-
 Supplementary information
 #########################
 
