@@ -53,7 +53,7 @@ Deployments at site
 Photos
 ######
 
-.. figure:: photos/IAP/my1_4northwest_25402040643_o.jpg
+.. figure:: photos/IAP/p1030608_26657650630_o.jpg
    :width: 100 %
 
    Panoramic looking East 18-03-2016.

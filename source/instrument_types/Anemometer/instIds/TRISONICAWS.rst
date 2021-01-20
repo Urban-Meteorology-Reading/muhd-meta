@@ -49,6 +49,19 @@ Serial number: M00101A
    :file: deployments/TRISONICAWS/M00101A_deployments.csv
    :header-rows: 1
 
+Photos
+######
+
+.. figure:: photos/TRISONICAWS/img_20180226_141728917_40455591622_o.jpg
+   :width: 50 %
+
+   Before being deployed 26-02-2018.
+
+.. figure:: photos/TRISONICAWS/08-01-2020_(9).JPEG
+   :width: 50 %
+
+   At :ref:`IMU` (on pole to the left) 08/01/2020 
+
 Supplementary information
 #########################
 

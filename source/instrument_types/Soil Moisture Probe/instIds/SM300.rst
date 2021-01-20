@@ -46,22 +46,13 @@ Serials
 Deployments
 ###########
 
-.. _A01360:
+.. _A01366:
 
-Serial number: A01360
+Serial number: A01366
 *********************
 
 .. csv-table:: 
-   :file: deployments/SM300/A01360_deployments.csv
-   :header-rows: 1
-
-.. _A01364:
-
-Serial number: A01364
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01364_deployments.csv
+   :file: deployments/SM300/A01366_deployments.csv
    :header-rows: 1
 
 .. _A01357:
@@ -73,58 +64,13 @@ Serial number: A01357
    :file: deployments/SM300/A01357_deployments.csv
    :header-rows: 1
 
-.. _A01358:
+.. _A01364:
 
-Serial number: A01358
+Serial number: A01364
 *********************
 
 .. csv-table:: 
-   :file: deployments/SM300/A01358_deployments.csv
-   :header-rows: 1
-
-.. _A01605:
-
-Serial number: A01605
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01605_deployments.csv
-   :header-rows: 1
-
-.. _A01365:
-
-Serial number: A01365
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01365_deployments.csv
-   :header-rows: 1
-
-.. _A01362:
-
-Serial number: A01362
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01362_deployments.csv
-   :header-rows: 1
-
-.. _A01361:
-
-Serial number: A01361
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01361_deployments.csv
-   :header-rows: 1
-
-.. _A01359:
-
-Serial number: A01359
-*********************
-
-.. csv-table:: 
-   :file: deployments/SM300/A01359_deployments.csv
+   :file: deployments/SM300/A01364_deployments.csv
    :header-rows: 1
 
 .. _A01363:
@@ -136,13 +82,67 @@ Serial number: A01363
    :file: deployments/SM300/A01363_deployments.csv
    :header-rows: 1
 
-.. _A01366:
+.. _A01360:
 
-Serial number: A01366
+Serial number: A01360
 *********************
 
 .. csv-table:: 
-   :file: deployments/SM300/A01366_deployments.csv
+   :file: deployments/SM300/A01360_deployments.csv
+   :header-rows: 1
+
+.. _A01361:
+
+Serial number: A01361
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01361_deployments.csv
+   :header-rows: 1
+
+.. _A01358:
+
+Serial number: A01358
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01358_deployments.csv
+   :header-rows: 1
+
+.. _A01365:
+
+Serial number: A01365
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01365_deployments.csv
+   :header-rows: 1
+
+.. _A01605:
+
+Serial number: A01605
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01605_deployments.csv
+   :header-rows: 1
+
+.. _A01359:
+
+Serial number: A01359
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01359_deployments.csv
+   :header-rows: 1
+
+.. _A01362:
+
+Serial number: A01362
+*********************
+
+.. csv-table:: 
+   :file: deployments/SM300/A01362_deployments.csv
    :header-rows: 1
 
 Photos

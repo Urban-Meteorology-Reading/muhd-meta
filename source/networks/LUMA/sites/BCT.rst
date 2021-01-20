@@ -56,12 +56,12 @@ Photos
 .. figure:: photos/BCT/p1040480_25862967685_o.jpg
    :width: 100 %
 
-   Panoramic view facing west 09-04-2014.
+   Panoramic view facing West 09-04-2014.
 
 .. figure:: photos/BCT/p1040449_25236418783_o.jpg
    :width: 100 %
 
-   Panoramic view facing west 09-04-2014.
+   Panoramic view facing East 09-04-2014.
 
 .. figure:: photos/BCT/p1050114_25767883241_o.jpg
    :width: 50 %

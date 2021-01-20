@@ -50,11 +50,6 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
-References
-##########
-
-#. Biggart, M., Stocker, J., Doherty, R. M., Wild, O., Hollaway, M., Carruthers, D., Li, J., Zhang, Q., Wu, R., Kotthaus, S., Grimmond, S., Squires, F. A., Lee, J. and Shi, Z. (2020) Street-scale air quality modelling for Beijing during a winter 2016 measurement campaign. Atmospheric Chemistry and Physics, 20 (5). pp. 2755-2780. ISSN 1680-7324 doi: https://doi.org/10.5194/acp-20-2755-2020
-
 Acknowledgements
 ################
 
