@@ -4,7 +4,9 @@
 Instrument page structure
 *************************
 
-All pages for instruments follow a standard page structure. This structure is explained here:
+Pages for instruments have a structure containing a selection of these headings. 
+Note that not all headings are present for all instruments.
+The information for each heading is explained here:
 
 Instrument id
 #############

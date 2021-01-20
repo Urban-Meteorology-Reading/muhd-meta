@@ -31,4 +31,5 @@ def save_to_csv(df, file_dir, file_name, header = True, index = False):
     if os.path.exists(file_dir) == False:
         os.makedirs(file_dir)
     file_path = os.path.join(file_dir, file_name)
-    df.to_csv(file_path, header = header, index = index)
+    if len(df) > 0:
+        df.to_csv(file_path, header = header, index = index)

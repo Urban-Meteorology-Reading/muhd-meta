@@ -122,7 +122,8 @@ def get_references(base_url, site_inst, author, search_type, out_dir, network = 
     ref_file_name =  f'{site_inst}_references.csv'
     ref_file_path = os.path.join(ref_dir, ref_file_name)
     #write
-    ref_df.to_csv(ref_file_path, index = False)
+    if len(ref_df) > 0:
+        ref_df.to_csv(ref_file_path, index = False)
 #%%
 #loop through instruments
 all_insts = inst_df[['instId', 'type']]

@@ -4,7 +4,9 @@
 Site page structure
 *************************
 
-All pages for sites follow a standard page structure. This structure is explained here:
+Pages for sites have a structure containing a selection of these headings. 
+Note that not all headings are present for all sites.
+The information for each heading is explained here:
 
 Site id
 #############

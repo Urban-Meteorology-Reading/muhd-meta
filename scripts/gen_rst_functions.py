@@ -20,13 +20,15 @@ def write_title(file, title, symbol = '#'):
     '''
     file.write(f"{title}\n{symbol*len(title)}\n\n")
 
-def write_intro(file, name):
+def write_intro(file, name, path):
     '''
-    Add intro to rst
+    Add intro to rst if one exists
     '''
+    import os
     #intro
-    write_title(file, 'Introduction')
-    file.write(f".. include:: intros/{name}_intro.rst\n\n")
+    if os.path.exists(os.path.join(path, 'intros', f'{name}_intro.rst')):
+        write_title(file, 'Introduction')
+        file.write(f".. include:: intros/{name}_intro.rst\n\n")
 
 def write_csv(file, file_path, header_rows, table_name = '', stub_columns = False):
     '''
@@ -42,7 +44,7 @@ def write_csv(file, file_path, header_rows, table_name = '', stub_columns = Fals
     else:
         file.write(f"   :header-rows: {header_rows}\n\n")
 
-def wrtie_gh_link(file, gh_dir, instId):
+def write_gh_link(file, gh_dir, instId):
     '''
     Extract link to github repo
     '''
@@ -53,6 +55,7 @@ def wrtie_gh_link(file, gh_dir, instId):
     #extract link for this site 
     inst_gh_link = gh_links[gh_links['Instrument ID'] == instId]
     if len(inst_gh_link) > 0: 
+        write_title(file, 'Processing code')
         inst_gh_link_write = inst_gh_link['Github URL'].values[0]
         #write 
         file.write(f'Code used to process raw data:\n{inst_gh_link_write}\n\n')
@@ -148,6 +151,9 @@ def write_site_acknowledgements(file, acknowledgements_path, site):
     site_acknowledgements = site_acknowledgements.drop('Linked site', axis = 1)
     #write to list-table
     if len(site_acknowledgements) > 0:
+        #write title
+        write_title(file, "Acknowledgements")
+
         # initiate acknowledgement
         n = 1
         name_str = 'We thank '
