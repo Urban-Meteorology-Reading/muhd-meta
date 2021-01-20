@@ -4,6 +4,11 @@
 SJP
 ***
 
+Introduction
+############
+
+.. include:: intros/SJP_intro.rst
+
 Site metadata
 #############
 

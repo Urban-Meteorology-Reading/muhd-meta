@@ -4,6 +4,11 @@
 SBU
 ***
 
+Introduction
+############
+
+.. include:: intros/SBU_intro.rst
+
 Site metadata
 #############
 

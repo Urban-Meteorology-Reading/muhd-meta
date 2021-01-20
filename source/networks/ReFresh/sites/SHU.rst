@@ -4,6 +4,11 @@
 SHU
 ***
 
+Introduction
+############
+
+.. include:: intros/SHU_intro.rst
+
 Site metadata
 #############
 

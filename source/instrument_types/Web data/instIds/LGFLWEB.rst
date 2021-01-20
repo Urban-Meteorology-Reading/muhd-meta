@@ -35,6 +35,19 @@ Serial number: LGFL_WEB
    :file: deployments/LGFLWEB/LGFL_WEB_deployments.csv
    :header-rows: 1
 
+Supplementary information
+#########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://weather.lgfl.org.uk/
+     - Webpage
+     - LGfL webpage
+
 Data acquisition
 ################
 

@@ -35,6 +35,19 @@ Serial number: NETATMO_WEB
    :file: deployments/NETATMOWEB/NETATMO_WEB_deployments.csv
    :header-rows: 1
 
+Supplementary information
+#########################
+
+.. list-table:: 
+   :header-rows: 1
+
+   * - Link
+     - Title
+     - Description
+   * - https://dev.netatmo.com/apidocumentation/weather
+     - Webpage
+     - Netatmo weather api webpage
+
 Data acquisition
 ################
 
