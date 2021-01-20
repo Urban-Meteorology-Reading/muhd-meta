@@ -46,15 +46,13 @@ Deployments at site
    :file: deployments/positions/SJP_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/SJP_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
-Supplementary information
-#########################
+.. figure:: photos/SJP/stj_met1_25843954962_o.jpg
+   :width: 50 %
+
+   Weather station at SJP 10-06-2010.
 
 Data acquisition
 ################
@@ -64,7 +62,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

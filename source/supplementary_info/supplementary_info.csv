@@ -52,3 +52,5 @@ URAO,,FALSE,TRUE,https://research.reading.ac.uk/meteorology/atmospheric-observat
 ,TINYTAG,TRUE,TRUE,manuals/TINYTAG_ds.pdf,TG-4100 datasheet,From Tinytag
 ,DAVIS,TRUE,TRUE,manuals/DAVIS_manual.pdf,Davis Vantage Pro manual,From Davis instruments
 ,DATAPOINTWEB,FALSE,TRUE,https://www.metoffice.gov.uk/services/data/datapoint,Webpage,Met office datapoint webpage
+,LGFLWEB,FALSE,TRUE,https://weather.lgfl.org.uk/,Webpage,LGfL webpage
+,NETATMOWEB,FALSE,TRUE,https://dev.netatmo.com/apidocumentation/weather,Webpage,Netatmo weather api webpage

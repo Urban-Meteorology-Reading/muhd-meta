@@ -1,0 +1,1 @@
+Met Office site at St James's Park, London. Data, from between 2005 and 2016, from the weather station has been stored in this data archive.
