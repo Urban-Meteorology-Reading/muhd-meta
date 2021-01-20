@@ -16,25 +16,11 @@ Manufacturer and Model
    :file: manufacturers/UVB_manufacturer.csv
    :header-rows: 1
 
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/UVB_out_defs.csv
-   :header-rows: 1
-
 Processing code
 ###############
 
 Code used to process raw data:
 https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/UVB_variables.csv
-   :header-rows: 1
 
 Serials
 #######

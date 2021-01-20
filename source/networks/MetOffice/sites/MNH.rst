@@ -4,11 +4,6 @@
 MNH
 ***
 
-Introduction
-############
-
-.. include:: intros/MNH_intro.rst
-
 Site metadata
 #############
 

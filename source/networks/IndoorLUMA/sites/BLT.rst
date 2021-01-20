@@ -4,11 +4,6 @@
 BLT
 ***
 
-Introduction
-############
-
-.. include:: intros/BLT_intro.rst
-
 Site metadata
 #############
 
@@ -46,19 +41,9 @@ Deployments at site
    :file: deployments/positions/BLT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/BLT_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to indoor sensors
    :file: deployments/indoor_deployments/BLT_indoor_deployments.csv
    :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

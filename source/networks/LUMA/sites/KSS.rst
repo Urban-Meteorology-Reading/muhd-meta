@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSS_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSS_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -82,9 +78,6 @@ Photos
    :width: 50 %
 
    Tower fullly extended 07-11-2009.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

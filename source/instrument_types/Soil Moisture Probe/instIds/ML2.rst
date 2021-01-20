@@ -16,25 +16,11 @@ Manufacturer and Model
    :file: manufacturers/ML2_manufacturer.csv
    :header-rows: 1
 
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/ML2_out_defs.csv
-   :header-rows: 1
-
 Processing code
 ###############
 
 Code used to process raw data:
 https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/ML2_variables.csv
-   :header-rows: 1
 
 Serials
 #######
@@ -63,9 +49,6 @@ Serial number: 224_063_EMB
 .. csv-table:: 
    :file: deployments/ML2/224_063_EMB_deployments.csv
    :header-rows: 1
-
-Photos
-######
 
 Supplementary information
 #########################

@@ -4,11 +4,6 @@
 THERMOCOUPLE
 ************
 
-Introduction
-############
-
-.. include:: intros/THERMOCOUPLE_intro.rst
-
 Manufacturer and Model
 ######################
 
@@ -22,9 +17,6 @@ Output definitions
 .. csv-table:: 
    :file: out_defs/THERMOCOUPLE_out_defs.csv
    :header-rows: 1
-
-Processing code
-###############
 
 Variables measured by instrument
 ################################
@@ -60,12 +52,6 @@ Serial number: 123456
 .. csv-table:: 
    :file: deployments/THERMOCOUPLE/123456_deployments.csv
    :header-rows: 1
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

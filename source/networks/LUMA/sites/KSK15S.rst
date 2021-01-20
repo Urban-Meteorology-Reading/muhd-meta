@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSK15S_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSK15S_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/KSK15S_profile_deployments.csv
    :header-rows: 2
@@ -71,9 +67,6 @@ Photos
    :width: 50 %
 
    :ref:`CNR1`.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

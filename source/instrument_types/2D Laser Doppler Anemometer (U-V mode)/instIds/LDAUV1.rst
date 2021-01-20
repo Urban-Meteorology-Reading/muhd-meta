@@ -4,33 +4,11 @@
 LDAUV1
 ******
 
-Introduction
-############
-
-.. include:: intros/LDAUV1_intro.rst
-
 Manufacturer and Model
 ######################
 
 .. csv-table:: 
    :file: manufacturers/LDAUV1_manufacturer.csv
-   :header-rows: 1
-
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/LDAUV1_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/LDAUV1_variables.csv
    :header-rows: 1
 
 Serials
@@ -114,12 +92,6 @@ Serial number: BL1
 .. csv-table:: 
    :file: deployments/LDAUV1/BL1_deployments.csv
    :header-rows: 1
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

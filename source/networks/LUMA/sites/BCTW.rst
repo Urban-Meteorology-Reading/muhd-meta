@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/BCTW_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/BCTW_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -72,9 +68,6 @@ Photos
    :width: 50 %
 
    :ref:`DAVIS` station and :ref:`LASMKII` receiver from :ref:`BTT` 10-03-2014.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

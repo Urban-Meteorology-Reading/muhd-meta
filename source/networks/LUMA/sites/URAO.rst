@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/URAO_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/URAO_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/URAO_profile_deployments.csv
    :header-rows: 2
@@ -93,7 +89,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

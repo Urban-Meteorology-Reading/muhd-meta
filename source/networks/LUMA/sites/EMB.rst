@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/EMB_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/EMB_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -63,9 +59,6 @@ Photos
 
    :ref:`SM300` in flower bed 30-07-2010.
 
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -74,7 +67,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

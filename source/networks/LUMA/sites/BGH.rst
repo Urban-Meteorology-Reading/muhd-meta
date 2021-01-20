@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/BGH_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/BGH_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -57,9 +53,6 @@ Photos
    :width: 50 %
 
    :ref:`DAVIS` station looking towards the South East 02-02-2016.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

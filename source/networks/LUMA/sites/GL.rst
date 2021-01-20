@@ -46,16 +46,6 @@ Deployments at site
    :file: deployments/positions/GL_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/GL_deployment_raw_files.csv
-   :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -70,7 +60,4 @@ References
 #. Yunus, A. P., Avtar, R., Kraines, S., Yamamuro, M., Lindberg, F. and Grimmond, C. S. B. (2016) Uncertainties in tidally adjusted estimates of sea level rise flooding (bathtub model) for the Greater London. Remote Sensing, 8 (5). 366. ISSN 2072-4292 doi: https://doi.org/10.3390/rs8050366
 #. Font, A., Grimmond, C. S. B., Kotthaus, S., Morgu�, J. -A., Stockdale, C., O'Connor, E., Priestman, M. and Barratt, B. (2015) Daytime CO2 urban surface fluxes from airborne measurements, eddy-covariance observations and emissions inventory in Greater London. Environmental Pollution, 196. pp. 98-106. ISSN 0269-7491 doi: https://doi.org/10.1016/j.envpol.2014.10.001
 #. Tan, J., Yang, L., Grimmond, C. S. B., Shi, J., Gu, W., Chang, Y., Hu, P., Sun, J., Ao, X. and Han, Z. (2015) Urban integrated meteorological observations: practice and experience in Shanghai, China. Bulletin of the American Meteorological Society, 96 (1). pp. 85-102. ISSN 0003-0007 doi: https://doi.org/10.1175/BAMS-D-13-00216.1
-
-Acknowledgements
-################
 

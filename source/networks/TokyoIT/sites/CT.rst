@@ -4,11 +4,6 @@
 CT
 **
 
-Introduction
-############
-
-.. include:: intros/CT_intro.rst
-
 Site metadata
 #############
 
@@ -46,16 +41,6 @@ Deployments at site
    :file: deployments/positions/CT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/CT_deployment_raw_files.csv
-   :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -73,8 +58,8 @@ References
 #. Ward, H. G., Evans, J. G. and Grimmond, C. S. B. (2015) Infrared and millimetre-wave scintillometry in the suburban environment – Part 2: Large-area sensible and latent heat fluxes. Atmospheric Measurement Techniques, 8 (3). pp. 1407-1424. ISSN 1867-8548 doi: https://doi.org/10.5194/amt-8-1407-2015
 #. Ward, H. C., Evans, J. G., Grimmond, C. S. B. and Bradford, J. (2015) Infrared and millimetre-wave scintillometry in the suburban environment – Part 1: Structure parameters. Atmospheric Measurement Techniques, 8 (3). pp. 1385-1405. ISSN 1867-8548 doi: https://doi.org/10.5194/amt-8-1385-2015
 #. Ward, H. C., Evans, J. G. and Grimmond, C. S. B. (2014) Multi-scale sensible heat fluxes in the urban environment from large aperture scintillometry and eddy covariance. Boundary-Layer Meteorology, 152 (1). pp. 65-89. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-014-9916-4
-#. Grimmond, C.S.B., Blackett, M., Best, M. J., Barlow, J., Baik, J.-J., Belcher, S. E., Bohnenstengel, S. I., Calmet, I., Chen, F., Dandou, A., Fortuniak, K., Gouvea, M. L., Hamdi, R., Hendry, M., Kawai, T., Kawamoto, Y., Kondo, H., Krayenhoff, E. S., Lee, S.-H., Loridan, T., Martilli, A., Masson, V., Miao, S., Oleson, K., Pigeon, G., Porson, A., Ryu, Y.-H., Salamanca, F., Shashua-Bar, L., Steeneveld, G.-J., Tombrou, M., Voogt, J., Young, D. and Zhang, N. (2010) The International Urban Energy Balance Models Comparison Project: First Results from Phase 1. Journal of Applied Meteorology and Climatology, 49 (6). pp. 1268-1292. ISSN 1558-8432 doi: https://doi.org/10.1175/2010JAMC2354.1
 #. Wood, C. R., Lacser, A., Barlow, J. F., Padhra, A., Belcher, S. E., Nemitz, E., Helfter, C., Famulari, D. and Grimmond, C.S.B. (2010) Turbulent flow at 190 m height above London during 2006-2008: A climatology and the applicability of similarity theory. Boundary-Layer Meteorology, 137 (1). pp. 77-96. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-010-9516-x
+#. Grimmond, C.S.B., Blackett, M., Best, M. J., Barlow, J., Baik, J.-J., Belcher, S. E., Bohnenstengel, S. I., Calmet, I., Chen, F., Dandou, A., Fortuniak, K., Gouvea, M. L., Hamdi, R., Hendry, M., Kawai, T., Kawamoto, Y., Kondo, H., Krayenhoff, E. S., Lee, S.-H., Loridan, T., Martilli, A., Masson, V., Miao, S., Oleson, K., Pigeon, G., Porson, A., Ryu, Y.-H., Salamanca, F., Shashua-Bar, L., Steeneveld, G.-J., Tombrou, M., Voogt, J., Young, D. and Zhang, N. (2010) The International Urban Energy Balance Models Comparison Project: First Results from Phase 1. Journal of Applied Meteorology and Climatology, 49 (6). pp. 1268-1292. ISSN 1558-8432 doi: https://doi.org/10.1175/2010JAMC2354.1
 
 Acknowledgements
 ################

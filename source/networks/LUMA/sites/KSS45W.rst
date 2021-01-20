@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSS45W_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSS45W_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/KSS45W_profile_deployments.csv
    :header-rows: 2
@@ -70,9 +66,6 @@ Photos
 .. figure:: photos/KSS45W/r0015453_25401838054_o.jpg
 
    :ref:`CL31` and :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`SPN1`, :ref:`PIR`, :ref:`PSP` on top of structure.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

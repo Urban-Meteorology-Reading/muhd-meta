@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/TEM_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/TEM_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -57,9 +53,6 @@ Photos
    :width: 50 %
 
    View of the gardens 14-05-2012.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -93,8 +86,8 @@ References
 #. Helfter, C., Tremper, A. H., Halios, C. H., Kotthaus, S., Bjorkegren, A., Grimmond, C. S. B., Barlow, J. F. and Nemitz, E. (2016) Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK. Atmospheric Chemistry and Physics, 16 (16). pp. 10543-10557. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-16-10543-2016
 #. Kotthaus, S., O'Connor, E., M�nkel, C., Charlton-Perez, C., Haeffelin, M., Gabey, A. M. and Grimmond, C. S. B. (2016) Recommendations for processing atmospheric attenuated backscatter profiles from Vaisala CL31 ceilometers. Atmospheric Measurement Techniques, 9. pp. 3769-3791. ISSN 1867-8548 doi: https://doi.org/10.5194/amt-9-3769-2016
 #. Sun, T., Grimmond, C. S. E. and Ni, G.-H. (2016) How do green roofs mitigate urban thermal stress under heat waves? Journal of Geophysical Research: Atmospheres, 121 (10). pp. 5320-5335. ISSN 2169-8996 doi: https://doi.org/10.1002/2016JD024873
-#. Onomura, S., Grimmond, C. S. B., Lindberg, F., Holmer, B. and Thorsson, S. (2015) Meteorological forcing data for urban outdoor thermal comfort models from a coupled convective boundary layer and surface energy balance scheme. Urban Climate, 11. pp. 1-23. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2014.11.001
 #. Ward, H. C., Evans, J. G., Grimmond, C. S. B. and Bradford, J. (2015) Infrared and millimetre-wave scintillometry in the suburban environment – Part 1: Structure parameters. Atmospheric Measurement Techniques, 8 (3). pp. 1385-1405. ISSN 1867-8548 doi: https://doi.org/10.5194/amt-8-1385-2015
+#. Onomura, S., Grimmond, C. S. B., Lindberg, F., Holmer, B. and Thorsson, S. (2015) Meteorological forcing data for urban outdoor thermal comfort models from a coupled convective boundary layer and surface energy balance scheme. Urban Climate, 11. pp. 1-23. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2014.11.001
 #. Lind�n, J., Grimmond, C. S. B. and Esper, J. (2015) Urban warming in villages. Advances in Science and Research, 12. pp. 157-162. ISSN 1992-0636 doi: https://doi.org/10.5194/asr-12-157-2015
 #. Bjorkeren, A. B., Grimmond, C. S. B., Kotthaus, S. and Malamud, B. D. (2015) CO2 emission estimation in the urban environment: measurement of the CO2 storage term. Atmospheric Environment, 122. pp. 775-790. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2015.10.012
 #. Ward, H. C., Kotthaus, S., Grimmond, C. S. B., Bjorkegren, A., Wilkinson, M., Morrison, W. T. J., Evans, J. G., Morison, J. I. L. and Iamarino, M. (2015) Effects of urban density on carbon dioxide exchanges: observations of dense urban, suburban and woodland areas of southern England. Environmental Pollution, 198. pp. 186-200. ISSN 0269-7491 doi: https://doi.org/10.1016/j.envpol.2014.12.031
@@ -112,7 +105,4 @@ References
 #. Baklanov, A., Lawrence, M., Pandis, S., Mahura, A., Finardi, S., Moussiopoulos, N., Beekmann, M., Laj, P., Gomes, L., Jaffrezo, J.-L., Borbon, A., Coll, I., Gros, V., Sciare, J., Kukkonen, J., Galmarini, S., Giorgi, F., Grimmond, S., Esau, I., Stohl, A., Denby, B., Wagner, T., Butler, T., Baltensperger, U., Builtjes, P., van den Hout, D., van der Gon, H. D., Collins, B., Schluenzen, H., Kulmala, M., Zilitinkevich, S., Sokhi, R., Friedrich, R., Theloke, J., Kummer, U., Jalkinen, L., Halenka, T., Wiedensholer, A., Pyle, J. and Rossow, W. B. (2010) MEGAPOLI: concept of multi-scale modelling of megacity impact on air quality and climate. Advances in Science and Research, 4. pp. 115-120. ISSN 1992-0636 doi: https://doi.org/10.5194/asr-4-115-2010
 #. Oleson, K.W., Bonan, G.B., Feddema, J., Vertenstein, M. and Grimmond, C.S.B. (2008) An urban parameterization for a global climate model. Part I: Formulation and evaluation for two cities. Journal of Applied Meteorology and Climatology, 47 (4). pp. 1038-1060. ISSN 1558-8432 doi: https://doi.org/10.1175/2007JAMC1597.1
 #. Best, M. J., Grimmond, C. S. B. and Villani, M. G. (2006) Evaluation of the urban tile in MOSES using surface energy balance observations. Boundary-Layer Meteorology, 118 (3). pp. 503-525. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-005-9025-5
-
-Acknowledgements
-################
 

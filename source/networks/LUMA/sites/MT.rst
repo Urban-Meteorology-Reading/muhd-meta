@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/MT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/MT_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -62,9 +58,6 @@ Photos
    :width: 50 %
 
    Position of :ref:`SM300` 13-06-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -87,7 +80,4 @@ References
 #. Malamud, B. D., Turcotte, D. L. and Grimmond, C. S. B. (2011) Temperature trends at the Mauna Loa observatory, Hawaii. Climate of the Past, 7 (3). pp. 975-983. ISSN 1814-9324 doi: https://doi.org/10.5194/cp-7-975-2011
 #. Helfter, C., Famulari, D., Phillips, G. J., Barlow, J. F., Wood, C., Grimmond, C. S. B. and Nemitz, E. (2011) Controls of carbon dioxide concentrations and fluxes above central London. Atmospheric Chemistry and Physics, 11 (5). pp. 1913-1928. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-11-1913-2011
 #. Grimmond, C.S.B., Blackett, M., Best, M. J., Barlow, J., Baik, J.-J., Belcher, S. E., Bohnenstengel, S. I., Calmet, I., Chen, F., Dandou, A., Fortuniak, K., Gouvea, M. L., Hamdi, R., Hendry, M., Kawai, T., Kawamoto, Y., Kondo, H., Krayenhoff, E. S., Lee, S.-H., Loridan, T., Martilli, A., Masson, V., Miao, S., Oleson, K., Pigeon, G., Porson, A., Ryu, Y.-H., Salamanca, F., Shashua-Bar, L., Steeneveld, G.-J., Tombrou, M., Voogt, J., Young, D. and Zhang, N. (2010) The International Urban Energy Balance Models Comparison Project: First Results from Phase 1. Journal of Applied Meteorology and Climatology, 49 (6). pp. 1268-1292. ISSN 1558-8432 doi: https://doi.org/10.1175/2010JAMC2354.1
-
-Acknowledgements
-################
 

@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/IML_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/IML_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -62,9 +58,6 @@ Photos
    :width: 50 %
 
    Wider view of :ref:`DAVIS` station looking East 31-07-2013.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

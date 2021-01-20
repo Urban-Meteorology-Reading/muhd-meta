@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSK_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSK_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -72,9 +68,6 @@ Photos
    :width: 50 %
 
    :ref:`CSAT3`, :ref:`LI7500A`, :ref:`CNR4` and :ref:`WXT510` 19-08-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

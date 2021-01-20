@@ -4,33 +4,11 @@
 LI7550
 ******
 
-Introduction
-############
-
-.. include:: intros/LI7550_intro.rst
-
 Manufacturer and Model
 ######################
 
 .. csv-table:: 
    :file: manufacturers/LI7550_manufacturer.csv
-   :header-rows: 1
-
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/LI7550_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/LI7550_variables.csv
    :header-rows: 1
 
 Serials
@@ -39,15 +17,6 @@ Serials
 .. csv-table:: 
    :file: serials/LI7550_serials.csv
    :header-rows: 1
-
-Deployments
-###########
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

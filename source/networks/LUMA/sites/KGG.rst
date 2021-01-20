@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KGG_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KGG_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -57,9 +53,6 @@ Photos
    :width: 50 %
 
    :ref:`LAS150`transmitter to :ref:`BTT` 05-08-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

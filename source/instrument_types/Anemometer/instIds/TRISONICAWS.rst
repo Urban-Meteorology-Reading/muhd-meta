@@ -23,9 +23,6 @@ Output definitions
    :file: out_defs/TRISONICAWS_out_defs.csv
    :header-rows: 1
 
-Processing code
-###############
-
 Variables measured by instrument
 ################################
 
@@ -51,9 +48,6 @@ Serial number: M00101A
 .. csv-table:: 
    :file: deployments/TRISONICAWS/M00101A_deployments.csv
    :header-rows: 1
-
-Photos
-######
 
 Supplementary information
 #########################

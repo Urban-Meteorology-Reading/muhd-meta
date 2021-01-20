@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSSW_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSSW_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/KSSW_profile_deployments.csv
    :header-rows: 2
@@ -71,9 +67,6 @@ Photos
    :width: 50 %
 
    :ref:`PAR`, :ref:`UVA`, :ref:`UVB`, :ref:`CNR4`, :ref:`CSAT3`, :ref:`LI7500A` on top of tower 15-09-2016.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/HAN_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/HAN_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -62,9 +58,6 @@ Photos
    :width: 50 %
 
    :ref:`SM300` unnearthed 08-06-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -97,7 +90,4 @@ References
 #. Honjo, T., Yamato, H., Mikami, T. and Grimmond, C. S. B. (2015) Network optimization for enhanced resilience of urban heat island measurements. Sustainable Cities and Society, 19. pp. 319-330. ISSN 2210-6707 doi: https://doi.org/10.1016/j.scs.2015.02.004
 #. Tan, J., Yang, L., Grimmond, C. S. B., Shi, J., Gu, W., Chang, Y., Hu, P., Sun, J., Ao, X. and Han, Z. (2015) Urban integrated meteorological observations: practice and experience in Shanghai, China. Bulletin of the American Meteorological Society, 96 (1). pp. 85-102. ISSN 0003-0007 doi: https://doi.org/10.1175/BAMS-D-13-00216.1
 #. Best, M. J., Pryor, M., Clark, D. B., Rooney, G. G., Essery, R. L. H., Ménard, C. B., Edwards, J. M., Hendry, M. A., Porson, A., Gedney, N., Mercado, L. M., Sitch, S., Blyth, E., Boucher, O., Cox, P. M., Grimmond, C.S.B. and Harding, R. J. (2011) The Joint UK Land Environment Simulator (JULES), model description – part 1: energy and water fluxes. Geoscientific Model Development, 4 (1). pp. 677-699. ISSN 1991-9603 doi: https://doi.org/10.5194/gmd-4-677-2011
-
-Acknowledgements
-################
 

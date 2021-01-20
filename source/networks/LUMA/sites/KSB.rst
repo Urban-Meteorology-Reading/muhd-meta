@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSB_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSB_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -57,9 +53,6 @@ Photos
    :width: 50 %
 
    :ref:`GILL121R03` 05-07-2015.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

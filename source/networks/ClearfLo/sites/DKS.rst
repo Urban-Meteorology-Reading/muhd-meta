@@ -4,11 +4,6 @@
 DKS
 ***
 
-Introduction
-############
-
-.. include:: intros/DKS_intro.rst
-
 Site metadata
 #############
 
@@ -46,19 +41,9 @@ Deployments at site
    :file: deployments/positions/DKS_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/DKS_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/DKS_profile_deployments.csv
    :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -68,7 +53,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 
