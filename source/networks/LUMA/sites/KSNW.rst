@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/KSNW_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/KSNW_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -77,9 +73,6 @@ Photos
    :width: 50 %
 
    :ref:`LI840` pipe coming down the side of the building 17-12-2015.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

@@ -226,9 +226,6 @@ Serial number: 9178792
    :file: deployments/MICROLITE/9178792_deployments.csv
    :header-rows: 1
 
-Photos
-######
-
 Supplementary information
 #########################
 

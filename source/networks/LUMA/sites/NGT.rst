@@ -4,11 +4,6 @@
 NGT
 ***
 
-Introduction
-############
-
-.. include:: intros/NGT_intro.rst
-
 Site metadata
 #############
 
@@ -46,10 +41,6 @@ Deployments at site
    :file: deployments/positions/NGT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/NGT_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to scintillometers
    :file: deployments/scint_deployments/NGT_scint_deployments.csv
    :header-rows: 2
@@ -81,9 +72,6 @@ Photos
    :width: 50 %
 
    :ref:`BLS` transmitter to :ref:`NDT` and :ref:`LAS150` reciever from :ref:`NDT` 25-05-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

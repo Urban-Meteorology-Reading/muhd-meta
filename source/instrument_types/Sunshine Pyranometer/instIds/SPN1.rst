@@ -23,9 +23,6 @@ Output definitions
    :file: out_defs/SPN1_out_defs.csv
    :header-rows: 1
 
-Processing code
-###############
-
 Variables measured by instrument
 ################################
 

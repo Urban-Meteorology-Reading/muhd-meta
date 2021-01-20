@@ -16,23 +16,6 @@ Manufacturer and Model
    :file: manufacturers/TINYTAG_manufacturer.csv
    :header-rows: 1
 
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/TINYTAG_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/TINYTAG_variables.csv
-   :header-rows: 1
-
 Serials
 #######
 

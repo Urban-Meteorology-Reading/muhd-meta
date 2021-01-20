@@ -4,33 +4,11 @@
 M00100
 ******
 
-Introduction
-############
-
-.. include:: intros/M00100_intro.rst
-
 Manufacturer and Model
 ######################
 
 .. csv-table:: 
    :file: manufacturers/M00100_manufacturer.csv
-   :header-rows: 1
-
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/M00100_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/M00100_variables.csv
    :header-rows: 1
 
 Serials
@@ -39,15 +17,6 @@ Serials
 .. csv-table:: 
    :file: serials/M00100_serials.csv
    :header-rows: 1
-
-Deployments
-###########
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

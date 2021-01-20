@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/BTT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/BTT_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to scintillometers
    :file: deployments/scint_deployments/BTT_scint_deployments.csv
    :header-rows: 2
@@ -71,9 +67,6 @@ Photos
    :width: 50 %
 
    :ref:`LAS150` reciever from :ref:`KGG` 13-09-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

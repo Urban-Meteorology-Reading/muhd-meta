@@ -4,33 +4,11 @@
 LDAUV
 *****
 
-Introduction
-############
-
-.. include:: intros/LDAUV_intro.rst
-
 Manufacturer and Model
 ######################
 
 .. csv-table:: 
    :file: manufacturers/LDAUV_manufacturer.csv
-   :header-rows: 1
-
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/LDAUV_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/LDAUV_variables.csv
    :header-rows: 1
 
 Serials
@@ -276,12 +254,6 @@ Serial number: D10
 .. csv-table:: 
    :file: deployments/LDAUV/D10_deployments.csv
    :header-rows: 1
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

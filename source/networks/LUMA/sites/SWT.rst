@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/SWT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/SWT_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/SWT_profile_deployments.csv
    :header-rows: 2

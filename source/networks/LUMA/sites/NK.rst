@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/NK_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/NK_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/NK_profile_deployments.csv
    :header-rows: 2
@@ -61,9 +57,6 @@ Photos
    :width: 50 %
 
    :ref:`CL31` 02-02-2011
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -79,7 +72,4 @@ References
 #. Lindberg, F., Grimmond, C. S. B., Gabey, A., Huang, B., Kent, C., Sun, T., Theeuwes, N., J�rvi, L., Ward, H., Capel-Timms, I., Chang, Y., Jonsson, P., Krave, N., Liu, D., Meyer, D., Olofson, K. F. G., Tan, J., W�stberg, D., Xue, L. and Zhang, Z. (2018) Urban Multi-scale Environmental Predictor (UMEP): an integrated tool for city-based climate services. Environmental Modelling and Software, 99. pp. 70-87. ISSN 1364-8152 doi: https://doi.org/10.1016/j.envsoft.2017.09.020
 #. Kotthaus, S., Halios, C. H., Barlow, J. F. and Grimmond, C. S. B. (2018) Volume for pollution dispersion: London’s atmospheric boundary layer during ClearfLo observed with two ground-based lidar types. Atmospheric Environment, 190. pp. 401-414. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2018.06.042
 #. Warren, E., Charlton-Perez, C., Kotthaus, S., Lean, H., Ballard, S., Hopkin, E. and Grimmond, S. (2018) Evaluation of forward-modelled attenuated backscatter using an urban ceilometer network in London under clear-sky conditions. Atmospheric Environment, 191. pp. 532-547. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2018.04.045
-
-Acknowledgements
-################
 

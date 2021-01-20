@@ -4,11 +4,6 @@
 IMU
 ***
 
-Introduction
-############
-
-.. include:: intros/IMU_intro.rst
-
 Site metadata
 #############
 
@@ -44,10 +39,6 @@ Deployments at site
 
 .. csv-table:: Position of deployments
    :file: deployments/positions/IMU_deployment_positions.csv
-   :header-rows: 2
-
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/IMU_deployment_raw_files.csv
    :header-rows: 2
 
 .. csv-table:: Metadata specific to profiles
@@ -95,9 +86,6 @@ Photos
    :width: 50 %
 
    :ref:`LASMKII` reciever from :ref:`BCT` 10-04-2014.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

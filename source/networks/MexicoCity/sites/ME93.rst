@@ -4,11 +4,6 @@
 ME93
 ****
 
-Introduction
-############
-
-.. include:: intros/ME93_intro.rst
-
 Site metadata
 #############
 
@@ -46,16 +41,6 @@ Deployments at site
    :file: deployments/positions/ME93_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/ME93_deployment_raw_files.csv
-   :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -69,7 +54,4 @@ References
 #. Loridan, T. and Grimmond, C.S.B. (2012) Multi-site evaluation of an urban land-surface model: intra-urban heterogeneity, seasonality and parameter complexity requirements. Quarterly Journal of the Royal Meteorological Society, 138 (665). pp. 1094-1113. ISSN 1477-870X doi: https://doi.org/10.1002/qj.963
 #. Oleson, K.W., Bonan, G.B., Feddema, J., Vertenstein, M. and Grimmond, C.S.B. (2008) An urban parameterization for a global climate model. Part I: Formulation and evaluation for two cities. Journal of Applied Meteorology and Climatology, 47 (4). pp. 1038-1060. ISSN 1558-8432 doi: https://doi.org/10.1175/2007JAMC1597.1
 #. Best, M. J., Grimmond, C. S. B. and Villani, M. G. (2006) Evaluation of the urban tile in MOSES using surface energy balance observations. Boundary-Layer Meteorology, 118 (3). pp. 503-525. ISSN 0006-8314 doi: https://doi.org/10.1007/s10546-005-9025-5
-
-Acknowledgements
-################
 

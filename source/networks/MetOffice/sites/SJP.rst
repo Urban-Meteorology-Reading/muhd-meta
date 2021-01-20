@@ -4,11 +4,6 @@
 SJP
 ***
 
-Introduction
-############
-
-.. include:: intros/SJP_intro.rst
-
 Site metadata
 #############
 
@@ -46,16 +41,6 @@ Deployments at site
    :file: deployments/positions/SJP_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/SJP_deployment_raw_files.csv
-   :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -64,7 +49,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

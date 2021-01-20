@@ -16,23 +16,6 @@ Manufacturer and Model
    :file: manufacturers/DATAPOINTWEB_manufacturer.csv
    :header-rows: 1
 
-Output definitions
-##################
-
-.. csv-table:: 
-   :file: out_defs/DATAPOINTWEB_out_defs.csv
-   :header-rows: 1
-
-Processing code
-###############
-
-Variables measured by instrument
-################################
-
-.. csv-table:: Variables measured - sorted alphabetically
-   :file: variables/DATAPOINTWEB_variables.csv
-   :header-rows: 1
-
 Serials
 #######
 
@@ -51,9 +34,6 @@ Serial number: DATAPOINT_WEB
 .. csv-table:: 
    :file: deployments/DATAPOINTWEB/DATAPOINT_WEB_deployments.csv
    :header-rows: 1
-
-Photos
-######
 
 Supplementary information
 #########################

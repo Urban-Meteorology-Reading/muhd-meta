@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/SCT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/SCT_deployment_raw_files.csv
-   :header-rows: 2
-
 Photos
 ######
 
@@ -57,9 +53,6 @@ Photos
    :width: 50 %
 
    Seen from :ref:`SWT` 19-07-2019.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
@@ -69,7 +62,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

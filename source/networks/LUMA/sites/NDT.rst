@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/NDT_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/NDT_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to scintillometers
    :file: deployments/scint_deployments/NDT_scint_deployments.csv
    :header-rows: 2
@@ -81,9 +77,6 @@ Photos
    :width: 50 %
 
    :ref:`DAVIS` station 24-05-2011.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

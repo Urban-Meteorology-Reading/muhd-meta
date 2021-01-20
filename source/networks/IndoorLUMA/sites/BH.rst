@@ -4,11 +4,6 @@
 BH
 **
 
-Introduction
-############
-
-.. include:: intros/BH_intro.rst
-
 Site metadata
 #############
 
@@ -46,19 +41,9 @@ Deployments at site
    :file: deployments/positions/BH_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/BH_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to indoor sensors
    :file: deployments/indoor_deployments/BH_indoor_deployments.csv
    :header-rows: 2
-
-Photos
-######
-
-Supplementary information
-#########################
 
 Data acquisition
 ################

@@ -78,9 +78,6 @@ Photos
 
    Receiver at :ref:`NDT` 11/01/2012.
 
-Supplementary information
-#########################
-
 Data acquisition
 ################
 

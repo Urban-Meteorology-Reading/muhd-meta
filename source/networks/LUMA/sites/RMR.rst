@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/RMR_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/RMR_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/RMR_profile_deployments.csv
    :header-rows: 2
@@ -67,9 +63,6 @@ Photos
 
    View facing South East 03-03-2016.
 
-Supplementary information
-#########################
-
 Data acquisition
 ################
 
@@ -78,7 +71,4 @@ Data acquisition
 References
 ##########
 
-
-Acknowledgements
-################
 

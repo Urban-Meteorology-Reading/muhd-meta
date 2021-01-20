@@ -46,10 +46,6 @@ Deployments at site
    :file: deployments/positions/RGS_deployment_positions.csv
    :header-rows: 2
 
-.. csv-table:: Raw files of deployments
-   :file: deployments/raw_files/RGS_deployment_raw_files.csv
-   :header-rows: 2
-
 .. csv-table:: Metadata specific to profiles
    :file: deployments/profile_deployments/RGS_profile_deployments.csv
    :header-rows: 2
@@ -80,9 +76,6 @@ Photos
    :width: 50 %
 
    Soil moisture nodes in flower bed 25-05-2016.
-
-Supplementary information
-#########################
 
 Data acquisition
 ################
