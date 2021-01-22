@@ -54,4 +54,4 @@ URAO,,FALSE,TRUE,https://research.reading.ac.uk/meteorology/atmospheric-observat
 ,DATAPOINTWEB,FALSE,TRUE,https://www.metoffice.gov.uk/services/data/datapoint,Webpage,Met office datapoint webpage
 ,LGFLWEB,FALSE,TRUE,https://weather.lgfl.org.uk/,Webpage,LGfL webpage
 ,NETATMOWEB,FALSE,TRUE,https://dev.netatmo.com/apidocumentation/weather,Webpage,Netatmo weather api webpage
-IMU,"PSP,SPN1",TRUE,TRUE,/source/supplementary_info/imu_psp_spn1_blocking/IMU_PSP_and_SPN1_radiation_sensor_blocking.pdf,IMU PSP and SPN1 radiation sensor blocking,Details of suspected interference of measurements by PSP and SPN1 at IMU by telecommunications equipment.
+IMU,"PSP,SPN1",TRUE,TRUE,/../../../../supplementary_info/imu_psp_spn1_blocking/IMU_PSP_and_SPN1_radiation_sensor_blocking.pdf,IMU PSP and SPN1 radiation sensor blocking,Details of suspected interference of measurements by PSP and SPN1 at IMU by telecommunications equipment.
