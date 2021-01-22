@@ -114,7 +114,3 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
-References
-##########
-
-

@@ -51,8 +51,3 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
-References
-##########
-
-#. J�rvi, L., Grimmond, C. S. B. and Christen, A. (2011) The surface urban energy and water balance scheme (SUEWS): evaluation in Los Angeles and Vancouver. Journal of Hydrology, 411 (3-4). pp. 219-237. ISSN 0022-1694 doi: https://doi.org/10.1016/j.jhydrol.2011.10.001
-

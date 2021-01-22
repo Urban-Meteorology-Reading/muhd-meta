@@ -91,7 +91,3 @@ Data acquisition
 
 .. include:: data_acquisition/SWTWXSTATION_data_acquisition.rst
 
-References
-##########
-
-

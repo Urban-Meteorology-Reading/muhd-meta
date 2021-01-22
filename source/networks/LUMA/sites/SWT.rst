@@ -98,10 +98,6 @@ Data acquisition
 
 .. include:: data_acquisition/SWT_data_acquisition.rst
 
-References
-##########
-
-
 Acknowledgements
 ################
 

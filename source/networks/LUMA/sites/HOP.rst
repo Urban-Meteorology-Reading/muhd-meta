@@ -83,9 +83,3 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
-References
-##########
-
-#. Harrison, R. M., Beddows, D. C. S., Alam, M. S., Singh, A., Brean, J., Xu, R., Kotthaus, S. and Grimmond, S. (2019) Interpretation of particle number size distributions measured across an urban area during the FASTER campaign. Atmospheric Chemistry and Physics, 19 (1). pp. 39-55. ISSN 1680-7324 doi: https://doi.org/10.5194/acp-19-39-2019
-#. Helfter, C., Tremper, A. H., Halios, C. H., Kotthaus, S., Bjorkegren, A., Grimmond, C. S. B., Barlow, J. F. and Nemitz, E. (2016) Spatial and temporal variability of urban fluxes of methane, carbon monoxide and carbon dioxide above London, UK. Atmospheric Chemistry and Physics, 16 (16). pp. 10543-10557. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-16-10543-2016
-

@@ -50,11 +50,6 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
-References
-##########
-
-#. Tan, J., Yang, L., Grimmond, C. S. B., Shi, J., Gu, W., Chang, Y., Hu, P., Sun, J., Ao, X. and Han, Z. (2015) Urban integrated meteorological observations: practice and experience in Shanghai, China. Bulletin of the American Meteorological Society, 96 (1). pp. 85-102. ISSN 0003-0007 doi: https://doi.org/10.1175/BAMS-D-13-00216.1
-
 Acknowledgements
 ################
 

@@ -49,4 +49,6 @@ Data acquisition
 References
 ##########
 
+#. Bellucco, V. S., Marras, S., Grimmond, C. S. B., J�rvi, L., Sirca, C. and Spano, D. (2017) Modelling the biogenic CO2 exchange in urban and non-urban ecosystems through the assessment of light-response curve parameters. Agricultural and Forest Meteorology, 236. pp. 113-122. ISSN 0168-1923 doi: https://doi.org/10.1016/j.agrformet.2016.12.011
+#. Loridan, T., Grimmond, C.S.B., Offerle, B. D., Young, D. T., Smith, T. E. L., J�rvi, L. and Lindberg, F. (2011) Local-scale urban meteorological parameterization scheme (LUMPS): longwave radiation parameterization and seasonality-related developments. Journal of Applied Meteorology and Climatology, 50 (1). pp. 185-202. ISSN 1558-8424 doi: https://doi.org/10.1175/2010JAMC2474.1
 
