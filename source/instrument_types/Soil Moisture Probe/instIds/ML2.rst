@@ -20,7 +20,7 @@ Processing code
 ###############
 
 Code used to process raw data:
-https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+https://github.com/Urban-Meteorology-Reading/Operations-WSN
 
 Serials
 #######
