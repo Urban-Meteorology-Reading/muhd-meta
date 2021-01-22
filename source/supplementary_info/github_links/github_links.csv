@@ -1,4 +1,4 @@
-Instrument ID,Github URL
+Inst ID,Github URL
 CL31,https://github.com/Urban-Meteorology-Reading/Operations-CEIL
 CT25K,https://github.com/Urban-Meteorology-Reading/Operations-CEIL
 CNR4,https://github.com/Urban-Meteorology-Reading/Operations-Radiometers
@@ -16,6 +16,6 @@ CSAT3,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
 LI7500A,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
 GILL121R03,https://github.com/Urban-Meteorology-Reading/Operations-FLUX
 MICROLITE,https://github.com/Urban-Meteorology-Reading/Operations-Microlite
-SM300,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
-TT200,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
-ML2,https://github.com/Urban-Meteorology-Reading/Operations-WSN/blob/master/WSN_Daily.R
+SM300,https://github.com/Urban-Meteorology-Reading/Operations-WSN
+TT200,https://github.com/Urban-Meteorology-Reading/Operations-WSN
+ML2,https://github.com/Urban-Meteorology-Reading/Operations-WSN

@@ -53,7 +53,7 @@ def write_gh_link(file, gh_dir, instId):
     #read csv 
     gh_links = pd.read_csv(gh_dir)
     #extract link for this site 
-    inst_gh_link = gh_links[gh_links['Instrument ID'] == instId]
+    inst_gh_link = gh_links[gh_links['Inst ID'] == instId]
     if len(inst_gh_link) > 0: 
         write_title(file, 'Processing code')
         inst_gh_link_write = inst_gh_link['Github URL'].values[0]
