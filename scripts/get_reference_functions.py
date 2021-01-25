@@ -89,12 +89,12 @@ def get_search_str(search_type, author = None, site_inst_new = None, centaur_id 
     Get URL after base_url
     '''
     # urls differ for site and inst
-    if search_type == 'inst':
+    if search_type == 'adv':
         exp = ("0%7C1%7C-date%2Fcreators_sort_name%2Ftitle%7Carchive%7C-%7Cnas_fulltext%3Adocuments%3AALL"
                 f"%3AIN%3A{site_inst_new}%7Cnas_multiname%3Aconductors_name%2Fcontributors_name%2Fcreators_name%"
                 f"2Feditors_name%2Flyricists_name%2Fproducers_name%3AALL%3AEQ%3A{author}%7C-%7Ceprint_status%"
                 "3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow")
-    elif search_type == 'site':
+    elif search_type == 'simp':
         exp = (f"exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3A{author}+{site_inst_new}%7C-%7C")
     elif search_type == 'centaur_id':
         exp = (f"0%7C1%7C-date%2Fcreators_sort_name%2Ftitle%7Carchive%7C-%7Cnas_itemid%3Aeprintid%3AALL%3AEQ%3A{centaur_id}"
@@ -110,9 +110,9 @@ def create_search_url(exp, base_url_adv, base_url_simp, search_type):
     '''
 
     #decide whether to use advanced or simple search - this changes the outcome
-    if search_type == 'inst' or search_type == 'centaur_id':
+    if search_type == 'adv' or search_type == 'centaur_id':
         base_url = base_url_adv
-    elif search_type == 'site':
+    elif search_type == 'simp':
         base_url = base_url_simp
 
     # define parameters to use

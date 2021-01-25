@@ -40,7 +40,7 @@ all_insts = inst_df[['instId', 'type']]
 for index, instId in all_insts.iterrows():
     print(f"getting references for {instId['instId']}")
     out_dir = os.path.join(inst_out_dir, instId['type'],'instIds','references')
-    get_ref.get_references(base_url_adv, base_url_simp, instId['instId'], author, 'inst', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
+    get_ref.get_references(base_url_adv, base_url_simp, instId['instId'], author, 'adv', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
 #%%
 # there are 2 search protocols - the specific (used for inst) and non specific (used for most sites)
 # the non specific protocol should be used for these sites to prevent too many references being returned
@@ -51,9 +51,9 @@ for index, site in all_sites.iterrows():
     print(f"getting references for {site['id']}")
     out_dir = os.path.join(site_out_dir, site['network'],'sites','references')
     if site['id'] not in spec_search_sites:
-        get_ref.get_references(base_url_adv, base_url_simp, site['id'], author, 'site', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
+        get_ref.get_references(base_url_adv, base_url_simp, site['id'], author, 'simp', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
     # these return way too many - use more refined inst style search
     else:
-        get_ref.get_references(base_url_adv, base_url_simp, site['id'], author, 'inst', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
+        get_ref.get_references(base_url_adv, base_url_simp, site['id'], author, 'adv', out_dir, omit_df_exists, omit_df, add_df_exists, add_df)
 
 # %%
