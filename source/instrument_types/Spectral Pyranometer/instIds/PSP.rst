@@ -80,7 +80,7 @@ Supplementary information
    * - :download:`PSP manual <manuals/PSP_manual.pdf>`
      - PSP manual
      - Manual from Eppley
-   * - :download:`IMU PSP and SPN1 radiation sensor blocking </../../../../supplementary_info/imu_psp_spn1_blocking/IMU_PSP_and_SPN1_radiation_sensor_blocking.pdf>`
+   * - :download:`IMU PSP and SPN1 radiation sensor blocking <../../../supplementary_info/imu_psp_spn1_blocking/IMU_PSP_and_SPN1_radiation_sensor_blocking.pdf>`
      - IMU PSP and SPN1 radiation sensor blocking
      - Details of suspected interference of measurements by PSP and SPN1 at IMU by telecommunications equipment.
 
