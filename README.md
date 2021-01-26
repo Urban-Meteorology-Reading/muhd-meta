@@ -5,6 +5,10 @@ meta-data repo for MUHD (Multi-City Urban Hydrometeorology Database)
 
 Site and instrument pages are created automatically based on the LUMA database. Please **Do not edit site or instrument pages directly** as these changes will get overwritten. To make changes to these pages please follow the guidance below.
 
+### Notes
+
+These appear at the top of a page for alerts, such as key supplementary info (e.g. [IMU](https://muhd.readthedocs.io/en/latest/networks/LUMA/sites/IMU.html)) or where the metadata is not correct (e.g. [Gill Sonic anemometer](https://muhd.readthedocs.io/en/latest/instrument_types/Gill/instIds/GILL121R03.html)). To add a note edit [notes.csv](source/supplementary_info/notes/notes.csv).
+
 ### Introductions
 
 The introduction is the opening for the page. Use this for a small explanation of what the site or instrument is and any additional information that does not fit elsewhere in the page.
