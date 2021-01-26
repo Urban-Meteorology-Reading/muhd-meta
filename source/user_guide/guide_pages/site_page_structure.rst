@@ -179,6 +179,7 @@ Supplementary information
 *************************
 
 Any additional resources relating to the site.
+If you are using data for a site, please pay close attention to the supplementary info, as it may contain important information on the data.
 
 Data acquisition
 ****************

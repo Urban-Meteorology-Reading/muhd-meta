@@ -102,6 +102,7 @@ Supplementary information
 *************************
 
 This includes (but is not limited to) instrument manuals. In most cases a download link is given but when this is not permissible a url link is given. If you find an expired url please raise a `GitHub Issues`_.
+If you are using data for an instrument, please pay close attention to  the supplementary info, as it may contain important information on the data.
 
 Data acquisition
 ****************
