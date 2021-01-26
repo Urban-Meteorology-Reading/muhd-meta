@@ -1,0 +1,6 @@
+Page Name,Note
+"ARUP,KSC",This site was planned but never used.
+GILL121R03,The instrument type for this instrument should be :ref:`3D Sonic Anemometer`.
+WXT510,The instrument type for this instrument should be :ref:`Weather station`.
+M00100,This is not an instrument. Please see :ref:`TRISONICAWS`.
+"IMU,SPN1,PSP",Check the supplementary info below for important information on the data. 

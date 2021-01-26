@@ -10,6 +10,7 @@ on:
       - source/instrument_types/*/instIds/intros/*_intro.rst
       - source/supplementary_info/supplementary_info.csv
       - source/supplementary_info/github_links/github_links.csv
+      - source/supplementary_info/notes/notes.csv
       - source/site_acknowledgements.csv
       - scripts/gen_site_rst.py 
       - scripts/gen_inst_rst.py 

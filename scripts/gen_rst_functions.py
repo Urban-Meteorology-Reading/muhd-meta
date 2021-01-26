@@ -1,3 +1,18 @@
+def write_notes(file, notes_path, id):
+    '''
+    write any notes in notes csv
+    '''
+    import os
+    import pandas as pd
+    #check if exists
+    if os.path.exists(notes_path):
+        notes_df = pd.read_csv(notes_path)
+        for index, note_row in notes_df.iterrows():
+            all_note_ids = note_row['Page Name'].split(',')
+            if id in all_note_ids:
+                file.write(".. note::\n")
+                file.write(f"   {note_row['Note']}\n\n")
+            
 def write_headers(file, name):
     '''
     Write the referencer and title of file 

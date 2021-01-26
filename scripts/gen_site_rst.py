@@ -30,6 +30,9 @@ for site in sites_to_process:
     site_file_name = f"{site}.rst"
     site_path = os.path.join(site_file_path, site_file_name)
     with io.open(site_path, 'w+', encoding="utf-8") as site_file:
+        # add notes if available
+        notes_path = os.path.join('..', 'source', 'supplementary_info', 'notes', 'notes.csv')
+        gen_rst.write_notes(site_file, notes_path, site)
         #write headings
         gen_rst.write_headers(site_file, site)
         #intro

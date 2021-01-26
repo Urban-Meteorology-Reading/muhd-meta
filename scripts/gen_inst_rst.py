@@ -32,6 +32,9 @@ for instId in insts_to_process:
     inst_dir = os.path.join('..', 'source', 'instrument_types',itype ,'instIds')
     inst_path = os.path.join(inst_dir, inst_file_name)
     with io.open(inst_path, 'w+', encoding="utf-8") as inst_file:
+        # add notes if available
+        notes_path = os.path.join('..', 'source', 'supplementary_info', 'notes', 'notes.csv')
+        gen_rst.write_notes(inst_file, notes_path, instId)
         #write header 
         gen_rst.write_headers(inst_file, instId)
         #intro
