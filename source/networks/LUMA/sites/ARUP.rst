@@ -1,3 +1,6 @@
+.. note::
+   This site was planned but never used.
+
 .. _ARUP:
 
 ****

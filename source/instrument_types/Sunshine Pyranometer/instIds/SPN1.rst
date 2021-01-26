@@ -1,3 +1,6 @@
+.. note::
+   Check the supplementary info below for important information on the data. 
+
 .. _SPN1:
 
 ****

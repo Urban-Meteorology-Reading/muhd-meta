@@ -1,3 +1,6 @@
+.. note::
+   This is not an instrument. Please see :ref:`TRISONICAWS`.
+
 .. _M00100:
 
 ******

@@ -1,3 +1,6 @@
+.. note::
+   The instrument type for this instrument should be :ref:`3D Sonic Anemometer`.
+
 .. _GILL121R03:
 
 **********

@@ -1,8 +1,16 @@
+.. note::
+   Check the supplementary info below for important information on the data. 
+
 .. _IMU:
 
 ***
 IMU
 ***
+
+Introduction
+############
+
+.. include:: intros/IMU_intro.rst
 
 Site metadata
 #############
