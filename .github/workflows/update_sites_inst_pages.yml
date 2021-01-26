@@ -6,6 +6,8 @@ on:
     paths:
       - source/networks/*/sites/photos/*/photo_ref.csv
       - source/instrument_types/*/instIds/photos/*/photo_ref.csv
+      - source/networks/*/sites/intros/*_intro.rst
+      - source/instrument_types/*/instIds/intros/*_intro.rst
       - source/supplementary_info/supplementary_info.csv
       - source/supplementary_info/github_links/github_links.csv
       - source/site_acknowledgements.csv
