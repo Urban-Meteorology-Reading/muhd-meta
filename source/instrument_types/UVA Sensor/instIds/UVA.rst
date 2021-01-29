@@ -46,15 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _060427921:
-
-Serial number: 060427921
-************************
-
-.. csv-table:: 
-   :file: deployments/UVA/060427921_deployments.csv
-   :header-rows: 1
-
 .. _020630656:
 
 Serial number: 020630656
@@ -62,6 +53,15 @@ Serial number: 020630656
 
 .. csv-table:: 
    :file: deployments/UVA/020630656_deployments.csv
+   :header-rows: 1
+
+.. _060427921:
+
+Serial number: 060427921
+************************
+
+.. csv-table:: 
+   :file: deployments/UVA/060427921_deployments.csv
    :header-rows: 1
 
 .. _060427922:

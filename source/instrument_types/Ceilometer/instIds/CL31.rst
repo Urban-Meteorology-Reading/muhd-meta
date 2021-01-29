@@ -46,24 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _WMO03672:
-
-Serial number: WMO03672
-***********************
-
-.. csv-table:: 
-   :file: deployments/CL31/WMO03672_deployments.csv
-   :header-rows: 1
-
-.. _B20201:
-
-Serial number: B20201
-*********************
-
-.. csv-table:: 
-   :file: deployments/CL31/B20201_deployments.csv
-   :header-rows: 1
-
 .. _J1720003:
 
 Serial number: J1720003
@@ -82,13 +64,13 @@ Serial number: F2730001
    :file: deployments/CL31/F2730001_deployments.csv
    :header-rows: 1
 
-.. _F2730002:
+.. _B20201:
 
-Serial number: F2730002
-***********************
+Serial number: B20201
+*********************
 
 .. csv-table:: 
-   :file: deployments/CL31/F2730002_deployments.csv
+   :file: deployments/CL31/B20201_deployments.csv
    :header-rows: 1
 
 .. _B20202:
@@ -98,6 +80,24 @@ Serial number: B20202
 
 .. csv-table:: 
    :file: deployments/CL31/B20202_deployments.csv
+   :header-rows: 1
+
+.. _WMO03672:
+
+Serial number: WMO03672
+***********************
+
+.. csv-table:: 
+   :file: deployments/CL31/WMO03672_deployments.csv
+   :header-rows: 1
+
+.. _F2730002:
+
+Serial number: F2730002
+***********************
+
+.. csv-table:: 
+   :file: deployments/CL31/F2730002_deployments.csv
    :header-rows: 1
 
 .. _103150004:
