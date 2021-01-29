@@ -137,6 +137,15 @@ def get_supplementary_info(sup_info, col, id):
         
     return id_sup_info
 
+def write_data_avail_iframe(file, data_avail_dir):
+    '''
+    Write raw html to embed an iframe data availability plot.
+    '''
+    # write the raw html required to display a slippy map
+    file.write('.. raw:: html\n\n')
+    file.write(f'   <iframe src="{data_avail_dir}" height="600px" width="100%" allowfullscreen=true style="border:0px;"></iframe>\n')
+    file.write('*Double click on legend to isolate instruments.*\n\n')
+
 def write_ref_list(file, references_path):
     '''
     Write all references as a numbered list 

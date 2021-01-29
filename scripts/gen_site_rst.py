@@ -94,7 +94,13 @@ for site in sites_to_process:
             site_file.write(f".. include:: data_acquisition/{site}_data_acquisition.rst\n\n")
         else:
             site_file.write(f".. include:: ../../../data_acquisition/data_acquisition_default.rst\n\n")
-
+        
+        #data availability 
+        data_avail_dir = os.path.join("..", "..", "..", "_static", "availability_plots", f"{site}_availability.html")
+        if os.path.exists(ref_dir):
+            gen_rst.write_title(site_file, "Data availability")
+            # wirte an iframe 
+            gen_rst.write_data_avail_iframe(site_file,data_avail_dir)
         #references
         ref_dir = os.path.join('..', 'source', 'networks', network, 'sites', 'references', f'{site}_references.csv')
         if os.path.exists(ref_dir):

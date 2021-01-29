@@ -12,6 +12,7 @@ on:
       - source/supplementary_info/github_links/github_links.csv
       - source/supplementary_info/notes/notes.csv
       - source/site_acknowledgements.csv
+      - source/_static/availability_plots/*_availability.html
       - scripts/gen_site_rst.py 
       - scripts/gen_inst_rst.py 
   # Allows you to run this workflow manually from the Actions tab
