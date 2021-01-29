@@ -82,6 +82,14 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
+Data availability
+#################
+
+.. raw:: html
+
+   <iframe src="../../../_static/availability_plots/RGS_availability.html" height="600px" width="100%" allowfullscreen=true style="border:0px;"></iframe>
+*Double click on legend to isolate instruments.*
+
 References
 ##########
 

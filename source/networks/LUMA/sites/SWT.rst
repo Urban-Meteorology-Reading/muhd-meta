@@ -98,6 +98,14 @@ Data acquisition
 
 .. include:: data_acquisition/SWT_data_acquisition.rst
 
+Data availability
+#################
+
+.. raw:: html
+
+   <iframe src="../../../_static/availability_plots/SWT_availability.html" height="600px" width="100%" allowfullscreen=true style="border:0px;"></iframe>
+*Double click on legend to isolate instruments.*
+
 Acknowledgements
 ################
 
