@@ -97,7 +97,7 @@ for site in sites_to_process:
         
         #data availability 
         data_avail_dir = os.path.join("..", "..", "..", "_static", "availability_plots", f"{site}_availability.html")
-        if os.path.exists(ref_dir):
+        if os.path.exists(data_avail_dir):
             gen_rst.write_title(site_file, "Data availability")
             # wirte an iframe 
             gen_rst.write_data_avail_iframe(site_file,data_avail_dir)
