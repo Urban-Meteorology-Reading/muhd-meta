@@ -69,6 +69,6 @@ Data availability
 
 .. raw:: html
 
-   <iframe src="../../../_static/availability_plots/HAN_availability.html" height="600px" width="100%" allowfullscreen=true style="border:0px;"></iframe>
+   <iframe src="../../../_static/availability_plots/HAN_availability.html" height="600px" width="1200px" allowfullscreen=true style="border:0px;"></iframe>
 *Double click on legend to isolate instruments.*
 
