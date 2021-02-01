@@ -143,7 +143,7 @@ def write_data_avail_iframe(file, rel_data_avail_dir):
     '''
     # write the raw html required to display a slippy map
     file.write('.. raw:: html\n\n')
-    file.write(f'   <iframe src="{rel_data_avail_dir}" height="600px" width="100%" allowfullscreen=true style="border:0px;"></iframe>\n')
+    file.write(f'   <iframe src="{rel_data_avail_dir}" height="600px" width="1200px" allowfullscreen=true style="border:0px;"></iframe>\n')
     file.write('*Double click on legend to isolate instruments.*\n\n')
 
 def write_ref_list(file, references_path):
