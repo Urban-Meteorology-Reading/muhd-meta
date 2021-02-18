@@ -10,6 +10,7 @@ Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,En
 23,:ref:`SPN1`,:ref:`A517 <A517>`,single,SPN,2011-01-14,2016-04-14
 58,:ref:`MIRICLE`,:ref:`111000 <111000>`,fov,MIRICLE Thermal Camera - Check end date!,2011-05-23,2011-10-01
 59,:ref:`ARG100`,:ref:`042908 <042908>`,single,ARG100,2009-12-17,2016-04-14
-279,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2009-04-22,2016-04-14
+279,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2009-04-22,2011-12-31
+463,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2012-01-01,2016-04-14
 378,:ref:`CL31`,:ref:`F2730002 <F2730002>`,ceilometer,CL31-C,2010-09-21,2011-03-02
 379,:ref:`CL31`,:ref:`F2730001 <F2730001>`,ceilometer,CL31-D,2010-09-23,2011-01-07
