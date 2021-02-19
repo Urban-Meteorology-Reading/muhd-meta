@@ -1,16 +1,21 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
 ,,,Instantaneous/Average
-80,EMB_123_%d%m%y.dt6,30 min,instantaneous
-89,EMB_126_%d%m%y.dt6,30 min,instantaneous
-81,EMB_123_%d%m%y.dt6,30 min,instantaneous
-90,EMB_126_%d%m%y.dt6,30 min,instantaneous
-82,EMB_126_%d%m%y.dt6,30 min,instantaneous
-91,EMB_126_%d%m%y.dt6,30 min,instantaneous
-92,EMB_126_%d%m%y.dt6,30 min,instantaneous
-83,EMB_126_%d%m%y.dt6,30 min,instantaneous
-84,EMB_121_%d%m%y.dt6,30 min,instantaneous
-85,EMB_122_%d%m%y.dt6,30 min,instantaneous
-86,EMB_120_%d%m%y.dt6,30 min,instantaneous
-87,EMB_120_%d%m%y.dt6,30 min,instantaneous
-88,EMB_163_%d%m%y.dt6,30 min,instantaneous
+80,SM300/RAW/EMB_123_%d%m%y.dt6,30 min,instantaneous
+89,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+467,SM300/RAW/EMB_126_%y%m%d.dt6,30 min,instantaneous
+468,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+81,SM300/RAW/EMB_123_%d%m%y.dt6,30 min,instantaneous
+90,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+465,SM300/RAW/EMB_126_%y%m%d.dt6,30 min,instantaneous
+466,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+82,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+91,SM300/RAW/EMB_126_%y%m%d.dt6,30 min,instantaneous
+92,SM300/RAW/EMB_126_%y%m%d.dt6,30 min,instantaneous
+464,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+83,SM300/RAW/EMB_126_%d%m%y.dt6,30 min,instantaneous
+84,SM300/RAW/EMB_121_%d%m%y.dt6,30 min,instantaneous
+85,SM300/RAW/EMB_122_%d%m%y.dt6,30 min,instantaneous
+86,SM300/RAW/EMB_120_%d%m%y.dt6,30 min,instantaneous
+87,SM300/RAW/EMB_120_%d%m%y.dt6,30 min,instantaneous
+88,SM300/RAW/EMB_163_%d%m%y.dt6,30 min,instantaneous
 93,,,instantaneous

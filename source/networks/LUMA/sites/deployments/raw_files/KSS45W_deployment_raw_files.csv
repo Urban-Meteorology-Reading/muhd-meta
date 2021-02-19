@@ -11,6 +11,6 @@ Deployment ID,Raw file name format,Raw file time resolution,Sample type
 58,KSSview1-nnnn.tgw,,instantaneous
 59,EPP/KSS_HUT%y%DOY.dat,5 sec,
 279,CeilometerA/%m/A%q%m%d%H.dat,15,average
-463,CeilometerA/%m/A%q%m%d%H.dat,15,average
+463,CeilometerA/%m/A%q%m%d%H.DAT,15,average
 378,CeilometerC/%m/C%q%m%d%H.dat,15sec,average
 379,CeilometerD/%m/D%q%m%d%H.dat,15sec,average
