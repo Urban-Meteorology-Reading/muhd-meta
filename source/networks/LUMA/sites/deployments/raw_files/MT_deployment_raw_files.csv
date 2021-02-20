@@ -1,12 +1,12 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
 ,,,Instantaneous/Average
-73,MT_120_%d%m%y.dt6,30 min,instantaneous
-271,MT_177_%d%m%y.dt6,30 min,instantaneous
-74,MT_120_%d%m%y.dt6,30 min,instantaneous
-270,MT_177_%d%m%y.dt6,30 min,instantaneous
-75,MT_121_%d%m%y.dt6,30 min,instantaneous
-77,MT_121_%d%m%y.dt6,30 min,instantaneous
-273,MT_121_%d%m%y.dt6,30 min,instantaneous
-76,MT_121_%d%m%y.dt6,30 min,instantaneous
-78,MT_121_%d%m%y.dt6,30 min,instantaneous
-272,MT_121_%d%m%y.dt6,30 min,instantaneous
+73,SM300/RAW/MT_120_%d%m%y.dt6,30 min,instantaneous
+271,SM300/RAW/MT_177_%d%m%y.dt6,30 min,instantaneous
+74,SM300/RAW/MT_120_%d%m%y.dt6,30 min,instantaneous
+270,SM300/RAW/MT_177_%d%m%y.dt6,30 min,instantaneous
+75,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous
+77,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous
+273,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous
+76,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous
+78,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous
+272,SM300/RAW/MT_121_%d%m%y.dt6,30 min,instantaneous

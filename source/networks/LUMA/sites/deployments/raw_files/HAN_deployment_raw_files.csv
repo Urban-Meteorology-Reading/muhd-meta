@@ -1,6 +1,6 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
 ,,,Instantaneous/Average
-69,HAN_122_%d%m%y.dt6,30 min,instantaneous
-71,HAN_126_%d%m%y.dt6,30 min,instantaneous
-70,HAN_122_%d%m%y.dt6,30 min,instantaneous
-72,HAN_126_%d%m%y.dt6,30 min,instantaneous
+69,SM300/RAW/HAN_122_%d%m%y.dt6,30 min,instantaneous
+71,SM300/RAW/HAN_126_%d%m%y.dt6,30 min,instantaneous
+70,SM300/RAW/HAN_122_%d%m%y.dt6,30 min,instantaneous
+72,SM300/RAW/HAN_126_%d%m%y.dt6,30 min,instantaneous
