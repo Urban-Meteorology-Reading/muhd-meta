@@ -29,7 +29,8 @@ Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,En
 229,:ref:`WXT510`,:ref:`B0840006-G0630168 <B0840006-G0630168>`,single,WXT,2013-11-22,2014-07-24
 233,:ref:`WXT510`,:ref:`B0840006-G0630168 <B0840006-G0630168>`,single,WXT,2015-10-09,2016-09-14
 398,:ref:`WXT510`,:ref:`B0840006-G0630168 <B0840006-G0630168>`,single,WXT,2016-09-15,2017-06-13
-284,:ref:`CT25K`,:ref:`LCBRV559 <LCBRV559>`,ceilometer,CT25K-R,2015-06-17,2020-08-01
+284,:ref:`CT25K`,:ref:`LCBRV559 <LCBRV559>`,ceilometer,CT25K-R,2016-01-01,2020-08-01
+469,:ref:`CT25K`,:ref:`LCBRV559 <LCBRV559>`,ceilometer,CT25K-R,2015-06-17,2015-12-31
 321,:ref:`ARG100`,:ref:`042908 <042908>`,single,ARG100,2016-07-14,2017-06-13
 341,:ref:`CSAT3`,:ref:`0194-2 <0194-2>`,ec,EC - check sonic serieal,2012-03-26,2013-03-26
 342,:ref:`CSAT3`,:ref:`0194-2 <0194-2>`,ec,EC - check sonic serieal,2013-03-26,2013-04-01
