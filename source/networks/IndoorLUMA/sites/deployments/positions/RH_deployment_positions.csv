@@ -1,4 +1,4 @@
 Deployment ID,Height,Yaw,Pitch,Roll
 ,m asl,degrees,degrees,degrees
-223,-999.0,,,
-224,-999.0,,,
+223,-999.0,0.0,0.0,0.0
+224,-999.0,0.0,0.0,0.0

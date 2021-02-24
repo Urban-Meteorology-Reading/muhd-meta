@@ -1,15 +1,15 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
 ,,,Instantaneous/Average
-135,,15min,average
-136,,15min,average
-161,,15min,average
-200,,15min,average
-201,,15min,average
-202,,15min,average
-203,,15min,average
-204,,15min,average
-205,,15min,average
-206,,15min,average
-207,,15min,average
-208,,15min,average
+135,../microlite/%m/9178815_%Y-%m-%d.txt,15min,average
+136,../microlite/%m/9178815_%Y-%m-%d.txt,15min,average
+161,../microlite/%m/9178799_%Y-%m-%d.txt,15min,average
+200,../microlite/%m/9178755_%Y-%m-%d.txt,15min,average
+201,../microlite/%m/9178750_%Y-%m-%d.txt,15min,average
+202,../microlite/%m/9178748_%Y-%m-%d.txt,15min,average
+203,../microlite/%m/9178744_%Y-%m-%d.txt,15min,average
+204,../microlite/%m/9178739_%Y-%m-%d.txt,15min,average
+205,../microlite/%m/9178733_%Y-%m-%d.txt,15min,average
+206,../microlite/%m/9178730_%Y-%m-%d.txt,15min,average
+207,../microlite/%m/9178729_%Y-%m-%d.txt,15min,average
+208,../microlite/%m/9178719_%Y-%m-%d.txt,15min,average
 291,../microlite/%m/9178794_%Y-%m-%d.txt,1 min,instantaneous

@@ -1,5 +1,5 @@
 Deployment ID,Raw file name format,Raw file time resolution,Sample type
 ,,,Instantaneous/Average
-215,,2 min,average
-216,,2 min,average
-217,,2 min,average
+215,../microlite/%m/9178792_%Y-%m-%d.txt,2 min,average
+216,../microlite/%m/9178791_%Y-%m-%d.txt,2 min,average
+217,../microlite/%m/9178750_%Y-%m-%d.txt,2 min,average
