@@ -62,5 +62,5 @@ Data acquisition
 References
 ##########
 
-#. Hertwig, D., Ng, M., Grimmond, S., Vidale, P. L. and McGuire, P. C. (2021) High-resolution global climate simulations: representation of cities. International Journal of Climatology. ISSN 0899-8418 doi: https://doi.org/10.1002/joc.7018 (In Press)
+#. Hertwig, D., Ng, M., Grimmond, S., Vidale, P. L. and McGuire, P. C. (2021) High-resolution global climate simulations: representation of cities. International Journal of Climatology. ISSN 0899-8418 doi: https://doi.org/10.1002/joc.7018
 

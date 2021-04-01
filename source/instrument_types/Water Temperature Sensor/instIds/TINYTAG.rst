@@ -26,6 +26,15 @@ Serials
 Deployments
 ###########
 
+.. _571883:
+
+Serial number: 571883
+*********************
+
+.. csv-table:: 
+   :file: deployments/TINYTAG/571883_deployments.csv
+   :header-rows: 1
+
 .. _571884:
 
 Serial number: 571884
@@ -42,15 +51,6 @@ Serial number: 721747
 
 .. csv-table:: 
    :file: deployments/TINYTAG/721747_deployments.csv
-   :header-rows: 1
-
-.. _571883:
-
-Serial number: 571883
-*********************
-
-.. csv-table:: 
-   :file: deployments/TINYTAG/571883_deployments.csv
    :header-rows: 1
 
 Photos

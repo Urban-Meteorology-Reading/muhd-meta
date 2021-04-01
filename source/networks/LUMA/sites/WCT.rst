@@ -72,6 +72,6 @@ Data acquisition
 References
 ##########
 
-#. Morrison, W., Kotthaus, S. and Grimmond, S. (2020) Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability. Urban Climate. ISSN 2212-0955 doi: https://doi.org/10.​1016/​j.​uclim.​2020.​100748 (In Press)
+#. Morrison, W., Kotthaus, S. and Grimmond, S. (2021) Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability. Urban Climate, 35. 100748. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2020.100748
 #. Morrison, W., Yin, T., Lauret, N., Guilleux, J., Kotthaus, S., Gastellu-Etchegorry, J.-P., Norford, L. and Grimmond, S. (2020) Atmospheric and emissivity corrections for ground-based thermography using 3D radiative transfer modelling. Remote Sensing of Environment, 237. 111524. ISSN 00344257 doi: https://doi.org/10.1016/j.rse.2019.111524
 

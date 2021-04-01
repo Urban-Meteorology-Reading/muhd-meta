@@ -40,24 +40,6 @@ Serials
 Deployments
 ###########
 
-.. _AK130521018:
-
-Serial number: AK130521018
-**************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/AK130521018_deployments.csv
-   :header-rows: 1
-
-.. _BE181023018:
-
-Serial number: BE181023018
-**************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/BE181023018_deployments.csv
-   :header-rows: 1
-
 .. _AZ170310004:
 
 Serial number: AZ170310004
@@ -67,13 +49,13 @@ Serial number: AZ170310004
    :file: deployments/DAVIS/AZ170310004_deployments.csv
    :header-rows: 1
 
-.. _AK130521017:
+.. _AJ130401024:
 
-Serial number: AK130521017
+Serial number: AJ130401024
 **************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :file: deployments/DAVIS/AJ130401024_deployments.csv
    :header-rows: 1
 
 .. _A00422A003:
@@ -85,6 +67,15 @@ Serial number: A00422A003
    :file: deployments/DAVIS/A00422A003_deployments.csv
    :header-rows: 1
 
+.. _BE181023018:
+
+Serial number: BE181023018
+**************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/BE181023018_deployments.csv
+   :header-rows: 1
+
 .. _A00422A002:
 
 Serial number: A00422A002
@@ -94,13 +85,22 @@ Serial number: A00422A002
    :file: deployments/DAVIS/A00422A002_deployments.csv
    :header-rows: 1
 
-.. _AJ130401024:
+.. _AK130521017:
 
-Serial number: AJ130401024
+Serial number: AK130521017
 **************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/AJ130401024_deployments.csv
+   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :header-rows: 1
+
+.. _AK130521018:
+
+Serial number: AK130521018
+**************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/AK130521018_deployments.csv
    :header-rows: 1
 
 Photos
@@ -157,7 +157,7 @@ Data acquisition
 References
 ##########
 
-#. Morrison, W., Kotthaus, S. and Grimmond, S. (2020) Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability. Urban Climate. ISSN 2212-0955 doi: https://doi.org/10.​1016/​j.​uclim.​2020.​100748 (In Press)
+#. Morrison, W., Kotthaus, S. and Grimmond, S. (2021) Urban surface temperature observations from ground-based thermography: intra- and inter-facet variability. Urban Climate, 35. 100748. ISSN 2212-0955 doi: https://doi.org/10.1016/j.uclim.2020.100748
 #. Gabey, A. M., Grimmond, C. S. B. and Capel-Timms, I. (2019) Anthropogenic heat flux: advisable spatial resolutions when input data are scarce. Theoretical and Applied Climatology, 135 (1-2). pp. 791-807. ISSN 1434-4483 doi: https://doi.org/10.1007/s00704-018-2367-y
 #. Crawford, B., Grimmond, C. S. B., Ward, H. C., Morrison, W. and Kotthaus, S. (2017) Spatial and temporal patterns of surface-atmosphere energy exchange in a dense urban environment using scintillometry. Quarterly Journal of the Royal Meteorological Society, 143 (703). pp. 817-833. ISSN 1477-870X doi: https://doi.org/10.1002/qj.2967
 
