@@ -91,3 +91,8 @@ Data availability
    <iframe src="../../../_static/availability_plots/HOP_availability.html" height="600px" width="1200px" allowfullscreen=true style="border:0px;"></iframe>
 *Double click on legend to isolate instruments.*
 
+References
+##########
+
+#. Whalley, L. K., Slater, E. J., Woodward-Massey, R., Ye, C., Lee, J. D., Squires, F., Hopkins, J. R., Dunmore, R. E., Shaw, M., Hamilton, J. F., Lewis, A. C., Mehra, A., Worrall, S. D., Bacak, A., Bannan, T. J., Coe, H., Percival, C. J., Ouyang, B., Jones, R. L., Crilley, L. R., Kramer, L. J., Bloss, W. J., Vu, T., Kotthaus, S., Grimmond, S., Sun, Y., Xu, W., Yue, S., Ren, L., Acton, W. J. F., Hewitt, C. N., Wang, X., Fu, P. and Heard, D. E. (2021) Evaluating the sensitivity of radical chemistry and ozone formation to ambient VOCs and NOₓ in Beijing. Atmospheric Chemistry and Physics, 21 (3). pp. 2125-2147. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-21-2125-2021
+

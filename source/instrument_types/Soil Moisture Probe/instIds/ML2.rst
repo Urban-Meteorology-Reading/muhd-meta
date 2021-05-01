@@ -32,15 +32,6 @@ Serials
 Deployments
 ###########
 
-.. _224_063_EMB:
-
-Serial number: 224_063_EMB
-**************************
-
-.. csv-table:: 
-   :file: deployments/ML2/224_063_EMB_deployments.csv
-   :header-rows: 1
-
 .. _224_063:
 
 Serial number: 224_063
@@ -48,6 +39,15 @@ Serial number: 224_063
 
 .. csv-table:: 
    :file: deployments/ML2/224_063_deployments.csv
+   :header-rows: 1
+
+.. _224_063_EMB:
+
+Serial number: 224_063_EMB
+**************************
+
+.. csv-table:: 
+   :file: deployments/ML2/224_063_EMB_deployments.csv
    :header-rows: 1
 
 Supplementary information

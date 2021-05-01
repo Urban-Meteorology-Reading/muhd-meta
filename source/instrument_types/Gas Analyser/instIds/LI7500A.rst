@@ -46,13 +46,13 @@ Serials
 Deployments
 ###########
 
-.. _75H-1973:
+.. _75H-0995:
 
-Serial number: 75H-1973
+Serial number: 75H-0995
 ***********************
 
 .. csv-table:: 
-   :file: deployments/LI7500A/75H-1973_deployments.csv
+   :file: deployments/LI7500A/75H-0995_deployments.csv
    :header-rows: 1
 
 .. _75H-1124:
@@ -64,13 +64,13 @@ Serial number: 75H-1124
    :file: deployments/LI7500A/75H-1124_deployments.csv
    :header-rows: 1
 
-.. _75H-0995:
+.. _75H-1973:
 
-Serial number: 75H-0995
+Serial number: 75H-1973
 ***********************
 
 .. csv-table:: 
-   :file: deployments/LI7500A/75H-0995_deployments.csv
+   :file: deployments/LI7500A/75H-1973_deployments.csv
    :header-rows: 1
 
 Photos
