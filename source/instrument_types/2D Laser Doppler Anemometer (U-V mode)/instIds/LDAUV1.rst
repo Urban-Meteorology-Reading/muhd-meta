@@ -21,31 +21,13 @@ Serials
 Deployments
 ###########
 
-.. _BL1:
+.. _D12:
 
-Serial number: BL1
+Serial number: D12
 ******************
 
 .. csv-table:: 
-   :file: deployments/LDAUV1/BL1_deployments.csv
-   :header-rows: 1
-
-.. _D10-D11:
-
-Serial number: D10-D11
-**********************
-
-.. csv-table:: 
-   :file: deployments/LDAUV1/D10-D11_deployments.csv
-   :header-rows: 1
-
-.. _D13:
-
-Serial number: D13
-******************
-
-.. csv-table:: 
-   :file: deployments/LDAUV1/D13_deployments.csv
+   :file: deployments/LDAUV1/D12_deployments.csv
    :header-rows: 1
 
 .. _BL3:
@@ -66,6 +48,15 @@ Serial number: D14
    :file: deployments/LDAUV1/D14_deployments.csv
    :header-rows: 1
 
+.. _BL1:
+
+Serial number: BL1
+******************
+
+.. csv-table:: 
+   :file: deployments/LDAUV1/BL1_deployments.csv
+   :header-rows: 1
+
 .. _BL2:
 
 Serial number: BL2
@@ -73,6 +64,15 @@ Serial number: BL2
 
 .. csv-table:: 
    :file: deployments/LDAUV1/BL2_deployments.csv
+   :header-rows: 1
+
+.. _D13:
+
+Serial number: D13
+******************
+
+.. csv-table:: 
+   :file: deployments/LDAUV1/D13_deployments.csv
    :header-rows: 1
 
 .. _D15:
@@ -84,13 +84,13 @@ Serial number: D15
    :file: deployments/LDAUV1/D15_deployments.csv
    :header-rows: 1
 
-.. _D12:
+.. _D10-D11:
 
-Serial number: D12
-******************
+Serial number: D10-D11
+**********************
 
 .. csv-table:: 
-   :file: deployments/LDAUV1/D12_deployments.csv
+   :file: deployments/LDAUV1/D10-D11_deployments.csv
    :header-rows: 1
 
 Data acquisition

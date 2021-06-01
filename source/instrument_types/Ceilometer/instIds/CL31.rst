@@ -46,15 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _F2730002:
-
-Serial number: F2730002
-***********************
-
-.. csv-table:: 
-   :file: deployments/CL31/F2730002_deployments.csv
-   :header-rows: 1
-
 .. _103150004:
 
 Serial number: 103150004
@@ -82,15 +73,6 @@ Serial number: F2730001
    :file: deployments/CL31/F2730001_deployments.csv
    :header-rows: 1
 
-.. _WMO03672:
-
-Serial number: WMO03672
-***********************
-
-.. csv-table:: 
-   :file: deployments/CL31/WMO03672_deployments.csv
-   :header-rows: 1
-
 .. _B20202:
 
 Serial number: B20202
@@ -107,6 +89,24 @@ Serial number: J1720003
 
 .. csv-table:: 
    :file: deployments/CL31/J1720003_deployments.csv
+   :header-rows: 1
+
+.. _WMO03672:
+
+Serial number: WMO03672
+***********************
+
+.. csv-table:: 
+   :file: deployments/CL31/WMO03672_deployments.csv
+   :header-rows: 1
+
+.. _F2730002:
+
+Serial number: F2730002
+***********************
+
+.. csv-table:: 
+   :file: deployments/CL31/F2730002_deployments.csv
    :header-rows: 1
 
 Photos
@@ -148,6 +148,7 @@ Data acquisition
 References
 ##########
 
+#. Wang, W., Shao, L., Mazzoleni, C., Li, Y., Kotthaus, S., Grimmond, S., Bhandari, J., Xing, J., Feng, X., Zhang, M. and Shi, Z. (2021) Measurement report: comparison of wintertime individual particles at ground level and above the mixed layer in urban Beijing. Atmospheric Chemistry and Physics, 21 (7). pp. 5301-5314. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-21-5301-2021
 #. Joshi, R., Liu, D., Nemitz, E., Langford, B., Mullinger, N., Squires, F., Lee, J., Wu, Y., Pan, X., Fu, P., Kotthaus, S., Grimmond, S., Zhang, Q., Wu, R., Wild, O., Flynn, M., Coe, H. and Allan, J. (2021) Direct measurements of black carbon fluxes in central Beijing using the eddy covariance method. Atmospheric Chemistry and Physics, 21 (1). pp. 147-162. ISSN 1680-7324 doi: https://doi.org/10.5194/acp-21-147-2021
 #. Kotthaus, S., Haeffelin, M., Drouin, M.-A., Dupont, J.-C., Grimmond, S., Haefele, A., Hervo, M., Poltera, Y. and Wiegner, M. (2020) Tailored algorithms for the detection of the atmospheric boundary layer height from common automatic lidars and ceilometers (ALC). Remote Sensing, 12 (19). p. 3259. ISSN 2072-4292 doi: https://doi.org/10.3390/rs12193259
 #. Hertwig, D., Grimmond, S., Kotthaus, S., Vanderwel, C., Gough, H., Haeffelin, M. and Robins, A. (2020) Variability of physical meteorology in urban areas at different scales: implications for air quality. Faraday Discussions. ISSN 1364-5498 doi: https://doi.org/10.1039/D0FD00098A
@@ -155,8 +156,8 @@ References
 #. Harrison, R. M., Beddows, D. C. S., Alam, M. S., Singh, A., Brean, J., Xu, R., Kotthaus, S. and Grimmond, S. (2019) Interpretation of particle number size distributions measured across an urban area during the FASTER campaign. Atmospheric Chemistry and Physics, 19 (1). pp. 39-55. ISSN 1680-7324 doi: https://doi.org/10.5194/acp-19-39-2019
 #. Shi, Z., Vu, T., Kotthaus, S., Harrison, R. M., Grimmond, S., Yue, S., Zhu, T., Lee, J., Han, Y., Demuzere, M., Dunmore, R. E., Ren, L., Liu, D., Wang, Y., Wild, O., Allan, J., Acton, W. J., Barlow, J., Barratt, B., Beddows, D., Bloss, W. J., Calzolai, G., Carruthers, D., Carslaw, D. C., Chan, Q., Chatzidiakou, L., Chen, Y., Crilley, L., Coe, H., Dai, T., Doherty, R., Duan, F., Fu, P., Ge, B., Ge, M., Guan, D., Hamilton, J. F., He, K., Heal, M., Heard, D., Hewitt, C. N., Hollaway, M., Hu, M., Ji, D., Jiang, X., Jones, R., Kalberer, M., Kelly, F. J., Kramer, L., Langford, B., Lin, C., Lewis, A. C., Li, J., Li, W., Liu, H., Liu, J., Loh, M., Lu, K., Lucarelli, F., Mann, G., McFiggans, G., Miller, M. R., Mills, G., Monk, P., Nemitz, E., O&amp;apos;Connor, F., Ouyang, B., Palmer, P. I., Percival, C., Popoola, O., Reeves, C., Rickard, A. R., Shao, L., Shi, G., Spracklen, D., Stevenson, D., Sun, Y., Sun, Z., Tao, S., Tong, S., Wang, Q., Wang, W., Wang, X., Wang, X., Wang, Z., Wei, L., Whalley, L., Wu, X., Wu, Z., Xie, P., Yang, F., Zhang, Q., Zhang, Y., Zhang, Y. and Zheng, M. (2019) In-depth study of air pollution sources and processes within Beijing and its surrounding region (APHH-Beijing). Atmospheric Chemistry and Physics (11). pp. 7519-7546. ISSN 1680-7316 doi: https://doi.org/10.5194/acp-19-7519-2019
 #. Theeuwes, N. E., Barlow, J. F., Teuling, A. J., Grimmond, C. S. B. and Kotthaus, S. (2019) Persistent cloud cover over mega-cities linked to surface heat release. npj Climate and Atmospheric Science, 2. 15. ISSN 2397-3722 doi: https://doi.org/10.1038/s41612-019-0072-x
-#. Kent, C. W., Grimmond, C. S. B., Gatey, D. and Barlow, J. F. (2018) Assessing methods to extrapolate the vertical wind-speed profile from surface observations in a city centre during strong winds. Journal of Wind Engineering and Industrial Aerodynamics, 173. pp. 100-111. ISSN 0167-6105 doi: https://doi.org/10.1016/j.jweia.2017.09.007
 #. Kotthaus, S. and Grimmond, C. S. B. (2018) Atmospheric boundary layer characteristics from ceilometer measurements. Part 1: a new method to track mixed layer height and classify clouds. Quarterly Journal of the Royal Meteorological Society, 144 (714). pp. 1525-1538. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3299
+#. Kent, C. W., Grimmond, C. S. B., Gatey, D. and Barlow, J. F. (2018) Assessing methods to extrapolate the vertical wind-speed profile from surface observations in a city centre during strong winds. Journal of Wind Engineering and Industrial Aerodynamics, 173. pp. 100-111. ISSN 0167-6105 doi: https://doi.org/10.1016/j.jweia.2017.09.007
 #. Kotthaus, S. and Grimmond, C. S. B. (2018) Atmospheric boundary layer characteristics from Ceilometer measurements part 2: application to London’s urban boundary layer. Quarterly Journal of the Royal Meteorological Society, 144 (714). pp. 1511-1524. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3298
 #. Kotthaus, S., Halios, C. H., Barlow, J. F. and Grimmond, C. S. B. (2018) Volume for pollution dispersion: London’s atmospheric boundary layer during ClearfLo observed with two ground-based lidar types. Atmospheric Environment, 190. pp. 401-414. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2018.06.042
 #. Peng, J., Grimmond, C. S. B., Fu, X. S., Chang, Y. Y., Zhang, G., Guo, J., Tang, C. Y., Gao, J., Xu, X. D. and Tan, J. G. (2017) Ceilometer based analysis of Shanghai’s boundary layer height (under rain and fog free conditions). Journal of Atmospheric and Oceanic Technology, 34 (4). pp. 749-764. ISSN 1520-0426 doi: https://doi.org/10.1175/JTECH-D-16-0132.1
