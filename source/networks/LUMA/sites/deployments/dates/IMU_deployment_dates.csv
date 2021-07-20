@@ -3,7 +3,7 @@ Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,En
 12,:ref:`DAVIS`,:ref:`A00422A003 <A00422A003>`,single,Davis weather station,2013-07-19,2014-07-31
 13,:ref:`DAVIS`,:ref:`A00422A003 <A00422A003>`,single,Davis weather station,2014-08-01,2019-08-30
 280,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2016-04-29,2019-12-18
-457,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2020-02-06,
+457,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2020-02-06,2021-07-15
 314,:ref:`PIR`,:ref:`29757F3 <29757F3>`,single,PIR,2016-05-04,2020-11-04
 315,:ref:`PSP`,:ref:`29765F3 <29765F3>`,single,PSP,2016-05-04,2020-11-04
 316,:ref:`UVA`,:ref:`020630655 <020630655>`,single,UVA,2016-05-04,2020-11-04

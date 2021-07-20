@@ -14,3 +14,4 @@ Deployment ID,Raw file name format,Raw file time resolution,Sample type
 383,CeilometerD/%m/D%q%m%d%H.DAT,15sec,average
 400,WSN/%m/%d/%Y%m%d_node5.csv,15 min,instantaneous
 450,CeilometerX/%m/X%q%m%d%H.DAT,30,average
+471,CeilometerA/%m/A%q%m%d%H.DAT,15sec,average

@@ -14,3 +14,4 @@ Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,En
 383,:ref:`CL31`,:ref:`F2730001 <F2730001>`,ceilometer,CL31-D,2011-01-19,2011-02-02
 400,:ref:`TT200`,:ref:`THERM2 <THERM2>`,single,Node 5,2017-06-21,2020-10-22
 450,:ref:`CT25K`,:ref:`LCBRV312 <LCBRV312>`,ceilometer,CT25K-X,2018-07-17,
+471,:ref:`CL31`,:ref:`B20201 <B20201>`,ceilometer,CL31-A,2021-07-15,

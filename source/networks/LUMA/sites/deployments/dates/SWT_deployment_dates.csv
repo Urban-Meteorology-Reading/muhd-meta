@@ -3,7 +3,7 @@ Deployment ID,Instrument ID,Instrument serial,Type,Deployment name,Start date,En
 372,:ref:`CT25K`,:ref:`LCBR045 <LCBR045>`,ceilometer,CT25K-Q,2016-12-15,2017-11-10
 389,:ref:`BLS`,:ref:`T-E-0470 <T-E-0470>`,scintillometer,BLS Rx,2017-04-06,2020-11-04
 390,:ref:`SWTWXSTATION`,:ref:`SWT123456 <SWT123456>`,single,SWTWX,2017-03-18,
-393,:ref:`CNR1`,:ref:`00022123 <00022123>`,single,CNR1,2017-05-18,
+393,:ref:`CNR1`,:ref:`00022123 <00022123>`,single,CNR1,2017-05-18,2021-07-16
 414,:ref:`LASMKII`,:ref:`120028 <120028>`,scintillometer,SouthwarkLAS,2017-08-25,2021-04-09
 438,:ref:`CL31`,:ref:`F2730001 <F2730001>`,ceilometer,CL31-D,2017-11-10,2020-02-18
 461,:ref:`WINDSET`,:ref:`123 <123>`,profile_complex,SWTWX_grouping,2017-03-18,
