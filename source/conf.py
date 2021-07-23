@@ -38,7 +38,8 @@ list_author=['MUHD - Meta data for observations \n',
              'Beth Saunders https://orcid.org/0000-0002-2788-6134 \n',
              'Ting Sun https://orcid.org/0000-0002-2486-6146 \n',
              'Elliott Warren https://orcid.org/0000-0003-2757-7937 \n']
-author = join(['\n '.join(list_author[:-1]),list_author[-1]])
+author = ' \n '.join(['\n '.join(list_author[:-1]),list_author[-1]])
+
 copyright = f"{year_today}, {author}"
 
 # The full version, including alpha/beta/rc tags
