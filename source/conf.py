@@ -22,7 +22,7 @@ import datetime
 
 project = "MUHD -Multi-city Urban Hydroclimate Data - Meta data for observations"
 year_today=datetime.date.today().isocalendar()[0]
-list_author=['Sue Grimmond','Kit Benjamin','William Morrison','Ting Sun']
+list_author=['Sue Grimmond','Kit Benjamin','William Morrison','Simone Kotthaus','Andy Gabey','Kjell zum Berge','Lukas Pauscher','Brian Offerle','Jess Brown','Helen Ward','Ben Crawford', 'Elliott Warren','Ting Sun']
 author = ' and '.join([', '.join(list_author[:-1]),list_author[-1]])
 copyright = f"{year_today}, {author}"
 
