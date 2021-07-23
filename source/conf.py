@@ -32,7 +32,7 @@ list_author=['Sue Grimmond http://orcid.org/0000-0002-3166-9415',
              'Ben Crawford','Elliott Warren https://orcid.org/0000-0003-2757-7937',
              'Beth Saunders',
              'Ting Sun']
-author = ' and '.join([', '.join(list_author[:-1]),list_author[-1]])
+author = ' and '.join(['\n'.join(list_author[:-1]),list_author[-1]])
 copyright = f"{year_today}, {author}"
 
 # The full version, including alpha/beta/rc tags
@@ -81,7 +81,7 @@ html_theme = 'sphinx_rtd_theme'
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "Urban-Meteorology-Reading", # Username
-    "github_repo": "UMEP-Workshop.io", # Repo name
+    "github_repo": "muhd-meta.io", # Repo name
     "github_version": "master", # Version
     "conf_py_path": "/source/", # Path in the checkout to the docs root
 }
@@ -182,11 +182,11 @@ nbsphinx_prolog = r"""
 
         This page was generated from `{{ docname }}`__.
         Interactive online version:
-        :raw-html:`<a href="https://mybinder.org/v2/gh/Urban-Meteorology-Reading/UMEP-Workshop.io/master?filepath={{ docname }}"><img alt="Binder badge" src="https://mybinder.org/badge.svg" style="vertical-align:text-bottom"></a>`
+        :raw-html:`<a href="https://mybinder.org/v2/gh/Urban-Meteorology-Reading/muhd-meta.io/master?filepath={{ docname }}"><img alt="Binder badge" src="https://mybinder.org/badge.svg" style="vertical-align:text-bottom"></a>`
         Slideshow:
-        :raw-html:`<a href="https://nbviewer.jupyter.org/format/slides/github/Urban-Meteorology-Reading/UMEP-Workshop.io/tree/master/{{ docname }}"><img alt="Binder badge" src="https://img.shields.io/badge/render-nbviewer-orange.svg" style="vertical-align:text-bottom"></a>`
+        :raw-html:`<a href="https://nbviewer.jupyter.org/format/slides/github/Urban-Meteorology-Reading/muhd-meta.io/tree/master/{{ docname }}"><img alt="Binder badge" src="https://img.shields.io/badge/render-nbviewer-orange.svg" style="vertical-align:text-bottom"></a>`
 
-    __ https://github.com/Urban-Meteorology-Reading/UMEP-Workshop.io/blob/master/{{ docname }}
+    __ https://github.com/Urban-Meteorology-Reading/muhd-meta.io/blob/master/{{ docname }}
 
 .. raw:: latex
 
