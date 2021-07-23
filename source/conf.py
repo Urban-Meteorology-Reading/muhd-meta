@@ -29,13 +29,13 @@ list_author=['Authors: \n',
              'Simone Kotthaus https://orcid.org/0000-0002-4051-0705 \n',
              'William Morrison https://orcid.org/0000-0003-1568-8226 \n',
              'Brian Offerle \n',
-             'Lukas Pauscher \n',             
+             'Lukas Pauscher https://orcid.org/0000-0003-3096-5674 \n',             
              'Helen Ward https://orcid.org/0000-0001-8881-185X \n',
-             'Kjell zum Berge \n',
+             'Kjell zum Berge https://orcid.org/0000-0002-7410-7121 \n',
              'Jess Brown \n',
-             'Ben Crawford \n',
+             'Ben Crawford https://orcid.org/0000-0003-3820-7982 \n',
              'Elliott Warren https://orcid.org/0000-0003-2757-7937 \n',
-             'Beth Saunders \n',
+             'Beth Saunders https://orcid.org/0000-0002-2788-6134 \n',
              'Ting Sun https://orcid.org/0000-0002-2486-6146 \n']
 author = ' and '.join(['\n '.join(list_author[:-1]),list_author[-1]])
 copyright = f"{year_today}, {author}"
