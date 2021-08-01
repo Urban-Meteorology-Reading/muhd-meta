@@ -46,15 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _120029:
-
-Serial number: 120029
-*********************
-
-.. csv-table:: 
-   :file: deployments/LASMKII/120029_deployments.csv
-   :header-rows: 1
-
 .. _120028:
 
 Serial number: 120028
@@ -62,6 +53,15 @@ Serial number: 120028
 
 .. csv-table:: 
    :file: deployments/LASMKII/120028_deployments.csv
+   :header-rows: 1
+
+.. _120029:
+
+Serial number: 120029
+*********************
+
+.. csv-table:: 
+   :file: deployments/LASMKII/120029_deployments.csv
    :header-rows: 1
 
 Photos

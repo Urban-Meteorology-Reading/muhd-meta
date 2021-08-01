@@ -32,6 +32,15 @@ Serials
 Deployments
 ###########
 
+.. _020630658:
+
+Serial number: 020630658
+************************
+
+.. csv-table:: 
+   :file: deployments/UVB/020630658_deployments.csv
+   :header-rows: 1
+
 .. _060427925:
 
 Serial number: 060427925
@@ -57,15 +66,6 @@ Serial number: 020630657
 
 .. csv-table:: 
    :file: deployments/UVB/020630657_deployments.csv
-   :header-rows: 1
-
-.. _020630658:
-
-Serial number: 020630658
-************************
-
-.. csv-table:: 
-   :file: deployments/UVB/020630658_deployments.csv
    :header-rows: 1
 
 Photos
