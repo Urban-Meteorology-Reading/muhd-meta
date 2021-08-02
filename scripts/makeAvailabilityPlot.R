@@ -12,16 +12,16 @@ library(plotly)
 library(httr)
 library(jsonlite)
 
-source('makeAvailabilityPlotFunctions.R')
+source('scripts/makeAvailabilityPlotFunctions.R')
 
-#get sites from api
-LUMAsiteIDs <- getLUMAsiteIDs()
+#### a space separated file of username and password for LUMA web products
+credentialsFile <- 'scripts/credentials.txt'
+#get sites from api 
+LUMAsiteIDs <- getLUMAsiteIDs(credentialsFile)
 
 #specify which sites the plots have already been created (to save going through all)
-#done <- c('IMU', 'IML', 'BCT')
-done <- c('CUB', 'NDT', 'KSK15S', 'KSK', 'KSB', 'IMU', 'IML', 'HOP', 'HAN', 'BTT',
-          'BTM', 'BGH', 'BFCL', 'BCTW', 'BCT', 'KSS', 'KSNW', 'KSS45W', 'KSSW',
-          'MR', 'MT', 'RGS', 'NTT', 'NK', 'NGT')
+done <- c()
+
 for (siteId in LUMAsiteIDs){
   print(siteId)
   if (siteId %in% done){
@@ -96,21 +96,6 @@ for (siteId in LUMAsiteIDs){
     mutate(TIME = as.POSIXct(DOYYEAR, format='%j-%Y')) %>%  
     mutate(dailyPresentPercentage = plyr::round_any(dailyPresentPercentage, 0.1))
   
-  # dailyDataAvailabilityPlot <- dailyDataAvailability %>% 
-  #   mutate(TIME_str = strftime(TIME, '%Y-%m-%d')) %>%
-  #   ggplot(aes(TIME_str, dailyPresentPercentage, color = instID)) + 
-  #   geom_point(size = 0.6, alpha = 0.4) + 
-  #   #facet_wrap(~YEAR,  ncol = 3, scales = 'free_x') +
-  #   scale_x_discrete(breaks = c("2013-01-01", "2015-01-01"))+
-  #   xlab('Date and time (month)') + 
-  #   ylab('Percentage of yearly maximum possible data present (%)') + 
-  #   ggtitle(paste('Availability of instruments at', siteId)) +
-  #   ylim(c(0,100))+
-  #   scale_color_manual(values = as.vector(pals::glasbey()))+
-  #   guides(colour = guide_legend(override.aes = list(size=3, alpha = 1), 
-  #                                title = 'Instrument ID')) + 
-  #   theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1))
-  
   # font
   f <- list(family = "Arial, Narrow Regular",
             size = 15)
@@ -150,8 +135,7 @@ for (siteId in LUMAsiteIDs){
                                      margin = m)
   # save html file
   htmlwidgets::saveWidget(as_widget(dailyDataAvailabilityPlot), 
-                          file.path(Sys.getenv('HOME'), 'kitTemp',
-                                    'availabilityPlotImages', 'html',
+                          file.path('source', '_static', 'availability_plots',
                                     paste0(siteId, '_availability.html')), 
                           selfcontained = F, libdir = "libs")
   

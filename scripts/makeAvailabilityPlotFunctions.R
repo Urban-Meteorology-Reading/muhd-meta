@@ -1,7 +1,7 @@
-getLUMAsiteIDs <- function(){
+getLUMAsiteIDs <- function(credentialsFile){
   # make request to api for all sites
   url <- "https://data.urban-climate.net/metadata/queries/getSites.php"
-  credentials = strsplit(readLines('credentials.txt'), ' ')[[1]]
+  credentials = strsplit(readLines(credentialsFile), ' ')[[1]]
   return <- GET(url, authenticate(credentials[1], credentials[2]))
   #extract LUMA
   allSites <- fromJSON(content(return, "text"))
@@ -157,7 +157,6 @@ getInstData <- function(inst, instVars){
 
 manualInfoChange <- function(siteId, siteData, siteInf){
   #general ways of maniplating metadata to make it behave 
-  
   #multiple SM300 at RGS - use depth in inst id
   if( siteId == 'RGS' ){
     siteInf <- siteInf %>% mutate(instId = case_when(
@@ -171,6 +170,8 @@ manualInfoChange <- function(siteId, siteData, siteInf){
         x$metadata$instrument$id <- 'SM300 -10cm'
       } else if (x$metadata$instrument$serial %in% c('A01360', 'A01366', 'A01362')) {
         x$metadata$instrument$id <- 'SM300 -15cm'
+      } else if (x$metadata$instrument$id == 'CL31') {
+        x$metadata$instrument$id <- paste('CL31', x$metadata$instrument$serial)
       }
       return(x)})
   }
@@ -391,7 +392,6 @@ newSerialInfo <- function(siteInf){
     # check if more than 1 serial for this instrument
     if (table(siteInf[['instId']])[[iId]] > 1) {
       newSiteInst <- alterInstrumentInfo(iIdInf) 
-        
       #check if couldnt work it out
       if (is.null(newSiteInst)){
         newSiteInst <- iIdInf %>% mutate(multipleSerials = TRUE, nameChange = TRUE, needsManualWork = TRUE)
@@ -446,6 +446,7 @@ getCombinedData <- function(siteInf2, siteData){
 
 getSiteData2 <- function(siteInf2, siteData){
   #create the combined data
+  
   combinedData <- getCombinedData(siteInf2, siteData)
   if (length(combinedData) > 0){
     multiSerials <- siteInf2 %>% filter(multipleSerials == TRUE, needsManualWork == F)
@@ -551,8 +552,6 @@ getDataPresentPrec <- function(instData, siteInf2){
   message('Calculating availability')
 
   if (!is.null(instData)){
-    #browser()
-    #print(instData)
     # get the instrument info. Take first (as multiple out defs) 
     instInfo <- siteInf2 %>% 
       filter(instId == instData$metadata$instrument$id &
