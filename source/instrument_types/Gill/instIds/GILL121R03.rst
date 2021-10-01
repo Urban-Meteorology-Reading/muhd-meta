@@ -49,15 +49,6 @@ Serials
 Deployments
 ###########
 
-.. _152701:
-
-Serial number: 152701
-*********************
-
-.. csv-table:: 
-   :file: deployments/GILL121R03/152701_deployments.csv
-   :header-rows: 1
-
 .. _1070-3:
 
 Serial number: 1070-3
@@ -65,6 +56,15 @@ Serial number: 1070-3
 
 .. csv-table:: 
    :file: deployments/GILL121R03/1070-3_deployments.csv
+   :header-rows: 1
+
+.. _152701:
+
+Serial number: 152701
+*********************
+
+.. csv-table:: 
+   :file: deployments/GILL121R03/152701_deployments.csv
    :header-rows: 1
 
 .. _307:

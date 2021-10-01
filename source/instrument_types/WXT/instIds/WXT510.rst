@@ -52,24 +52,6 @@ Serial number: B0840003
    :file: deployments/WXT510/B0840003_deployments.csv
    :header-rows: 1
 
-.. _B0840006-G0630168:
-
-Serial number: B0840006-G0630168
-********************************
-
-.. csv-table:: 
-   :file: deployments/WXT510/B0840006-G0630168_deployments.csv
-   :header-rows: 1
-
-.. _E1620005:
-
-Serial number: E1620005
-***********************
-
-.. csv-table:: 
-   :file: deployments/WXT510/E1620005_deployments.csv
-   :header-rows: 1
-
 .. _B084005:
 
 Serial number: B084005
@@ -79,6 +61,15 @@ Serial number: B084005
    :file: deployments/WXT510/B084005_deployments.csv
    :header-rows: 1
 
+.. _B0840006-G0630168:
+
+Serial number: B0840006-G0630168
+********************************
+
+.. csv-table:: 
+   :file: deployments/WXT510/B0840006-G0630168_deployments.csv
+   :header-rows: 1
+
 .. _E1620004:
 
 Serial number: E1620004
@@ -86,6 +77,15 @@ Serial number: E1620004
 
 .. csv-table:: 
    :file: deployments/WXT510/E1620004_deployments.csv
+   :header-rows: 1
+
+.. _E1620005:
+
+Serial number: E1620005
+***********************
+
+.. csv-table:: 
+   :file: deployments/WXT510/E1620005_deployments.csv
    :header-rows: 1
 
 .. _B084006:

@@ -40,15 +40,6 @@ Serials
 Deployments
 ###########
 
-.. _HGA-0418:
-
-Serial number: HGA-0418
-***********************
-
-.. csv-table:: 
-   :file: deployments/LI840/HGA-0418_deployments.csv
-   :header-rows: 1
-
 .. _HGA-0416:
 
 Serial number: HGA-0416
@@ -56,6 +47,15 @@ Serial number: HGA-0416
 
 .. csv-table:: 
    :file: deployments/LI840/HGA-0416_deployments.csv
+   :header-rows: 1
+
+.. _HGA-0418:
+
+Serial number: HGA-0418
+***********************
+
+.. csv-table:: 
+   :file: deployments/LI840/HGA-0418_deployments.csv
    :header-rows: 1
 
 Photos

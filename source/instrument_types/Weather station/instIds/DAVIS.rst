@@ -49,22 +49,13 @@ Serial number: BE181023018
    :file: deployments/DAVIS/BE181023018_deployments.csv
    :header-rows: 1
 
-.. _AK130521018:
+.. _A00422A002:
 
-Serial number: AK130521018
-**************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/AK130521018_deployments.csv
-   :header-rows: 1
-
-.. _AK130521017:
-
-Serial number: AK130521017
-**************************
+Serial number: A00422A002
+*************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :file: deployments/DAVIS/A00422A002_deployments.csv
    :header-rows: 1
 
 .. _AJ130401024:
@@ -85,13 +76,22 @@ Serial number: AZ170310004
    :file: deployments/DAVIS/AZ170310004_deployments.csv
    :header-rows: 1
 
-.. _A00422A002:
+.. _AK130521017:
 
-Serial number: A00422A002
-*************************
+Serial number: AK130521017
+**************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/A00422A002_deployments.csv
+   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :header-rows: 1
+
+.. _AK130521018:
+
+Serial number: AK130521018
+**************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/AK130521018_deployments.csv
    :header-rows: 1
 
 .. _A00422A003:
