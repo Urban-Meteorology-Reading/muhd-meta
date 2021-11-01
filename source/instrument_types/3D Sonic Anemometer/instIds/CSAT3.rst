@@ -46,6 +46,15 @@ Serials
 Deployments
 ###########
 
+.. _0194-2:
+
+Serial number: 0194-2
+*********************
+
+.. csv-table:: 
+   :file: deployments/CSAT3/0194-2_deployments.csv
+   :header-rows: 1
+
 .. _1188-1:
 
 Serial number: 1188-1
@@ -62,15 +71,6 @@ Serial number: 0192-2
 
 .. csv-table:: 
    :file: deployments/CSAT3/0192-2_deployments.csv
-   :header-rows: 1
-
-.. _0194-2:
-
-Serial number: 0194-2
-*********************
-
-.. csv-table:: 
-   :file: deployments/CSAT3/0194-2_deployments.csv
    :header-rows: 1
 
 Photos

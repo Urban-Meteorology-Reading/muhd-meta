@@ -35,15 +35,6 @@ Serials
 Deployments
 ###########
 
-.. _123456:
-
-Serial number: 123456
-*********************
-
-.. csv-table:: 
-   :file: deployments/THERMOCOUPLE/123456_deployments.csv
-   :header-rows: 1
-
 .. _BCH004:
 
 Serial number: BCH004
@@ -51,6 +42,15 @@ Serial number: BCH004
 
 .. csv-table:: 
    :file: deployments/THERMOCOUPLE/BCH004_deployments.csv
+   :header-rows: 1
+
+.. _123456:
+
+Serial number: 123456
+*********************
+
+.. csv-table:: 
+   :file: deployments/THERMOCOUPLE/123456_deployments.csv
    :header-rows: 1
 
 Data acquisition

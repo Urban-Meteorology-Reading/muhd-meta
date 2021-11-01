@@ -74,6 +74,7 @@ Data availability
 References
 ##########
 
+#. Sützl, B. S., Rooney, G. G., Finnenkoetter, A., Bohnenstengel, S. I., Grimmond, C. S. B. and Reeuwijk, M. v. (2021) Distributed urban drag parameterization for sub‐kilometre scale numerical weather prediction. Quarterly Journal of the Royal Meteorological Society. ISSN 1477-870X doi: https://doi.org/10.1002/qj.4162
 #. Warren, E., Charlton-Perez, C., Kotthaus, S., Marenco, F., Ryder, C., Johnson, B., Green, D., Lean, H., Ballard, S. and Grimmond, S. (2020) Observed aerosol characteristics to improve forward-modelled attenuated backscatter in urban areas. Atmospheric Environment, 224. 117177. ISSN 13522310 doi: https://doi.org/10.1016/j.atmosenv.2019.117177
 #. Tsiringakis, A., Steeneveld, G.‐J., Holtslag, A. A. M., Kotthaus, S. and Grimmond, S. (2019) On‐ and off‐line evaluation of the single‐layer urban canopy model in London summertime conditions. Quarterly Journal of the Royal Meteorological Society, 145 (721). pp. 1474-1489. ISSN 1477-870X doi: https://doi.org/10.1002/qj.3505
 #. Kotthaus, S., Halios, C. H., Barlow, J. F. and Grimmond, C. S. B. (2018) Volume for pollution dispersion: London’s atmospheric boundary layer during ClearfLo observed with two ground-based lidar types. Atmospheric Environment, 190. pp. 401-414. ISSN 1352-2310 doi: https://doi.org/10.1016/j.atmosenv.2018.06.042
