@@ -46,31 +46,13 @@ Serials
 Deployments
 ###########
 
-.. _LCBR022:
+.. _LCBRV312:
 
-Serial number: LCBR022
-**********************
-
-.. csv-table:: 
-   :file: deployments/CT25K/LCBR022_deployments.csv
-   :header-rows: 1
-
-.. _LCBRV559:
-
-Serial number: LCBRV559
+Serial number: LCBRV312
 ***********************
 
 .. csv-table:: 
-   :file: deployments/CT25K/LCBRV559_deployments.csv
-   :header-rows: 1
-
-.. _LCBRV098:
-
-Serial number: LCBRV098
-***********************
-
-.. csv-table:: 
-   :file: deployments/CT25K/LCBRV098_deployments.csv
+   :file: deployments/CT25K/LCBRV312_deployments.csv
    :header-rows: 1
 
 .. _LCBRV017:
@@ -82,22 +64,13 @@ Serial number: LCBRV017
    :file: deployments/CT25K/LCBRV017_deployments.csv
    :header-rows: 1
 
-.. _LCBRV010:
+.. _LCBRV559:
 
-Serial number: LCBRV010
+Serial number: LCBRV559
 ***********************
 
 .. csv-table:: 
-   :file: deployments/CT25K/LCBRV010_deployments.csv
-   :header-rows: 1
-
-.. _LCBRV152:
-
-Serial number: LCBRV152
-***********************
-
-.. csv-table:: 
-   :file: deployments/CT25K/LCBRV152_deployments.csv
+   :file: deployments/CT25K/LCBRV559_deployments.csv
    :header-rows: 1
 
 .. _LCBR327:
@@ -109,13 +82,13 @@ Serial number: LCBR327
    :file: deployments/CT25K/LCBR327_deployments.csv
    :header-rows: 1
 
-.. _LCBRV312:
+.. _LCBR022:
 
-Serial number: LCBRV312
-***********************
+Serial number: LCBR022
+**********************
 
 .. csv-table:: 
-   :file: deployments/CT25K/LCBRV312_deployments.csv
+   :file: deployments/CT25K/LCBR022_deployments.csv
    :header-rows: 1
 
 .. _LCBR045:
@@ -125,6 +98,33 @@ Serial number: LCBR045
 
 .. csv-table:: 
    :file: deployments/CT25K/LCBR045_deployments.csv
+   :header-rows: 1
+
+.. _LCBRV010:
+
+Serial number: LCBRV010
+***********************
+
+.. csv-table:: 
+   :file: deployments/CT25K/LCBRV010_deployments.csv
+   :header-rows: 1
+
+.. _LCBRV098:
+
+Serial number: LCBRV098
+***********************
+
+.. csv-table:: 
+   :file: deployments/CT25K/LCBRV098_deployments.csv
+   :header-rows: 1
+
+.. _LCBRV152:
+
+Serial number: LCBRV152
+***********************
+
+.. csv-table:: 
+   :file: deployments/CT25K/LCBRV152_deployments.csv
    :header-rows: 1
 
 Photos
