@@ -46,13 +46,13 @@ Serials
 Deployments
 ###########
 
-.. _0192-2:
+.. _0194-2:
 
-Serial number: 0192-2
+Serial number: 0194-2
 *********************
 
 .. csv-table:: 
-   :file: deployments/CSAT3/0192-2_deployments.csv
+   :file: deployments/CSAT3/0194-2_deployments.csv
    :header-rows: 1
 
 .. _1188-1:
@@ -64,13 +64,13 @@ Serial number: 1188-1
    :file: deployments/CSAT3/1188-1_deployments.csv
    :header-rows: 1
 
-.. _0194-2:
+.. _0192-2:
 
-Serial number: 0194-2
+Serial number: 0192-2
 *********************
 
 .. csv-table:: 
-   :file: deployments/CSAT3/0194-2_deployments.csv
+   :file: deployments/CSAT3/0192-2_deployments.csv
    :header-rows: 1
 
 Photos
@@ -122,7 +122,7 @@ Data acquisition
 References
 ##########
 
-#. Theeuwes, N. E., Boutle, I. A., Clark, P. A. and Grimmond, S. (2021) Understanding London's summertime cloud cover. Quarterly Journal of the Royal Meteorological Society. ISSN 1477-870X doi: https://doi.org/10.1002/qj.4214 (In Press)
+#. Theeuwes, N. E., Boutle, I. A., Clark, P. A. and Grimmond, S. (2021) Understanding London's summertime cloud cover. Quarterly Journal of the Royal Meteorological Society. ISSN 1477-870X doi: https://doi.org/10.1002/qj.4214
 #. Duan, Z., Grimmond, S., Gao, C. Y., Sun, T., Liu, C., Wang, L., Li, Y. and Gao, Z. (2021) Seasonal and interannual variations in the surface energy fluxes of a rice–wheat rotation in Eastern China. Journal of Applied Meteorology and Climatology. ISSN 1558-8432 doi: https://doi.org/10.1175/jamc-d-20-0233.1
 #. Hertwig, D., Grimmond, S., Hendry, M. A., Saunders, B., Wang, Z., Jeoffrion, M., Vidale, P. L., McGuire, P. C., Bohnenstengel, S. I., Ward, H. C. and Kotthaus, S. (2020) Urban signals in high-resolution weather and climate simulations: role of urban land-surface characterisation. Theoretical and Applied Climatology, 142. pp. 701-728. ISSN 0177-798X doi: https://doi.org/10.1007/s00704-020-03294-1
 #. Kent, C. W., Grimmond, S., Gatey, D. and Hirano, K. (2019) Urban morphology parameters from global digital elevation models: implications for aerodynamic roughness for wind-speed estimation. Remote Sensing of Environment, 221. pp. 316-339. ISSN 0034-4257 doi: https://doi.org/10.1016/j.rse.2018.09.024
