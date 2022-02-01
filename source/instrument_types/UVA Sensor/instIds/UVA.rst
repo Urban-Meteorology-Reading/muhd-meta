@@ -46,13 +46,13 @@ Serials
 Deployments
 ###########
 
-.. _060427922:
+.. _020630656:
 
-Serial number: 060427922
+Serial number: 020630656
 ************************
 
 .. csv-table:: 
-   :file: deployments/UVA/060427922_deployments.csv
+   :file: deployments/UVA/020630656_deployments.csv
    :header-rows: 1
 
 .. _020630655:
@@ -64,6 +64,15 @@ Serial number: 020630655
    :file: deployments/UVA/020630655_deployments.csv
    :header-rows: 1
 
+.. _060427922:
+
+Serial number: 060427922
+************************
+
+.. csv-table:: 
+   :file: deployments/UVA/060427922_deployments.csv
+   :header-rows: 1
+
 .. _060427921:
 
 Serial number: 060427921
@@ -71,15 +80,6 @@ Serial number: 060427921
 
 .. csv-table:: 
    :file: deployments/UVA/060427921_deployments.csv
-   :header-rows: 1
-
-.. _020630656:
-
-Serial number: 020630656
-************************
-
-.. csv-table:: 
-   :file: deployments/UVA/020630656_deployments.csv
    :header-rows: 1
 
 Photos

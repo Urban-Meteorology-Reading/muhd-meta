@@ -51,3 +51,8 @@ Data acquisition
 
 .. include:: ../../../data_acquisition/data_acquisition_default.rst
 
+References
+##########
+
+#. Hu, Y., Tan, J., Grimmond, S., Ao, X., Yan, Y. and Liu, D. (2021) Observed and modeled urban heat island and sea breeze circulation interactions: a Shanghai case study. Journal of Applied Meteorology and Climatology. ISSN 1558-8432 doi: https://doi.org/10.1175/JAMC-D-20-0246.1 (In Press)
+

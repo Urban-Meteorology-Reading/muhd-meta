@@ -46,15 +46,6 @@ Serials
 Deployments
 ###########
 
-.. _100311:
-
-Serial number: 100311
-*********************
-
-.. csv-table:: 
-   :file: deployments/CNR4/100311_deployments.csv
-   :header-rows: 1
-
 .. _100312:
 
 Serial number: 100312
@@ -80,6 +71,15 @@ Serial number: 090064
 
 .. csv-table:: 
    :file: deployments/CNR4/090064_deployments.csv
+   :header-rows: 1
+
+.. _100311:
+
+Serial number: 100311
+*********************
+
+.. csv-table:: 
+   :file: deployments/CNR4/100311_deployments.csv
    :header-rows: 1
 
 Photos

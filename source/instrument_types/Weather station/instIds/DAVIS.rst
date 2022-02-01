@@ -40,49 +40,13 @@ Serials
 Deployments
 ###########
 
-.. _AK130521018:
+.. _AJ130401024:
 
-Serial number: AK130521018
+Serial number: AJ130401024
 **************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/AK130521018_deployments.csv
-   :header-rows: 1
-
-.. _A00422A003:
-
-Serial number: A00422A003
-*************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/A00422A003_deployments.csv
-   :header-rows: 1
-
-.. _AZ170310004:
-
-Serial number: AZ170310004
-**************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/AZ170310004_deployments.csv
-   :header-rows: 1
-
-.. _A00422A002:
-
-Serial number: A00422A002
-*************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/A00422A002_deployments.csv
-   :header-rows: 1
-
-.. _AK130521017:
-
-Serial number: AK130521017
-**************************
-
-.. csv-table:: 
-   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :file: deployments/DAVIS/AJ130401024_deployments.csv
    :header-rows: 1
 
 .. _BE181023018:
@@ -94,13 +58,49 @@ Serial number: BE181023018
    :file: deployments/DAVIS/BE181023018_deployments.csv
    :header-rows: 1
 
-.. _AJ130401024:
+.. _AK130521017:
 
-Serial number: AJ130401024
+Serial number: AK130521017
 **************************
 
 .. csv-table:: 
-   :file: deployments/DAVIS/AJ130401024_deployments.csv
+   :file: deployments/DAVIS/AK130521017_deployments.csv
+   :header-rows: 1
+
+.. _A00422A002:
+
+Serial number: A00422A002
+*************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/A00422A002_deployments.csv
+   :header-rows: 1
+
+.. _AZ170310004:
+
+Serial number: AZ170310004
+**************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/AZ170310004_deployments.csv
+   :header-rows: 1
+
+.. _A00422A003:
+
+Serial number: A00422A003
+*************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/A00422A003_deployments.csv
+   :header-rows: 1
+
+.. _AK130521018:
+
+Serial number: AK130521018
+**************************
+
+.. csv-table:: 
+   :file: deployments/DAVIS/AK130521018_deployments.csv
    :header-rows: 1
 
 Photos
