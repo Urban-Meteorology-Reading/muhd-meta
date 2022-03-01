@@ -49,15 +49,6 @@ Serial number: C12080019_L17050029_NORMALDISTORTIONCORRECTION
    :file: deployments/PI160/C12080019_L17050029_NORMALDISTORTIONCORRECTION_deployments.csv
    :header-rows: 1
 
-.. _C12080017_L17050013:
-
-Serial number: C12080017_L17050013
-**********************************
-
-.. csv-table:: 
-   :file: deployments/PI160/C12080017_L17050013_deployments.csv
-   :header-rows: 1
-
 .. _C12080019_L12080002:
 
 Serial number: C12080019_L12080002
@@ -65,33 +56,6 @@ Serial number: C12080019_L12080002
 
 .. csv-table:: 
    :file: deployments/PI160/C12080019_L12080002_deployments.csv
-   :header-rows: 1
-
-.. _C12080103_L17050030:
-
-Serial number: C12080103_L17050030
-**********************************
-
-.. csv-table:: 
-   :file: deployments/PI160/C12080103_L17050030_deployments.csv
-   :header-rows: 1
-
-.. _C12060057_L12060030:
-
-Serial number: C12060057_L12060030
-**********************************
-
-.. csv-table:: 
-   :file: deployments/PI160/C12060057_L12060030_deployments.csv
-   :header-rows: 1
-
-.. _C12060057_L16080014:
-
-Serial number: C12060057_L16080014
-**********************************
-
-.. csv-table:: 
-   :file: deployments/PI160/C12060057_L16080014_deployments.csv
    :header-rows: 1
 
 .. _C12080019_L17050029:
@@ -103,13 +67,13 @@ Serial number: C12080019_L17050029
    :file: deployments/PI160/C12080019_L17050029_deployments.csv
    :header-rows: 1
 
-.. _C12070069_L17050015:
+.. _C12070026_L12060012:
 
-Serial number: C12070069_L17050015
+Serial number: C12070026_L12060012
 **********************************
 
 .. csv-table:: 
-   :file: deployments/PI160/C12070069_L17050015_deployments.csv
+   :file: deployments/PI160/C12070026_L12060012_deployments.csv
    :header-rows: 1
 
 .. _C12080016_L16060004:
@@ -121,13 +85,49 @@ Serial number: C12080016_L16060004
    :file: deployments/PI160/C12080016_L16060004_deployments.csv
    :header-rows: 1
 
-.. _C12070026_L12060012:
+.. _C12060057_L12060030:
 
-Serial number: C12070026_L12060012
+Serial number: C12060057_L12060030
 **********************************
 
 .. csv-table:: 
-   :file: deployments/PI160/C12070026_L12060012_deployments.csv
+   :file: deployments/PI160/C12060057_L12060030_deployments.csv
+   :header-rows: 1
+
+.. _C12070069_L17050015:
+
+Serial number: C12070069_L17050015
+**********************************
+
+.. csv-table:: 
+   :file: deployments/PI160/C12070069_L17050015_deployments.csv
+   :header-rows: 1
+
+.. _C12080103_L17050030:
+
+Serial number: C12080103_L17050030
+**********************************
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080103_L17050030_deployments.csv
+   :header-rows: 1
+
+.. _C12080017_L17050013:
+
+Serial number: C12080017_L17050013
+**********************************
+
+.. csv-table:: 
+   :file: deployments/PI160/C12080017_L17050013_deployments.csv
+   :header-rows: 1
+
+.. _C12060057_L16080014:
+
+Serial number: C12060057_L16080014
+**********************************
+
+.. csv-table:: 
+   :file: deployments/PI160/C12060057_L16080014_deployments.csv
    :header-rows: 1
 
 Supplementary information
